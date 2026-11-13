@@ -1,0 +1,111 @@
+Python 3.14.4 · pasta C:\Users\silva\Downloads\GS_2TIAPR_2026_ERICK_LEO_LUNA\05_ENTREGAVEIS\PLN
+== etapa texto · 2026-11-08T15:37:06
+[M1] {"n_documentos_fonte": 4, "documentos": [{"doc_id": "D1", "fonte": "D1_Lei_15224_2025.htm", "formato": "html", "tipo": "fonte_oficial", "paginas": null, "bytes": 40986}, {"doc_id": "D2", "fonte": "D2_RDC_ANVISA_216_2004.html", "formato": "html", "tipo": "fonte_oficial", "paginas": null, "bytes": 53535}, {"doc_id": "D3", "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf", "formato": "pdf", "tipo": "fonte_oficial", "paginas": 113, "bytes": 3002587}, {"doc_id": "D4", "fonte": "D4_Guia_ANVISA_Boas_Praticas_Bancos_Alimentos.pdf", "formato": "pdf", "tipo": "fonte_oficial", "paginas": 33, "bytes": 830946}], "paginas_pdf": {"D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf": 113, "D4_Guia_ANVISA_Boas_Praticas_Bancos_Alimentos.pdf": 33}, "total_paginas_pdf": 146, "ok": true, "avisos": []}
+[M2] extraindo D1_Lei_15224_2025.htm (html)
+[M3] limpando D1_Lei_15224_2025.htm: 80 blocos extraídos
+[M4] normalizando D1_Lei_15224_2025.htm
+[M2] extraindo D2_RDC_ANVISA_216_2004.html (html)
+[M3] limpando D2_RDC_ANVISA_216_2004.html: 172 blocos extraídos
+[M4] normalizando D2_RDC_ANVISA_216_2004.html
+[M2] extraindo D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf (pdf)
+[M3] limpando D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf: 113 blocos extraídos
+[M4] normalizando D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf
+[M2] extraindo D4_Guia_ANVISA_Boas_Praticas_Bancos_Alimentos.pdf (pdf)
+[M3] limpando D4_Guia_ANVISA_Boas_Praticas_Bancos_Alimentos.pdf: 33 blocos extraídos
+[M4] normalizando D4_Guia_ANVISA_Boas_Praticas_Bancos_Alimentos.pdf
+[M5] vocabulário de palavras em minúscula dos documentos (filtro de falso positivo do NER): 4320
+[M5] anonimizando D1_Lei_15224_2025.htm: 77 parágrafos
+[M6] segmentando D1_Lei_15224_2025.htm
+[M5] anonimizando D2_RDC_ANVISA_216_2004.html: 174 parágrafos
+[M6] segmentando D2_RDC_ANVISA_216_2004.html
+[M5] anonimizando D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf: 851 parágrafos
+[M6] segmentando D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf
+[M5] anonimizando D4_Guia_ANVISA_Boas_Praticas_Bancos_Alimentos.pdf: 223 parágrafos
+[M6] segmentando D4_Guia_ANVISA_Boas_Praticas_Bancos_Alimentos.pdf
+[M7a] corpus_texto: 163 trechos gravados, 0 duplicatas removidas
+[resumo] D1_Lei_15224_2025.htm: blocos=80 parágrafos=77 tokens=3275 trechos=7 máscaras={'EMAIL': 0, 'CPF': 0, 'TELEFONE': 0, 'NOME': 1} preservação_M4=True ordem_palavras=True
+[resumo] D2_RDC_ANVISA_216_2004.html: blocos=172 parágrafos=174 tokens=10600 trechos=22 máscaras={'EMAIL': 0, 'CPF': 0, 'TELEFONE': 0, 'NOME': 3} preservação_M4=True ordem_palavras=True
+[resumo] D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf: blocos=113 parágrafos=851 tokens=49107 trechos=103 máscaras={'EMAIL': 0, 'CPF': 0, 'TELEFONE': 0, 'NOME': 57} preservação_M4=True ordem_palavras=True
+[resumo] D4_Guia_ANVISA_Boas_Praticas_Bancos_Alimentos.pdf: blocos=33 parágrafos=223 tokens=14677 trechos=31 máscaras={'EMAIL': 0, 'CPF': 0, 'TELEFONE': 0, 'NOME': 3} preservação_M4=True ordem_palavras=True
+[sha256 corpus_texto] {"C:\\Users\\silva\\Downloads\\GS_2TIAPR_2026_ERICK_LEO_LUNA\\05_ENTREGAVEIS\\PLN\\corpus": "61AA83580A180F88609CEC4D3D1A2D87A79B453A734669A11FB2AC2AE7391133", "C:\\Users\\silva\\Downloads\\GS_2TIAPR_2026_ERICK_LEO_LUNA\\05_ENTREGAVEIS\\PLN\\saidas": "61AA83580A180F88609CEC4D3D1A2D87A79B453A734669A11FB2AC2AE7391133"}
+[M8] texto: OK n=163 média_tokens=476.4 duplicatas=0
+      OK    uma linha = um objeto JSON — 163 linhas lidas com json.loads
+      OK    chaves exatamente ['fonte', 'text'] — 0 linhas fora do formato
+      OK    campo fonte preenchido — 0 linhas sem fonte
+      OK    todos os trechos com 256 a 512 tokens — 0 fora da faixa; mín 288, máx 512
+      OK    mínimo de 50 trechos — 163 trechos
+      OK    varredura de dados pessoais = 0 — {"EMAIL": 0, "CPF": 0, "TELEFONE": 0, "NOME": 0}
+[M8] qa: PENDENTE
+[M8] chat: PENDENTE
+[M8] OK    acentos, pontuação e maiúsculas preservados no M4 (todos os documentos)
+[M8] OK    sem stop words removidas e sem stemming: mesma sequência de palavras M5 -> trechos (§2.2)
+[M8] OK    nenhum módulo do NLTK (stemmer/lista de stop words) carregado
+[M8] OK    3 a 5 documentos-fonte e >= 20 páginas (só PDF)
+== etapa texto concluída em 31.2 s
+== etapa teste-formatos · 2026-11-08T15:37:38
+[teste-formatos] pdf: D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf (fonte_oficial) -> 113 blocos; 1º bloco pagina=1
+[teste-formatos] html: D1_Lei_15224_2025.htm (fonte_oficial) -> 80 blocos; 1º bloco secao=1
+[teste-formatos] txt: teste_SIMULADO.txt (teste_simulado) -> 8 blocos; 1º bloco secao=1
+[teste-formatos] docx: teste_SIMULADO.docx (teste_simulado) -> 12 blocos; 1º bloco secao=1
+[teste-formatos] colado: texto_colado_01 (texto_colado) -> 3 blocos; 1º bloco secao=1
+[teste-formatos] assinatura errada -> recusado: arquivo_falso_SIMULADO.pdf: extensão .pdf, mas o arquivo não começa com %PDF
+[M2] extraindo D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf (pdf)
+[M3] limpando D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf: 113 blocos extraídos
+[M4] normalizando D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf
+[M2] extraindo D1_Lei_15224_2025.htm (html)
+[M3] limpando D1_Lei_15224_2025.htm: 80 blocos extraídos
+[M4] normalizando D1_Lei_15224_2025.htm
+[M2] extraindo teste_SIMULADO.txt (txt)
+[M3] limpando teste_SIMULADO.txt: 8 blocos extraídos
+[M4] normalizando teste_SIMULADO.txt
+[M2] extraindo teste_SIMULADO.docx (docx)
+[M3] limpando teste_SIMULADO.docx: 12 blocos extraídos
+[M4] normalizando teste_SIMULADO.docx
+[M2] extraindo texto_colado_01 (colado)
+[M3] limpando texto_colado_01: 3 blocos extraídos
+[M4] normalizando texto_colado_01
+[M5] vocabulário de palavras em minúscula dos documentos (filtro de falso positivo do NER): 3701
+[M5] anonimizando D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf: 851 parágrafos
+[M6] segmentando D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf
+[M5] anonimizando D1_Lei_15224_2025.htm: 77 parágrafos
+[M6] segmentando D1_Lei_15224_2025.htm
+[M5] anonimizando teste_SIMULADO.txt: 7 parágrafos
+[M6] segmentando teste_SIMULADO.txt
+[M5] anonimizando teste_SIMULADO.docx: 11 parágrafos
+[M6] segmentando teste_SIMULADO.docx
+[M5] anonimizando texto_colado_01: 3 parágrafos
+[M6] segmentando texto_colado_01
+[M7a] corpus_texto: 111 trechos gravados, 0 duplicatas removidas
+[teste-formatos] D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf: máscaras={'EMAIL': 0, 'CPF': 0, 'TELEFONE': 0, 'NOME': 57} trechos=103 
+[teste-formatos] D1_Lei_15224_2025.htm: máscaras={'EMAIL': 0, 'CPF': 0, 'TELEFONE': 0, 'NOME': 1} trechos=7 
+[teste-formatos] teste_SIMULADO.txt: máscaras={'EMAIL': 1, 'CPF': 1, 'TELEFONE': 1, 'NOME': 1} trechos=0 documento com 243 tokens (< 256)
+[teste-formatos] teste_SIMULADO.docx: máscaras={'EMAIL': 2, 'CPF': 1, 'TELEFONE': 1, 'NOME': 1} trechos=1 
+[teste-formatos] texto_colado_01: máscaras={'EMAIL': 0, 'CPF': 0, 'TELEFONE': 0, 'NOME': 0} trechos=0 documento com 213 tokens (< 256)
+[teste-formatos] relatório: C:\Users\silva\Downloads\GS_2TIAPR_2026_ERICK_LEO_LUNA\05_ENTREGAVEIS\PLN\saidas\teste_formatos\teste_formatos.md
+== etapa teste-interface · 2026-11-08T15:38:00
+[interface] Entrada:
+| doc_id | fonte | formato | tipo | páginas | blocos | parágrafos | trechos |
+|---|---|---|---|---|---|---|---|
+| D1 | D1_Lei_15224_2025.htm | html | fonte_oficial | — | 80 | 77 | 7 |
+| U02 | teste_SIMULADO.docx | docx | teste_simulado | — | 12 | 11 | 1 |
+| C01 | texto_colado_01 | colado | texto_colado | — | 3 | 3 | 0 (descartado: documento com 213 tokens (< 256)) |
+
+Documentos-fonte: 1 · páginas de PDF: 0 · AVISO: há 1 documentos-fonte; o enunciado pede de 3 a 5; os PDFs somam 0 páginas; o enunciado pede pelo menos 20 no total
+[interface] Limpeza: **teste_SIMULADO.docx** · limpeza: `{"numeracao_pagina": 1, "url_solta": 1}` · máscaras: `{"EMAIL": 2, "CPF": 1, "TELEFONE": 1, "NOME": 1}` · acentos/pontuação/maiúsculas preservados: True
+[interface] Exemplo SIMULADO: ('Contato do doador: [NOME], CPF [CPF], e-mail [EMAIL], telefone [TELEFONE]. O lote de doação sai às 14h.', '{"EMAIL|regex_email": 1, "CPF|regex_cpf": 1, "TELEFONE|regex_telefone": 1, "NOME|ner_per": 1}')
+[interface] Corpus: corpus_texto.jsonl: 8 trechos (0 duplicatas removidas). Pasta: C:\Users\silva\Downloads\GS_2TIAPR_2026_ERICK_LEO_LUNA\05_ENTREGAVEIS\PLN\saidas\interface\2026-11-08_153801. corpus_qa e corpus_chat: PENDENTES (geração com IA no Colab + revisão humana).
+[interface] Qualidade: relatório com 85 linhas
+[interface] gr.Blocks construído sem launch(): Blocks
+[interface] pasta temporária do teste removida: C:\Users\silva\Downloads\GS_2TIAPR_2026_ERICK_LEO_LUNA\05_ENTREGAVEIS\PLN\saidas\interface\2026-11-08_153801
+== etapa teste-m7 (sem GPU; entradas SIMULADO de teste unitário) · 2026-11-08T15:38:03
+[teste-m7] OK    evidência literal aceita
+[teste-m7] OK    evidência ausente recusada
+[teste-m7] OK    afirmação 'é seguro para consumo' rejeitada
+[teste-m7] OK    termo do FOMEZERO ausente do trecho rejeitado
+[teste-m7] OK    item com evidência literal e sem problemas aprovado
+[teste-m7] OK    extrair_json com cerca ```json
+[teste-m7] OK    diálogo com menos de 2 trocas rejeitado
+[teste-m7] OK    deduplicação por pergunta repetida (8 -> 3, 5 removidas)
+[teste-m7] OK    sorteio de 25% arredondado para cima (8 -> 2)
+[teste-m7] OK    CSV de revisão com C1 a C7 e revisor preenchido
+[teste-m7] OK    aplicar_revisao bloqueia CSV não preenchido

@@ -1,0 +1,25 @@
+{
+ "qa": {
+  "candidatos": 172,
+  "rejeitados_filtro": 29,
+  "duplicatas_removidas": 0,
+  "base_ia": 143,
+  "na_revisao": 41,
+  "por_motivo": {
+   "sorteio_25pct_estratificado": 35,
+   "duvidoso": 6
+  }
+ },
+ "chat": {
+  "candidatos": 184,
+  "rejeitados_filtro": 123,
+  "duplicatas_removidas": 0,
+  "base_ia": 52,
+  "na_revisao": 29,
+  "por_motivo": {
+   "sorteio_25pct_estratificado": 9,
+   "duvidoso": 8,
+   "recusa_100pct": 12
+  }
+ }
+}

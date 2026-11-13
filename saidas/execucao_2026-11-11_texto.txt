@@ -1,0 +1,59 @@
+Python 3.14.4 · pasta C:\Users\silva\Downloads\GS_2TIAPR_2026_ERICK_LEO_LUNA\05_ENTREGAVEIS\PLN
+== etapa texto · 2026-11-11T11:22:21
+[M1] {"n_documentos_fonte": 4, "documentos": [{"doc_id": "D1", "fonte": "D1_Lei_15224_2025.htm", "formato": "html", "tipo": "fonte_oficial", "paginas": null, "bytes": 40986}, {"doc_id": "D2", "fonte": "D2_RDC_ANVISA_216_2004.html", "formato": "html", "tipo": "fonte_oficial", "paginas": null, "bytes": 53535}, {"doc_id": "D3", "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf", "formato": "pdf", "tipo": "fonte_oficial", "paginas": 113, "bytes": 3002587}, {"doc_id": "D4", "fonte": "D4_Guia_ANVISA_Boas_Praticas_Bancos_Alimentos.pdf", "formato": "pdf", "tipo": "fonte_oficial", "paginas": 33, "bytes": 830946}], "paginas_pdf": {"D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf": 113, "D4_Guia_ANVISA_Boas_Praticas_Bancos_Alimentos.pdf": 33}, "total_paginas_pdf": 146, "ok": true, "avisos": []}
+[M2] extraindo D1_Lei_15224_2025.htm (html)
+[M3] limpando D1_Lei_15224_2025.htm: 80 blocos extraídos
+[M4] normalizando D1_Lei_15224_2025.htm
+[M2] extraindo D2_RDC_ANVISA_216_2004.html (html)
+[M3] limpando D2_RDC_ANVISA_216_2004.html: 172 blocos extraídos
+[M4] normalizando D2_RDC_ANVISA_216_2004.html
+[M2] extraindo D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf (pdf)
+[M3] limpando D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf: 113 blocos extraídos
+[M4] normalizando D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf
+[M2] extraindo D4_Guia_ANVISA_Boas_Praticas_Bancos_Alimentos.pdf (pdf)
+[M3] limpando D4_Guia_ANVISA_Boas_Praticas_Bancos_Alimentos.pdf: 33 blocos extraídos
+[M4] normalizando D4_Guia_ANVISA_Boas_Praticas_Bancos_Alimentos.pdf
+[M5] vocabulário de palavras em minúscula dos documentos (filtro de falso positivo do NER): 4223
+[M5] anonimizando D1_Lei_15224_2025.htm: 77 parágrafos
+[M6] segmentando D1_Lei_15224_2025.htm
+[M5] anonimizando D2_RDC_ANVISA_216_2004.html: 174 parágrafos
+[M6] segmentando D2_RDC_ANVISA_216_2004.html
+[M5] anonimizando D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf: 751 parágrafos
+[M6] segmentando D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf
+[M5] anonimizando D4_Guia_ANVISA_Boas_Praticas_Bancos_Alimentos.pdf: 200 parágrafos
+[M6] segmentando D4_Guia_ANVISA_Boas_Praticas_Bancos_Alimentos.pdf
+[M7a] corpus_texto: 149 trechos gravados, 0 duplicatas removidas
+[resumo] D1_Lei_15224_2025.htm: blocos=80 parágrafos=77 tokens=3275 trechos=7 máscaras={'EMAIL': 0, 'CPF': 0, 'TELEFONE': 0, 'NOME': 1} preservação_M4=True ordem_palavras=True
+[resumo] D2_RDC_ANVISA_216_2004.html: blocos=172 parágrafos=174 tokens=10600 trechos=22 máscaras={'EMAIL': 0, 'CPF': 0, 'TELEFONE': 0, 'NOME': 3} preservação_M4=True ordem_palavras=True
+[resumo] D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf: blocos=113 parágrafos=751 tokens=44300 trechos=93 máscaras={'EMAIL': 0, 'CPF': 0, 'TELEFONE': 0, 'NOME': 35} preservação_M4=True ordem_palavras=True
+[resumo] D4_Guia_ANVISA_Boas_Praticas_Bancos_Alimentos.pdf: blocos=33 parágrafos=200 tokens=12908 trechos=27 máscaras={'EMAIL': 0, 'CPF': 0, 'TELEFONE': 0, 'NOME': 3} preservação_M4=True ordem_palavras=True
+[sha256 corpus_texto] {"C:\\Users\\silva\\Downloads\\GS_2TIAPR_2026_ERICK_LEO_LUNA\\05_ENTREGAVEIS\\PLN\\corpus": "547B287EE59CF8602FC78B4C4F5E62D5570CE2E3EACE0C7CFFDAF142329ABC86"}
+[M8] texto: OK n=149 média_tokens=477.1 duplicatas=0
+      OK    uma linha = um objeto JSON — 149 linhas lidas com json.loads
+      OK    chaves exatamente ['fonte', 'text'] — 0 linhas fora do formato
+      OK    campo fonte preenchido — 0 linhas sem fonte
+      OK    todos os trechos com 256 a 512 tokens — 0 fora da faixa; mín 313, máx 512
+      OK    mínimo de 50 trechos — 149 trechos
+      OK    sem URL, resto de URL nem lista de referências (DEC-017) — {"http": 0, "www.": 0, "?x=": 0, "_file.pdf": 0, "Disponível em:": 0}
+      OK    varredura de dados pessoais = 0 — {"EMAIL": 0, "CPF": 0, "TELEFONE": 0, "NOME": 0}
+[M8] qa: OK n=143 média_tokens=58.4 duplicatas=0
+      OK    uma linha = um objeto JSON — 143 linhas lidas com json.loads
+      OK    chaves exatamente ['fonte', 'input', 'instruction', 'output'] — 0 linhas fora do formato
+      OK    campo fonte preenchido — 0 linhas sem fonte
+      OK    input = "" (como no exemplo do enunciado) — 0 com input
+      OK    mínimo de 100 pares — 143 pares
+      OK    varredura de dados pessoais = 0 — {"EMAIL": 0, "CPF": 0, "TELEFONE": 0, "NOME": 0}
+[M8] chat: OK n=52 média_tokens=203.1 duplicatas=0
+      OK    uma linha = um objeto JSON — 52 linhas lidas com json.loads
+      OK    chaves exatamente ['fonte', 'messages'] — 0 linhas fora do formato
+      OK    campo fonte preenchido — 0 linhas sem fonte
+      OK    messages: system + user/assistant alternados — 0 diálogos fora do formato
+      OK    todos os diálogos com >= 2 trocas — 0 com menos de 2 trocas
+      OK    varredura de dados pessoais = 0 — {"EMAIL": 0, "CPF": 0, "TELEFONE": 0, "NOME": 0}
+      OK    mínimo de 10 recusas — 12 recusas
+      OK    mínimo de 30 diálogos com fonte documental (recusas fora da conta) — 40 diálogos
+[M8] OK    acentos, pontuação e maiúsculas preservados no M4 (todos os documentos)
+[M8] OK    sem stop words removidas e sem stemming: mesma sequência de palavras M5 -> trechos (§2.2)
+[M8] OK    nenhum módulo do NLTK (stemmer/lista de stop words) carregado
+[M8] OK    3 a 5 documentos-fonte e >= 20 páginas (só PDF)
+== etapa texto concluída em 107.0 s

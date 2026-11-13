@@ -1,0 +1,3191 @@
+{
+ "gerado_em": "2026-11-11T11:30:46",
+ "resumo_por_documento": {
+  "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf": {
+   "numeracao_pagina": 113,
+   "caracteres_estranhos": 233,
+   "secao_referencias": 203,
+   "secao_referencias_fim": 1,
+   "url_solta": 1,
+   "url_solta_linha": 1,
+   "linha_repetida_titulo_corrido": 15,
+   "hifenizacao_mantida": 1,
+   "hifenizacao_juntada": 2
+  },
+  "D1_Lei_15224_2025.htm": {
+   "bloco_institucional_html": 3
+  },
+  "teste_SIMULADO.txt": {
+   "numeracao_pagina": 1,
+   "url_solta": 1,
+   "linha_repetida_seguida": 1,
+   "hifenizacao_juntada": 1
+  },
+  "teste_SIMULADO.docx": {
+   "numeracao_pagina": 1,
+   "url_solta": 1
+  }
+ },
+ "entradas": [
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 1,
+   "secao": null,
+   "regra": "numeracao_pagina",
+   "removido": "10"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 2,
+   "secao": null,
+   "regra": "numeracao_pagina",
+   "removido": "2"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 3,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "pontilhado de sumário": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 3,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "pontilhado de sumário": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 3,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "pontilhado de sumário": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 3,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "pontilhado de sumário": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 3,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "pontilhado de sumário": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 3,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "pontilhado de sumário": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 3,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "pontilhado de sumário": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 3,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "pontilhado de sumário": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 3,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "pontilhado de sumário": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 3,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "pontilhado de sumário": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 3,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "pontilhado de sumário": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 3,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "pontilhado de sumário": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 3,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "pontilhado de sumário": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 3,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "pontilhado de sumário": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 3,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "pontilhado de sumário": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 3,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "pontilhado de sumário": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 3,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "pontilhado de sumário": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 3,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "pontilhado de sumário": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 3,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "pontilhado de sumário": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 3,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "pontilhado de sumário": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 3,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "pontilhado de sumário": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 3,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "pontilhado de sumário": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 3,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "pontilhado de sumário": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 3,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "pontilhado de sumário": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 3,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "pontilhado de sumário": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 3,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "pontilhado de sumário": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 3,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "pontilhado de sumário": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 3,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "pontilhado de sumário": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 3,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "pontilhado de sumário": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 3,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "pontilhado de sumário": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 3,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "pontilhado de sumário": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 3,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "pontilhado de sumário": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 3,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "pontilhado de sumário": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 3,
+   "secao": null,
+   "regra": "numeracao_pagina",
+   "removido": "3"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 4,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "pontilhado de sumário": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 4,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "pontilhado de sumário": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 4,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "pontilhado de sumário": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 4,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "pontilhado de sumário": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 4,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "pontilhado de sumário": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 4,
+   "secao": null,
+   "regra": "numeracao_pagina",
+   "removido": "4"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 5,
+   "secao": null,
+   "regra": "numeracao_pagina",
+   "removido": "5"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 6,
+   "secao": null,
+   "regra": "numeracao_pagina",
+   "removido": "6"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 7,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 7,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 7,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 7,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 7,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 7,
+   "secao": null,
+   "regra": "numeracao_pagina",
+   "removido": "7"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 8,
+   "secao": null,
+   "regra": "numeracao_pagina",
+   "removido": "8"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 9,
+   "secao": null,
+   "regra": "numeracao_pagina",
+   "removido": "9"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 10,
+   "secao": null,
+   "regra": "numeracao_pagina",
+   "removido": "10"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 11,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '✓'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 11,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '✓'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 11,
+   "secao": null,
+   "regra": "numeracao_pagina",
+   "removido": "11"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 12,
+   "secao": null,
+   "regra": "numeracao_pagina",
+   "removido": "12"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 13,
+   "secao": null,
+   "regra": "numeracao_pagina",
+   "removido": "13"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 14,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 14,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 14,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 14,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 14,
+   "secao": null,
+   "regra": "numeracao_pagina",
+   "removido": "14"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 15,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 15,
+   "secao": null,
+   "regra": "numeracao_pagina",
+   "removido": "15"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 16,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 16,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 16,
+   "secao": null,
+   "regra": "numeracao_pagina",
+   "removido": "16"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 17,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 17,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 17,
+   "secao": null,
+   "regra": "numeracao_pagina",
+   "removido": "17"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 18,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 18,
+   "secao": null,
+   "regra": "numeracao_pagina",
+   "removido": "18"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 19,
+   "secao": null,
+   "regra": "numeracao_pagina",
+   "removido": "19"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 20,
+   "secao": null,
+   "regra": "numeracao_pagina",
+   "removido": "20"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 21,
+   "secao": null,
+   "regra": "numeracao_pagina",
+   "removido": "21"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 22,
+   "secao": null,
+   "regra": "numeracao_pagina",
+   "removido": "22"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 23,
+   "secao": null,
+   "regra": "numeracao_pagina",
+   "removido": "23"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 24,
+   "secao": null,
+   "regra": "numeracao_pagina",
+   "removido": "24"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 25,
+   "secao": null,
+   "regra": "numeracao_pagina",
+   "removido": "25"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 26,
+   "secao": null,
+   "regra": "numeracao_pagina",
+   "removido": "26"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 27,
+   "secao": null,
+   "regra": "numeracao_pagina",
+   "removido": "27"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 28,
+   "secao": null,
+   "regra": "numeracao_pagina",
+   "removido": "28"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 29,
+   "secao": null,
+   "regra": "numeracao_pagina",
+   "removido": "29"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 30,
+   "secao": null,
+   "regra": "numeracao_pagina",
+   "removido": "30"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 31,
+   "secao": null,
+   "regra": "numeracao_pagina",
+   "removido": "31"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 32,
+   "secao": null,
+   "regra": "numeracao_pagina",
+   "removido": "32"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 33,
+   "secao": null,
+   "regra": "numeracao_pagina",
+   "removido": "33"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 34,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 34,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 34,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 34,
+   "secao": null,
+   "regra": "numeracao_pagina",
+   "removido": "34"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 35,
+   "secao": null,
+   "regra": "numeracao_pagina",
+   "removido": "35"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 36,
+   "secao": null,
+   "regra": "numeracao_pagina",
+   "removido": "36"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 37,
+   "secao": null,
+   "regra": "numeracao_pagina",
+   "removido": "37"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 38,
+   "secao": null,
+   "regra": "numeracao_pagina",
+   "removido": "38"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 39,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 39,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 39,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 39,
+   "secao": null,
+   "regra": "numeracao_pagina",
+   "removido": "39"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 40,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 40,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 40,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 40,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 40,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 40,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 40,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 40,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 40,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 40,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 40,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 40,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 40,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 40,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 40,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 40,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 40,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 40,
+   "secao": null,
+   "regra": "numeracao_pagina",
+   "removido": "40"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 41,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 41,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 41,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 41,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 41,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 41,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 41,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 41,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 41,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 41,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 41,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 41,
+   "secao": null,
+   "regra": "numeracao_pagina",
+   "removido": "41"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 42,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 42,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 42,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 42,
+   "secao": null,
+   "regra": "numeracao_pagina",
+   "removido": "42"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 43,
+   "secao": null,
+   "regra": "numeracao_pagina",
+   "removido": "43"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 44,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 44,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 44,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 44,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 44,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 44,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 44,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 44,
+   "secao": null,
+   "regra": "numeracao_pagina",
+   "removido": "44"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 45,
+   "secao": null,
+   "regra": "numeracao_pagina",
+   "removido": "45"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 46,
+   "secao": null,
+   "regra": "numeracao_pagina",
+   "removido": "46"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 47,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 47,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 47,
+   "secao": null,
+   "regra": "numeracao_pagina",
+   "removido": "47"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 48,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 48,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 48,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 48,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 48,
+   "secao": null,
+   "regra": "numeracao_pagina",
+   "removido": "48"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 49,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 49,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 49,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 49,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 49,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 49,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 49,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 49,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 49,
+   "secao": null,
+   "regra": "numeracao_pagina",
+   "removido": "49"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 50,
+   "secao": null,
+   "regra": "numeracao_pagina",
+   "removido": "50"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 51,
+   "secao": null,
+   "regra": "numeracao_pagina",
+   "removido": "51"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 52,
+   "secao": null,
+   "regra": "numeracao_pagina",
+   "removido": "52"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 53,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 53,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 53,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 53,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 53,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 53,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 53,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 53,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 53,
+   "secao": null,
+   "regra": "numeracao_pagina",
+   "removido": "53"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 54,
+   "secao": null,
+   "regra": "numeracao_pagina",
+   "removido": "54"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 55,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 55,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 55,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 55,
+   "secao": null,
+   "regra": "numeracao_pagina",
+   "removido": "55"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 56,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 56,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 56,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 56,
+   "secao": null,
+   "regra": "numeracao_pagina",
+   "removido": "56"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 57,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 57,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 57,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 57,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 57,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 57,
+   "secao": null,
+   "regra": "numeracao_pagina",
+   "removido": "57"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 58,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 58,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 58,
+   "secao": null,
+   "regra": "numeracao_pagina",
+   "removido": "58"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 59,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 59,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 59,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 59,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 59,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 59,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 59,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 59,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 59,
+   "secao": null,
+   "regra": "numeracao_pagina",
+   "removido": "59"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 60,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 60,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 60,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 60,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 60,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 60,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 60,
+   "secao": null,
+   "regra": "numeracao_pagina",
+   "removido": "60"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 61,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 61,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 61,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 61,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 61,
+   "secao": null,
+   "regra": "numeracao_pagina",
+   "removido": "61"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 62,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 62,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 62,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 62,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 62,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 62,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 62,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 62,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 62,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 62,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 62,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 62,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 62,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 62,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 62,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 62,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 62,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 62,
+   "secao": null,
+   "regra": "numeracao_pagina",
+   "removido": "62"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 63,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 63,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 63,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 63,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 63,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 63,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 63,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 63,
+   "secao": null,
+   "regra": "numeracao_pagina",
+   "removido": "63"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 64,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 64,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 64,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 64,
+   "secao": null,
+   "regra": "numeracao_pagina",
+   "removido": "64"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 65,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 65,
+   "secao": null,
+   "regra": "numeracao_pagina",
+   "removido": "65"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 66,
+   "secao": null,
+   "regra": "numeracao_pagina",
+   "removido": "66"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 67,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 67,
+   "secao": null,
+   "regra": "numeracao_pagina",
+   "removido": "67"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 68,
+   "secao": null,
+   "regra": "numeracao_pagina",
+   "removido": "68"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 69,
+   "secao": null,
+   "regra": "numeracao_pagina",
+   "removido": "69"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 70,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 70,
+   "secao": null,
+   "regra": "numeracao_pagina",
+   "removido": "70"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 71,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 71,
+   "secao": null,
+   "regra": "numeracao_pagina",
+   "removido": "71"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 72,
+   "secao": null,
+   "regra": "numeracao_pagina",
+   "removido": "72"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 73,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 73,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 73,
+   "secao": null,
+   "regra": "numeracao_pagina",
+   "removido": "73"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 74,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 74,
+   "secao": null,
+   "regra": "numeracao_pagina",
+   "removido": "74"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 75,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 75,
+   "secao": null,
+   "regra": "numeracao_pagina",
+   "removido": "75"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 76,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 76,
+   "secao": null,
+   "regra": "numeracao_pagina",
+   "removido": "76"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 77,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 77,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 77,
+   "secao": null,
+   "regra": "numeracao_pagina",
+   "removido": "77"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 78,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 78,
+   "secao": null,
+   "regra": "numeracao_pagina",
+   "removido": "78"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 79,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 79,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 79,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 79,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 79,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 79,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 79,
+   "secao": null,
+   "regra": "numeracao_pagina",
+   "removido": "79"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 80,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 80,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 80,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 80,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 80,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 80,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 80,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 80,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 80,
+   "secao": null,
+   "regra": "numeracao_pagina",
+   "removido": "80"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 81,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 81,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 81,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 81,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 81,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 81,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 81,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 81,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 81,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 81,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 81,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 81,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 81,
+   "secao": null,
+   "regra": "numeracao_pagina",
+   "removido": "81"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 82,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 82,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 82,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 82,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 82,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 82,
+   "secao": null,
+   "regra": "numeracao_pagina",
+   "removido": "82"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 83,
+   "secao": null,
+   "regra": "numeracao_pagina",
+   "removido": "83"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 84,
+   "secao": null,
+   "regra": "numeracao_pagina",
+   "removido": "84"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 85,
+   "secao": null,
+   "regra": "numeracao_pagina",
+   "removido": "85"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 86,
+   "secao": null,
+   "regra": "numeracao_pagina",
+   "removido": "86"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 87,
+   "secao": null,
+   "regra": "numeracao_pagina",
+   "removido": "87"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 88,
+   "secao": null,
+   "regra": "numeracao_pagina",
+   "removido": "88"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 89,
+   "secao": null,
+   "regra": "numeracao_pagina",
+   "removido": "89"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 90,
+   "secao": null,
+   "regra": "numeracao_pagina",
+   "removido": "90"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 91,
+   "secao": null,
+   "regra": "numeracao_pagina",
+   "removido": "91"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 92,
+   "secao": null,
+   "regra": "numeracao_pagina",
+   "removido": "92"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 93,
+   "secao": null,
+   "regra": "numeracao_pagina",
+   "removido": "93"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 94,
+   "secao": null,
+   "regra": "numeracao_pagina",
+   "removido": "94"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 95,
+   "secao": null,
+   "regra": "numeracao_pagina",
+   "removido": "95"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 96,
+   "secao": null,
+   "regra": "numeracao_pagina",
+   "removido": "96"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 97,
+   "secao": null,
+   "regra": "numeracao_pagina",
+   "removido": "97"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 98,
+   "secao": null,
+   "regra": "numeracao_pagina",
+   "removido": "98"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 99,
+   "secao": null,
+   "regra": "numeracao_pagina",
+   "removido": "99"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 100,
+   "secao": null,
+   "regra": "numeracao_pagina",
+   "removido": "100"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 101,
+   "secao": null,
+   "regra": "numeracao_pagina",
+   "removido": "101"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 102,
+   "secao": null,
+   "regra": "numeracao_pagina",
+   "removido": "102"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 103,
+   "secao": null,
+   "regra": "numeracao_pagina",
+   "removido": "103"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 104,
+   "secao": null,
+   "regra": "numeracao_pagina",
+   "removido": "104"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 105,
+   "secao": null,
+   "regra": "numeracao_pagina",
+   "removido": "105"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 106,
+   "secao": null,
+   "regra": "numeracao_pagina",
+   "removido": "106"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 107,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 107,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 107,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 107,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 107,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 107,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 107,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 107,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 107,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 107,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 107,
+   "secao": null,
+   "regra": "caracteres_estranhos",
+   "removido": {
+    "marcador '•'": 1
+   }
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 107,
+   "secao": null,
+   "regra": "numeracao_pagina",
+   "removido": "107"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 108,
+   "secao": null,
+   "regra": "numeracao_pagina",
+   "removido": "11"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 109,
+   "secao": null,
+   "regra": "numeracao_pagina",
+   "removido": "109"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 110,
+   "secao": null,
+   "regra": "numeracao_pagina",
+   "removido": "110"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 111,
+   "secao": null,
+   "regra": "numeracao_pagina",
+   "removido": "111"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 112,
+   "secao": null,
+   "regra": "numeracao_pagina",
+   "removido": "112"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 113,
+   "secao": null,
+   "regra": "numeracao_pagina",
+   "removido": "113"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 88,
+   "secao": null,
+   "regra": "secao_referencias",
+   "removido": "11 REFERÊNCIAS BIBLIOGRÁFICAS\nAGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA. Cartilha Semana do Peixe. Disponível em:\nhttps://www.gov.br/anvisa/pt-br/centraisdeconteudo/publicacoes/alimentos/manuais-guias-e-\norientacoes/cartilha-semana-do-peixe.pdf/view Acesso em: 13 de agosto de 2022.\nAGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA. Guia para determinação de prazos de validade\nde alimentos, 2018. Disponível em:\nhttp://antigo.anvisa.gov.br/documents/10181/5056443/Guia+16_2018+prorrogacao+prazo.pdf/\n13a19f5f-94f8-4430-9548-6d43278ffb62 Acesso em: 13 de agosto de 2022.\nAGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA. Gerência-Geral de Inspeção e Fiscalização\nSanitária. Relatório de Análise de Impacto Regulatório: doação de alimentos com segurança\nsanitária. Brasília, 2022. Disponível em: https://www.gov.br/anvisa/pt-\nbr/assuntos/regulamentacao/air/analises-de-impacto-regulatorio/2022/arquivos-relatorios-de-\nair/relatorio_de_air___doacao_de_alimentos_____versao_final.pdf Acesso em: 13 de agosto de\n2022.",
+   "linhas": 14
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 89,
+   "secao": null,
+   "regra": "secao_referencias",
+   "removido": "ARGENTINA. Plano Nacional de Redução de Perdas e Resíduos Alimentares nº 27454, de 18 de\noutubro de 2018. Disponível em: https://argentinambiental.com/legislacion/nacional/ley-27454-\nplan-nacional-reduccion-perdidas-desperdicios-alimentos/ Acesso em: 31 de maio de 2021.\nASSOCIAÇÃO BRASILEIRA DE BARES E RESTAURANTES. Cartilha: Saiba como fazer corretamente -\nDoação de alimentos por bares e restaurantes. 1ª versão, 2021. Disponível\nem:https://redeabrasel.abrasel.com.br/upload/files/2021/03/WwdaYuaeHGKEYSt6HnAw_12_bd\nee51790cc2494dd4d60ce68546a710_file.pdf?_ga=2.206686611.1269596485.1650301229-\n2096584067.1648643718 Acesso em: 13 de agosto de 2022.\nBRASIL. Decreto Lei nº 986, de 21 de outubro de 1969. Institui normas básicas sobre alimentos.\nBrasília, 1969. Disponível em: http://www.planalto.gov.br/ccivil_03/decreto-\nlei/del0986.htm#:~:text=Del986&text=DECRETO%2DLEI%20N%C2%BA%20986%2C%20DE,Institui\n%20normas%20b%C3%A1sicas%20sobre%20alimentos.&text=Art%201%C2%BA%20A%20defesa\n%20e,pelas%20disposi%C3%A7%C3%B5es%20d%C3%AAste%20Decreto%2Dlei. Acesso em: 27\nago. 2021.\nBRASIL. Lei nº 8.078, de 11 de setembro de 1990. Dispõe sobre a proteção do consumidor e dá\noutras providências. Brasília, 1990.\nBRASIL. Ministério da Saúde. Secretaria de Vigilância Sanitária. Portaria MS nº 326, de 30 de julho\nde 1997. Aprova o Regulamento Técnico Condições Higiênicos-Sanitárias e de Boas Práticas de\nFabricação para Estabelecimentos Produtores/Industrializadores de Alimentos. Diário Oficial da\nUnião. Brasília, 1997a. Disponível em:\nhttps://bvsms.saude.gov.br/bvs/saudelegis/svs1/1997/prt0326_30_07_1997.html. Acesso em:\n27 ago. 2021.\nBRASIL. Ministério da Agricultura, Pecuária e Abastecimento. Portaria nº 368, de 4 de setembro\nde 1997. Aprova o Regulamento Técnico sobre as Condições Higiênico-Sanitárias e de Boas\nPráticas de Fabricação para Estabelecimentos Elaboradores/Industrializadores de Alimentos.\nDiário Oficial da União. 1997 b. Disponível em: https://www.gov.br/agricultura/pt-\nbr/assuntos/inspecao/produtos-animal/empresario/Portaria_368.1997.pdf/view. Acesso em: 18\nabr. 2022.\nBRASIL. Ministério da Saúde. Portaria nº 2.051, de 8 de novembro de 2001. Disponível em:\nhttps://bvsms.saude.gov.br/bvs/saudelegis/gm/2001/prt2051_08_11_2001.html Acesso em: 31\nde maio de 2022.\nBRASIL. Ministério da Saúde. Resolução RDC nº 221, de 5 de agosto de 2002. Disponível em:\nhttps://bvsms.saude.gov.br/bvs/saudelegis/anvisa/2002/res0221_05_08_2002.html Acesso em:\n31 de maio de 2022.\nBRASIL. Ministério da Saúde. Resolução RDC nº 222, de 5 de agosto de 2002. Disponível em:\nhttps://bvsms.saude.gov.br/bvs/saudelegis/anvisa/2002/res0222_05_08_2002.html Acesso em:\n31 de maio de 2022.",
+   "linhas": 37
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 90,
+   "secao": null,
+   "regra": "secao_referencias",
+   "removido": "BRASIL. Resolução RDC nº 259, de 20 de setembro de 2002. Diário Oficial da União, 2002.\nBRASIL. Resolução RDC nº 275, de 21 de outubro de 2002. A Diretoria Colegiada da ANVISA/MS\naprova regulamento técnico de procedimentos padronizados aplicados aos estabelecimentos\nprodutores/industrializadores de alimentos e a lista de verificação de boas práticas de fabricação\nem estabelecimentos produtores/industrializadores de alimentos. Diário Oficial da União.\nEdição: 226, Seção 1, 23 de out. 2002.\nBRASIL. Ministério da Saúde. Agência Nacional de Vigilância Sanitária. Resolução RDC nº 216, de\n15 de setembro de 2004. Estabelece procedimentos de Boas Práticas para serviço de\nalimentação, garantindo as condições higiênico-sanitárias do alimento preparado. Diário Oficial\nda República Federativa do Brasil, Brasília, 2004.\nBRASIL. Ministério da Saúde. Agência Nacional de Vigilância Sanitária. Resolução RDC nº 218, de\n29 de julho de 2005. Brasília, 2005.\nBRASIL. Lei nº 11.265, de 3 de janeiro de 2006. Regulamenta a comercialização de alimentos\npara lactentes e crianças de primeira infância e também a de produtos de puericultura\ncorrelatos. Diário Oficial da União, 4 jan., p1., 2006.\nBRASIL. Lei nº 11.346, de 15 de setembro de 2006. Cria o Sistema Nacional de Segurança\nAlimentar e Nutricional – SISAN com vistas em assegurar o direito humano à alimentação\nadequada e dá outras providências.\nBRASIL. Decreto nº 6.268, de 22 de novembro de 2007.\nRegulamenta a Lei no 9.972, de 25 de maio de 2000, que institui a classificação de produtos\nvegetais, seus subprodutos e resíduos de valor econômico, e dá outras providências. Brasília,\n2007. Disponível em: http://www.planalto.gov.br/ccivil_03/_ato2007-\n2010/2007/decreto/d6268.htm Acesso em: 20 de julho de 2022.\nBRASIL. Emenda Constitucional nº 64, de 4 de fevereiro de 2010. Altera o art. 6º da Constituição\nFederal, para introduzir a alimentação como direito social. Brasília, 2010.\nBRASIL. Ministério da Saúde. Secretaria de Atenção à Saúde. Departamento de Atenção Básica.\nGuia alimentar para a população brasileira. 2ed, 1 reimpr. Brasília, 2014.\nBRASIL. Decreto nº 9.013, de 29 de março de 2017. Regulamenta a Lei nº 1.283, de 18 de\ndezembro de 1950, e a Lei nº 7.889, de 23 de novembro de 1989, que dispõem sobre a inspeção\nindustrial e sanitária de produtos de origem animal. Disponível em:\nhttp://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/decreto/d9013.htm Acesso em: 31\nde maio de 2021.",
+   "linhas": 32
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 91,
+   "secao": null,
+   "regra": "secao_referencias",
+   "removido": "BRASIL. Instrução normativa nº 1, de 15 de maio de 2017. Dispõe sobre a adesão dos Bancos de\nAlimentos à Rede Brasileira de Bancos de Alimentos. Diário Oficial da União, Edição: 104, Seção:\n1, pg. 50, 1 jun 2017.\nBRASIL. Decreto nº 9.579, de 22 de novembro de 2019. Consolida atos normativos editados pelo\nPoder Executivo federal que dispõem sobre a temática do lactente, da criança e do adolescente e\ndo aprendiz, e sobre o Conselho Nacional dos Direitos da Criança e do Adolescente, o Fundo\nNacional para a Criança e o Adolescente e os programas federais da criança e do adolescente, e\ndá outras providências. Disponível em: http://www.planalto.gov.br/ccivil_03/_ato2015-\n2018/2018/decreto/D9579.htm Acesso em: 31 de maio de 2021.\nBRASIL. Ministério do Desenvolvimento Social. Guia de avaliação de alimentos doados aos\nBancos de Alimentos. Brasília, DF, 2018.\nBRASIL. Lei nº 14.016, de 23 de junho de 2020. Dispõe sobre o combate ao desperdício de\nalimentos e a doação de excedentes de alimentos para o consumo humano. Diário Oficial da\nUnião, Edição: 119, Seção: 1, p. 2, 24 jun. 2020 a.\nBRASIL. RIISPOA 2020. Decreto nº 9.013, de 29 de março de 2017 alterado pelo Decreto nº\n9.069, de 31 de maio de 2017 e pelo Decreto nº 10.468, de 18 de agosto de 2020. Brasília, DF,\n2020 b. Disponível em: https://wp.ufpel.edu.br/inspleite/files/2020/10/RIISPOA-ALTERADO-E-\nATUALIZADO-2020.pdf Acesso em: 31 de maio de 2021.\nBRASIL. Ministério da Agricultura, Pecuária e Abastecimento. Instrução Normativa nº 23, de 25\nde março de 2020. Diário Oficial da União, Edição: 59, Seção: 1, p.3, 26 março. 2020 c.\nBRASIL. Ministério da Cidadania. Secretaria Especial do Desenvolvimento Social. Secretaria\nNacional de Inclusão Social e Produtiva. Guia Operacional de Gestão para Banco de Alimentos.\n1 ed, Brasília, 2020.\nBRASIL. Ministério da Cidadania. Portaria nº 708, de 11 de novembro de 2021. Aprova o Manual\nOperacional de Doações destinadas ao Programa de Segurança Alimentar e Nutricional e dispõe\nsobre Selos de Reconhecimento destinados a doadores de alimentos. Diário Oficial da União,\nEdição: nº 213, Seção: 1, p. 35, 2021 a. Disponível em: https://www.in.gov.br/en/web/dou/-\n/portaria-n-708-de-11-de-novembro-de-2021-359412649 Acesso em: 18 abr. 2022.\nBRASIL. Ministério da Cidadania. Manual Operacional de Doações destinadas ao Programa de\nSegurança Alimentar e Nutricional, 2021 b. Disponível em: https://www.gov.br/cidadania/pt-\nbr/acoes-e-programas/inclusao-produtiva-rural/comida-no-\nprato/ManualOperacionaldeDoaes.pdf Acesso em: 23 abr. 2022.\nBRASIL. Agência Nacional de Vigilância Sanitária. Guia De Boas Práticas para Bancos de\nAlimentos. Brasília, DF, versão 2, 2021 c. Disponível em:\nhttp://antigo.anvisa.gov.br/documents/10181/5321364/%281%29Guia+de+boas+pr%C3%A1tica\ns+para+bancos+de+alimentos_novo+modeo+GGREG+15.01.21.pdf/bfe829a0-a989-4a9b-abea-\ndb91929bd861 Acesso em: 23 abr. 2022.",
+   "linhas": 37
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 92,
+   "secao": null,
+   "regra": "secao_referencias",
+   "removido": "BRASIL. Ministério da Cidadania. Certificação de Entidades Beneficentes de Assistência Social.\nDisponível em: https://www.gov.br/pt-br/servicos/certificar-se-como-entidade-beneficente-de-\nassistencia-social Acesso em: 11 de julho de 2022.\nCAMPINAS. Departamento de Segurança Alimentar e Nutricional. Banco Municipal de Alimentos.\nSecretaria de Assistência Social e Segurança Sanitária. CEASA Campinas, Cartilha: Como doar\nalimentos. Disponível em:https://www.campinas.sp.gov.br/arquivos/assistencia-social-\nseguranca-alimentar/doar_alimentos.pdf Acesso em: 18 abr. 2022\nCOLOMBIA. Lei nº 1990 de 2 de agosto de 2019. Política contra Perda e Desperdício de\nAlimentos. Disponível em: http://www.andi.com.co/Uploads/Ley-2019-N0001990_20190802.pdf\nAcesso em: 31 de maio de 2021.\n[NOME]; [NOME]; [NOME]; [NOME]; [NOME]; [NOME];\n[NOME]; [NOME]; [NOME]; [NOME] Food safety of food services\nwithin the destinations of the 2014 FIFA World Cup in Brazil: Development and reliability\nassessment of the official evaluation instrument. Food Research International. v.57, p.95 - 103,\n2014.\nEPA - United States Environmental Protection. Food Recovery Hierarchy. 2021. Disponível em:\nhttps://www.epa.gov/sustainable-management-food/food-recovery-hierarchy. Acesso em: 12\nset. 2021.\n[NOME] Manual de Controle Higiênico-Sanitário em Serviços de Alimentação. [NOME],\n8ºEd,2020.\nFRANÇA. Lei nº 138, de 11 de fevereiro de 2016. Relativa ao combate ao desperdício\nalimentar. Diário Oficial da República Francesa, 2016. Disponível em:\nhttps://www.legifrance.gouv.fr/jorf/id/JORFTEXT000032036289/ Acesso em: 18 abr. 2022.\nFOOD AND AGRICULTURE ORGANIZATION OF THE UNITED NATIONS, 2020. Food Security and\nNutrition around the world in 2020. Executive Summary Disponível em:\nhttps://www.fao.org/3/ca9692en/online/ca9692en.html#chapter-executive_summary Acesso\nem: 30 maio de 2022.\nINSTITUTO ADOLFO LUTZ. Métodos físico-químicos para análise de alimentos., São Paulo:\nInstituto Adolfo Lutz. 4º ed., p.507 Disponível\nem:http://www.crq4.org.br/sms/files/file/analisedealimentosial_2008.pdf Acesso em:\n13 de outubro de 2022.\nOSASCO. Banco de Alimentos de Osasco. Cartilha sobre doação de alimentos: orientações aos\ndoadores, 2021. Disponível em:\nhttps://www.facebook.com/111438763676909/photos/pb.100064567583259.-\n2207520000../395452541942195/?type=3 Acesso em: 18 mar 2022.",
+   "linhas": 35
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 93,
+   "secao": null,
+   "regra": "secao_referencias",
+   "removido": "OSASCO. Banco de Alimentos de Osasco. Cartilha doação de alimentos – orientações aos\ndoadores, 2021.\nDisponível em: https://www.facebook.com/111438763676909/photos/pb.100064567583259.-\n2207520000../529154865238628/?type=3 Acesso em: 18 mar 2022.\nPORTO ALEGRE. Cartilha de orientações para doação de alimentos - Lei federal 14.016/2020.\nEstado do Rio Grande do Sul, Porto Alegre, 2020. Disponível em:\nhttps://igualdade.rs.gov.br/upload/arquivos/202010/16180603-cartilha-de-orientacoes-para-\ndoacao-de-alimentos.pdf Acesso em: 13 de agosto de 2022.\nPORTUGAL. Estratégia Nacional e Plano de Ação de Combate ao Desperdício de Alimentos. 1º\nsérie, nº 82, 27 de abril de 2018. Disponível em:\nhttps://www.cncda.gov.pt/images/Estrategia/ENCDA_Atualizao-Out2018_EN.pdf Acesso em: 31\nde maio de 2021.\nREDE BRASILEIRA DE PESQUISA EM SOBERANIA E SEGURANÇA ALIMENTAR E NUTRICIONAL.\nVIGISAN: Inquérito Nacional sobre Insegurança Alimentar no Contexto da Pandemia da Covid -\n19 no Brasil, 2021. Disponível em:\nhttp://olheparaafome.com.br/VIGISAN_Inseguranca_alimentar.pdf Acesso em: 24 abril 2022.\nREDE BRASILEIRA DE PESQUISA EM SOBERANIA E SEGURANÇA ALIMENTAR E NUTRICIONAL. II\nVIGISAN: Inquérito Nacional sobre Insegurança Alimentar no Contexto da Pandemia da Covid -\n19 no Brasil, 2022. Disponível em: https://olheparaafome.com.br/wp-\ncontent/uploads/2022/06/Relatorio-II-VIGISAN-2022.pdf Acesso em: 13 jun. 2022.\nRIBEIRÃO PRETO. Conselho Municipal de Segurança Alimentar e Nutricional de Ribeirão Preto.\nCartilha de orientações para a doação de alimentos. Estado de São Paulo, Ribeirão Preto, 2021.\nDisponível em: https://www.ribeiraopreto.sp.gov.br/portal/pdf/comsean02202105.pdf Acesso\nem: 18 abr. 2022.\nRIO GRANDE DO SUL. Portaria nº 78, de 28 de janeiro de 2009. Aprova a Lista de Verificação em\nBoas Práticas para Serviços de Alimentação, aprova Normas para Cursos de Capacitação em Boas\nPráticas para Serviços de Alimentação e dá outras providências, Porto Alegre, 2009.\nROMÊNIA. Lei nº 217, de 2016. Sobre a redução do desperdício de alimentos. Diário Oficial da\nUnião, Edição: nº 21, parte 1, 2016. Disponível em: https://lege5.ro/Gratuit/geztknjtha3q/legea-\nnr-217-2016-privind-diminuarea-risipei-alimentare?d=2022-03-18 Acesso em: 18 abr. 2022.\n[NOME]F; [NOME] Alimentação coletiva no dia a dia. Rio de Janeiro, Rubio, 1ª Ed.,\n464p., 2021.",
+   "linhas": 32
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 94,
+   "secao": null,
+   "regra": "secao_referencias",
+   "removido": "SÃO PAULO. Secretaria de Estado da Saúde. Portaria CVS 5, de 09 de abril de 2013. Aprova o\nregulamento técnico sobre boas práticas para estabelecimentos comerciais de alimentos e para\nserviçis de alimentação, e o roteiro de inspeção, anexo. Poder executivo. Seção: I, pg, 32-35.\nSÃO PAULO. Secretaria de Municipal da Saúde. Portaria 2619, de 6 de dezembro de 2011.\nDisponível em:\nhttps://www.prefeitura.sp.gov.br/cidade/secretarias/upload/chamadas/portaria_2619_1323696\n514.pdf\n[NOME]; [NOME]; [NOME]; [NOME]; [NOME]; [NOME];\n[NOME]; [NOME] Semi-quantitative and qualitative assessment for\ndetermination of sanitary risk in food services establishments. In: [NOME]; [NOME] Food\nSafety and Protection. Boca Raton: CRC Press, 2017, p. 1-28.\nTHE GLOBAL FOODBANKING NETWORK. Advancing the Sustainable Development Goals:\nROADMAP TO 2030, 2020. Disponível em:\nhttps://www.foodbanking.org/stateofglobalfoodbanking/advancing-the-sdgs.html. Acesso em:\n31 de maio de 2021.\nWORLD HEALTH ORGANIZATION. World health statistics 2015. World Health Organization, 2015.",
+   "linhas": 16
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 95,
+   "secao": null,
+   "regra": "secao_referencias_fim",
+   "removido": "ANEXO I – Imagens demonstrativas das falhas e alterações na integridade dos",
+   "inicio_pagina": 88,
+   "titulo": "11 REFERÊNCIAS BIBLIOGRÁFICAS"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 2,
+   "secao": null,
+   "regra": "url_solta",
+   "removido": "https://pesquisa.anvisa.gov.br/index.php/577264?lang=pt-BR"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 2,
+   "secao": null,
+   "regra": "url_solta_linha",
+   "removido": "."
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 2,
+   "secao": null,
+   "regra": "linha_repetida_titulo_corrido",
+   "removido": "Guia para Doação de Alimentos com Segurança Sanitária"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 3,
+   "secao": null,
+   "regra": "linha_repetida_titulo_corrido",
+   "removido": "Guia para Doação de Alimentos com Segurança Sanitária"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 3,
+   "secao": null,
+   "regra": "linha_repetida_titulo_corrido",
+   "removido": "Guia nº 57/2022 – versão 1, de 07/11/2022"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 4,
+   "secao": null,
+   "regra": "linha_repetida_titulo_corrido",
+   "removido": "Guia para Doação de Alimentos com Segurança Sanitária"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 4,
+   "secao": null,
+   "regra": "linha_repetida_titulo_corrido",
+   "removido": "Guia nº 57/2022 – versão 1, de 07/11/2022"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 5,
+   "secao": null,
+   "regra": "linha_repetida_titulo_corrido",
+   "removido": "Guia para Doação de Alimentos com Segurança Sanitária"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 5,
+   "secao": null,
+   "regra": "linha_repetida_titulo_corrido",
+   "removido": "Guia nº 57/2022 – versão 1, de 07/11/2022"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 6,
+   "secao": null,
+   "regra": "linha_repetida_titulo_corrido",
+   "removido": "Guia para Doação de Alimentos com Segurança Sanitária"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 6,
+   "secao": null,
+   "regra": "linha_repetida_titulo_corrido",
+   "removido": "Guia nº 57/2022 – versão 1, de 07/11/2022"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 7,
+   "secao": null,
+   "regra": "linha_repetida_titulo_corrido",
+   "removido": "Guia para Doação de Alimentos com Segurança Sanitária"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 7,
+   "secao": null,
+   "regra": "linha_repetida_titulo_corrido",
+   "removido": "Guia nº 57/2022 – versão 1, de 07/11/2022"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 8,
+   "secao": null,
+   "regra": "linha_repetida_titulo_corrido",
+   "removido": "Guia para Doação de Alimentos com Segurança Sanitária"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 8,
+   "secao": null,
+   "regra": "linha_repetida_titulo_corrido",
+   "removido": "Guia nº 57/2022 – versão 1, de 07/11/2022"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 9,
+   "secao": null,
+   "regra": "linha_repetida_titulo_corrido",
+   "removido": "Guia para Doação de Alimentos com Segurança Sanitária"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 9,
+   "secao": null,
+   "regra": "linha_repetida_titulo_corrido",
+   "removido": "Guia nº 57/2022 – versão 1, de 07/11/2022"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 48,
+   "secao": null,
+   "regra": "hifenizacao_mantida",
+   "removido": "Sugere-|se",
+   "resultado": "Sugere-se"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 63,
+   "secao": null,
+   "regra": "hifenizacao_juntada",
+   "removido": "pós-|tratamento",
+   "resultado": "póstratamento"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina": 107,
+   "secao": null,
+   "regra": "hifenizacao_juntada",
+   "removido": "vermelho-|cereja",
+   "resultado": "vermelhocereja"
+  },
+  {
+   "fonte": "D1_Lei_15224_2025.htm",
+   "pagina": null,
+   "secao": 1,
+   "regra": "bloco_institucional_html",
+   "removido": "Presidência da República\nCasa Civil\nSecretaria Especial para Assuntos Jurídicos"
+  },
+  {
+   "fonte": "D1_Lei_15224_2025.htm",
+   "pagina": null,
+   "secao": 3,
+   "regra": "bloco_institucional_html",
+   "removido": "Mensagem de veto"
+  },
+  {
+   "fonte": "D1_Lei_15224_2025.htm",
+   "pagina": null,
+   "secao": 80,
+   "regra": "bloco_institucional_html",
+   "removido": "Este texto não substitui o publicado no DOU de 1º.10.2025."
+  },
+  {
+   "fonte": "teste_SIMULADO.txt",
+   "pagina": null,
+   "secao": 7,
+   "regra": "numeracao_pagina",
+   "removido": "Página 1 de 1"
+  },
+  {
+   "fonte": "teste_SIMULADO.txt",
+   "pagina": null,
+   "secao": 5,
+   "regra": "url_solta",
+   "removido": "https://www.example.com/teste-SIMULADO"
+  },
+  {
+   "fonte": "teste_SIMULADO.txt",
+   "pagina": null,
+   "secao": 6,
+   "regra": "linha_repetida_seguida",
+   "removido": "Linha repetida SIMULADO"
+  },
+  {
+   "fonte": "teste_SIMULADO.txt",
+   "pagina": null,
+   "secao": 4,
+   "regra": "hifenizacao_juntada",
+   "removido": "conser-|vação",
+   "resultado": "conservação"
+  },
+  {
+   "fonte": "teste_SIMULADO.docx",
+   "pagina": null,
+   "secao": 7,
+   "regra": "numeracao_pagina",
+   "removido": "Página 1 de 1"
+  },
+  {
+   "fonte": "teste_SIMULADO.docx",
+   "pagina": null,
+   "secao": 5,
+   "regra": "url_solta",
+   "removido": "https://www.example.com/teste-SIMULADO"
+  }
+ ]
+}

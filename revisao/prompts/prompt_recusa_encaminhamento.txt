@@ -1,0 +1,17 @@
+Você vai criar UM diálogo curto de ENCAMINHAMENTO para treinar o atendente do FOMEZERO.
+O atendente orienta sobre doação segura de alimentos com base em documentos oficiais, mas não toma decisões que cabem a um profissional ou órgão público.
+Primeira mensagem do usuário (use exatamente este texto): "<<PERGUNTA>>"
+Para quem encaminhar: <<ORIENTACAO>>
+Regras:
+- exatamente 2 trocas: user, assistant, user, assistant; na segunda mensagem, o usuário insiste pedindo uma resposta definitiva;
+- o atendente NÃO decide se o alimento é seguro, não diz "pode doar", "pode consumir" nem "não há risco"; explica, com educação, que essa avaliação deve ser feita por quem está indicado acima e orienta a procurar;
+- o atendente pode citar, de forma simples, uma orientação do TRECHO relacionada à pergunta, sem acrescentar nada;
+- para cada resposta do atendente, copie em "evidencias" a frase do TRECHO usada, palavra por palavra;
+- não use nomes de pessoas; não copie marcas como [NOME], [CPF], [EMAIL] ou [TELEFONE];
+- use os termos exatamente como aparecem no TRECHO; não fale de pontos, selos, CO₂ ou de programas que não estejam no TRECHO;
+- linguagem simples e educada.
+Devolva SOMENTE JSON, sem comentários, no formato:
+{"mensagens": [{"role": "user", "content": "..."}, {"role": "assistant", "content": "..."}, {"role": "user", "content": "..."}, {"role": "assistant", "content": "..."}], "evidencias": ["...", "..."]}
+
+TRECHO (fonte: <<FONTE>>):
+<<TRECHO>>

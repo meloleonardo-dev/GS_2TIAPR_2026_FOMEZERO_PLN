@@ -1,0 +1,517 @@
+{
+ "gerado_em": "2026-11-11T11:23:54",
+ "corpus_texto": {
+  "candidatos": 149,
+  "gravados": 149,
+  "duplicatas_removidas": 0
+ },
+ "verificacao_documentos": {
+  "n_documentos_fonte": 4,
+  "documentos": [
+   {
+    "doc_id": "D1",
+    "fonte": "D1_Lei_15224_2025.htm",
+    "formato": "html",
+    "tipo": "fonte_oficial",
+    "paginas": null,
+    "bytes": 40986
+   },
+   {
+    "doc_id": "D2",
+    "fonte": "D2_RDC_ANVISA_216_2004.html",
+    "formato": "html",
+    "tipo": "fonte_oficial",
+    "paginas": null,
+    "bytes": 53535
+   },
+   {
+    "doc_id": "D3",
+    "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+    "formato": "pdf",
+    "tipo": "fonte_oficial",
+    "paginas": 113,
+    "bytes": 3002587
+   },
+   {
+    "doc_id": "D4",
+    "fonte": "D4_Guia_ANVISA_Boas_Praticas_Bancos_Alimentos.pdf",
+    "formato": "pdf",
+    "tipo": "fonte_oficial",
+    "paginas": 33,
+    "bytes": 830946
+   }
+  ],
+  "paginas_pdf": {
+   "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf": 113,
+   "D4_Guia_ANVISA_Boas_Praticas_Bancos_Alimentos.pdf": 33
+  },
+  "total_paginas_pdf": 146,
+  "ok": true,
+  "avisos": []
+ },
+ "por_documento": {
+  "D1_Lei_15224_2025.htm": {
+   "doc_id": "D1",
+   "formato": "html",
+   "tipo": "fonte_oficial",
+   "paginas": null,
+   "avisos": [
+    "codificação cp1252 (detecção (pontuação de letras do português))"
+   ],
+   "extrator_pdf": null,
+   "n_blocos_extraidos": 80,
+   "n_blocos_limpos": 77,
+   "n_paragrafos": 77,
+   "caracteres_extraidos": 11754,
+   "caracteres_finais": 11450,
+   "limpeza": {
+    "bloco_institucional_html": 3
+   },
+   "teste_preservacao_m4": {
+    "antes": {
+     "acentuadas": 440,
+     "maiusculas": 539,
+     "pontuacao": 327
+    },
+    "depois": {
+     "acentuadas": 440,
+     "maiusculas": 539,
+     "pontuacao": 327
+    },
+    "unioes_entre_paginas": 0,
+    "hifens_juntados_entre_paginas": 0,
+    "preservado": true
+   },
+   "anonimizacao": {
+    "EMAIL": 0,
+    "CPF": 0,
+    "TELEFONE": 0,
+    "NOME": 1
+   },
+   "segmentacao": {
+    "fonte": "D1_Lei_15224_2025.htm",
+    "descartado": false,
+    "tokens_documento": 3275,
+    "n_trechos": 7,
+    "fora_da_faixa": 0,
+    "excecoes": []
+   },
+   "teste_ordem_palavras": {
+    "palavras_texto_anonimizado": 1789,
+    "palavras_nos_trechos": 1789,
+    "mesma_sequencia": true
+   },
+   "palavras_funcao": {
+    "M2_extraido": {
+     "de": 187,
+     "a": 57,
+     "o": 32,
+     "que": 25,
+     "e": 85,
+     "do": 17,
+     "da": 39,
+     "em": 12,
+     "um": 0,
+     "para": 20,
+     "com": 9,
+     "não": 4,
+     "os": 20,
+     "as": 12,
+     "no": 9,
+     "na": 11
+    },
+    "M5_anonimizado": {
+     "de": 184,
+     "a": 57,
+     "o": 31,
+     "que": 25,
+     "e": 85,
+     "do": 17,
+     "da": 37,
+     "em": 12,
+     "um": 0,
+     "para": 19,
+     "com": 9,
+     "não": 3,
+     "os": 20,
+     "as": 12,
+     "no": 8,
+     "na": 11
+    },
+    "M6_trechos": {
+     "de": 184,
+     "a": 57,
+     "o": 31,
+     "que": 25,
+     "e": 85,
+     "do": 17,
+     "da": 37,
+     "em": 12,
+     "um": 0,
+     "para": 19,
+     "com": 9,
+     "não": 3,
+     "os": 20,
+     "as": 12,
+     "no": 8,
+     "na": 11
+    }
+   }
+  },
+  "D2_RDC_ANVISA_216_2004.html": {
+   "doc_id": "D2",
+   "formato": "html",
+   "tipo": "fonte_oficial",
+   "paginas": null,
+   "avisos": [
+    "codificação cp1252 (declarada no arquivo)"
+   ],
+   "extrator_pdf": null,
+   "n_blocos_extraidos": 172,
+   "n_blocos_limpos": 168,
+   "n_paragrafos": 174,
+   "caracteres_extraidos": 37471,
+   "caracteres_finais": 37232,
+   "limpeza": {
+    "bloco_institucional_html": 4
+   },
+   "teste_preservacao_m4": {
+    "antes": {
+     "acentuadas": 1413,
+     "maiusculas": 1410,
+     "pontuacao": 1027
+    },
+    "depois": {
+     "acentuadas": 1413,
+     "maiusculas": 1410,
+     "pontuacao": 1027
+    },
+    "unioes_entre_paginas": 0,
+    "hifens_juntados_entre_paginas": 0,
+    "preservado": true
+   },
+   "anonimizacao": {
+    "EMAIL": 0,
+    "CPF": 0,
+    "TELEFONE": 0,
+    "NOME": 3
+   },
+   "segmentacao": {
+    "fonte": "D2_RDC_ANVISA_216_2004.html",
+    "descartado": false,
+    "tokens_documento": 10600,
+    "n_trechos": 22,
+    "fora_da_faixa": 0,
+    "excecoes": []
+   },
+   "teste_ordem_palavras": {
+    "palavras_texto_anonimizado": 5697,
+    "palavras_nos_trechos": 5697,
+    "mesma_sequencia": true
+   },
+   "palavras_funcao": {
+    "M2_extraido": {
+     "de": 398,
+     "a": 163,
+     "o": 88,
+     "que": 54,
+     "e": 263,
+     "do": 74,
+     "da": 58,
+     "em": 75,
+     "um": 7,
+     "para": 62,
+     "com": 26,
+     "não": 33,
+     "os": 96,
+     "as": 70,
+     "no": 20,
+     "na": 25
+    },
+    "M5_anonimizado": {
+     "de": 396,
+     "a": 163,
+     "o": 87,
+     "que": 54,
+     "e": 263,
+     "do": 74,
+     "da": 55,
+     "em": 75,
+     "um": 7,
+     "para": 62,
+     "com": 26,
+     "não": 32,
+     "os": 96,
+     "as": 70,
+     "no": 19,
+     "na": 25
+    },
+    "M6_trechos": {
+     "de": 396,
+     "a": 163,
+     "o": 87,
+     "que": 54,
+     "e": 263,
+     "do": 74,
+     "da": 55,
+     "em": 75,
+     "um": 7,
+     "para": 62,
+     "com": 26,
+     "não": 32,
+     "os": 96,
+     "as": 70,
+     "no": 19,
+     "na": 25
+    }
+   }
+  },
+  "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf": {
+   "doc_id": "D3",
+   "formato": "pdf",
+   "tipo": "fonte_oficial",
+   "paginas": 113,
+   "avisos": [],
+   "extrator_pdf": {
+    "pdfplumber": 113
+   },
+   "n_blocos_extraidos": 113,
+   "n_blocos_limpos": 106,
+   "n_paragrafos": 751,
+   "caracteres_extraidos": 182184,
+   "caracteres_finais": 162141,
+   "limpeza": {
+    "numeracao_pagina": 113,
+    "caracteres_estranhos": 233,
+    "secao_referencias": 203,
+    "secao_referencias_fim": 1,
+    "url_solta": 1,
+    "url_solta_linha": 1,
+    "linha_repetida_titulo_corrido": 15,
+    "hifenizacao_mantida": 1,
+    "hifenizacao_juntada": 2
+   },
+   "teste_preservacao_m4": {
+    "antes": {
+     "acentuadas": 5908,
+     "maiusculas": 4385,
+     "pontuacao": 5125
+    },
+    "depois": {
+     "acentuadas": 5908,
+     "maiusculas": 4385,
+     "pontuacao": 5125
+    },
+    "unioes_entre_paginas": 14,
+    "hifens_juntados_entre_paginas": 0,
+    "preservado": true
+   },
+   "anonimizacao": {
+    "EMAIL": 0,
+    "CPF": 0,
+    "TELEFONE": 0,
+    "NOME": 35
+   },
+   "segmentacao": {
+    "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+    "descartado": false,
+    "tokens_documento": 44300,
+    "n_trechos": 93,
+    "fora_da_faixa": 0,
+    "excecoes": []
+   },
+   "teste_ordem_palavras": {
+    "palavras_texto_anonimizado": 24206,
+    "palavras_nos_trechos": 24206,
+    "mesma_sequencia": true
+   },
+   "palavras_funcao": {
+    "M2_extraido": {
+     "de": 1791,
+     "a": 752,
+     "o": 463,
+     "que": 436,
+     "e": 968,
+     "do": 311,
+     "da": 272,
+     "em": 341,
+     "um": 63,
+     "para": 454,
+     "com": 213,
+     "não": 190,
+     "os": 248,
+     "as": 233,
+     "no": 179,
+     "na": 128
+    },
+    "M5_anonimizado": {
+     "de": 1520,
+     "a": 717,
+     "o": 449,
+     "que": 433,
+     "e": 914,
+     "do": 295,
+     "da": 234,
+     "em": 265,
+     "um": 63,
+     "para": 425,
+     "com": 196,
+     "não": 190,
+     "os": 247,
+     "as": 231,
+     "no": 172,
+     "na": 128
+    },
+    "M6_trechos": {
+     "de": 1520,
+     "a": 717,
+     "o": 449,
+     "que": 433,
+     "e": 914,
+     "do": 295,
+     "da": 234,
+     "em": 265,
+     "um": 63,
+     "para": 425,
+     "com": 196,
+     "não": 190,
+     "os": 247,
+     "as": 231,
+     "no": 172,
+     "na": 128
+    }
+   }
+  },
+  "D4_Guia_ANVISA_Boas_Praticas_Bancos_Alimentos.pdf": {
+   "doc_id": "D4",
+   "formato": "pdf",
+   "tipo": "fonte_oficial",
+   "paginas": 33,
+   "avisos": [],
+   "extrator_pdf": {
+    "pdfplumber": 33
+   },
+   "n_blocos_extraidos": 33,
+   "n_blocos_limpos": 30,
+   "n_paragrafos": 200,
+   "caracteres_extraidos": 57253,
+   "caracteres_finais": 48068,
+   "limpeza": {
+    "texto_vertical_diagramacao": 3,
+    "numeracao_pagina": 32,
+    "caracteres_estranhos": 60,
+    "cabecalho_pdf": 32,
+    "secao_referencias": 77,
+    "url_solta": 4,
+    "url_solta_linha": 1,
+    "resto_url_continuacao": 2,
+    "hifenizacao_mantida": 4
+   },
+   "teste_preservacao_m4": {
+    "antes": {
+     "acentuadas": 1715,
+     "maiusculas": 1620,
+     "pontuacao": 1200
+    },
+    "depois": {
+     "acentuadas": 1715,
+     "maiusculas": 1620,
+     "pontuacao": 1200
+    },
+    "unioes_entre_paginas": 6,
+    "hifens_juntados_entre_paginas": 0,
+    "preservado": true
+   },
+   "anonimizacao": {
+    "EMAIL": 0,
+    "CPF": 0,
+    "TELEFONE": 0,
+    "NOME": 3
+   },
+   "segmentacao": {
+    "fonte": "D4_Guia_ANVISA_Boas_Praticas_Bancos_Alimentos.pdf",
+    "descartado": false,
+    "tokens_documento": 12908,
+    "n_trechos": 27,
+    "fora_da_faixa": 0,
+    "excecoes": []
+   },
+   "teste_ordem_palavras": {
+    "palavras_texto_anonimizado": 7097,
+    "palavras_nos_trechos": 7097,
+    "mesma_sequencia": true
+   },
+   "palavras_funcao": {
+    "M2_extraido": {
+     "de": 786,
+     "a": 203,
+     "o": 133,
+     "que": 122,
+     "e": 306,
+     "do": 93,
+     "da": 72,
+     "em": 79,
+     "um": 36,
+     "para": 137,
+     "com": 68,
+     "não": 35,
+     "os": 81,
+     "as": 73,
+     "no": 45,
+     "na": 35
+    },
+    "M5_anonimizado": {
+     "de": 577,
+     "a": 193,
+     "o": 114,
+     "que": 121,
+     "e": 290,
+     "do": 90,
+     "da": 51,
+     "em": 71,
+     "um": 35,
+     "para": 124,
+     "com": 66,
+     "não": 35,
+     "os": 80,
+     "as": 71,
+     "no": 45,
+     "na": 33
+    },
+    "M6_trechos": {
+     "de": 577,
+     "a": 193,
+     "o": 114,
+     "que": 121,
+     "e": 290,
+     "do": 90,
+     "da": 51,
+     "em": 71,
+     "um": 35,
+     "para": 124,
+     "com": 66,
+     "não": 35,
+     "os": 80,
+     "as": 71,
+     "no": 45,
+     "na": 33
+    }
+   }
+  }
+ },
+ "varredura_pre_gravacao": {},
+ "modulos_nltk_carregados": [],
+ "sha256_corpus_texto": {
+  "C:\\Users\\silva\\Downloads\\GS_2TIAPR_2026_ERICK_LEO_LUNA\\05_ENTREGAVEIS\\PLN\\corpus": "547B287EE59CF8602FC78B4C4F5E62D5570CE2E3EACE0C7CFFDAF142329ABC86"
+ },
+ "exemplo_anonimizacao": {
+  "antes_SIMULADO": "Contato do doador: Maria Fictícia da Silva, CPF 123.456.789-00, e-mail maria.ficticia@example.com, telefone (11) 90000-0000. O lote de doação sai às 14h.",
+  "depois": "Contato do doador: [NOME], CPF [CPF], e-mail [EMAIL], telefone [TELEFONE]. O lote de doação sai às 14h.",
+  "ocorrencias": {
+   "EMAIL|regex_email": 1,
+   "CPF|regex_cpf": 1,
+   "TELEFONE|regex_telefone": 1,
+   "NOME|ner_per": 1
+  }
+ }
+}

@@ -1,0 +1,298 @@
+{
+ "gerado_em": "2026-11-11T11:30:46",
+ "observacao": "o log não guarda o dado original; só tipo, regra, local e o texto já mascarado",
+ "contagem_por_documento": {
+  "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf": {
+   "EMAIL": 0,
+   "CPF": 0,
+   "TELEFONE": 0,
+   "NOME": 35
+  },
+  "D1_Lei_15224_2025.htm": {
+   "EMAIL": 0,
+   "CPF": 0,
+   "TELEFONE": 0,
+   "NOME": 1
+  },
+  "teste_SIMULADO.txt": {
+   "EMAIL": 1,
+   "CPF": 1,
+   "TELEFONE": 1,
+   "NOME": 1
+  },
+  "teste_SIMULADO.docx": {
+   "EMAIL": 2,
+   "CPF": 1,
+   "TELEFONE": 1,
+   "NOME": 1
+  },
+  "texto_colado_01": {
+   "EMAIL": 0,
+   "CPF": 0,
+   "TELEFONE": 0,
+   "NOME": 0
+  }
+ },
+ "varredura_pre_gravacao": {},
+ "entradas": [
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina_inicial": 6,
+   "secao": null,
+   "ocorrencias": {
+    "NOME|autor_et_al": 1
+   },
+   "texto_mascarado": "No Brasil, os dados de fome e de insegurança alimentar são preocupantes. De acordo com o inquérito realizado pela Rede Brasileira de Pesquisa em Soberania e Segurança Alimentar e Nutricional (Rede PENSSAN), em 2020, 19 milhões de brasileiros passaram fome em algum momento (REDE BRASILEIRA DE PESQUIS"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina_inicial": 23,
+   "secao": null,
+   "ocorrencias": {
+    "NOME|autor_et_al": 1
+   },
+   "texto_mascarado": "De maneira geral, o risco sanitário é a probabilidade de uma atividade, serviço ou substância produzirem efeitos prejudiciais à saúde humana, e leva em conta também os aspectos sociais, políticos, econômicos, ambientais e culturais ([NOME], et al., 2017). O risco sanitário considera as expressões \"a"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina_inicial": 24,
+   "secao": null,
+   "ocorrencias": {
+    "NOME|autor_et_al": 1
+   },
+   "texto_mascarado": "Já se conhecem mais de 200 tipos de DTHA (BRASIL, 2005; [NOME] et al., 2010; WHO, 2015) É essencial garantir a adequada manipulação dos alimentos para minimizar o risco de DTHA. Comumente, os beneficiários são pessoas, famílias ou grupos em situação de vulnerabilidade social ou de risco de inseguran"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina_inicial": 24,
+   "secao": null,
+   "ocorrencias": {
+    "NOME|autor_et_al": 1
+   },
+   "texto_mascarado": "Para aplicar as Boas Práticas na manipulação dos alimentos, sob a perspectiva do risco sanitário, precisa-se entender as principais causas das DTHA, e em quais situações podem acontecer. Descreve-se a seguir, em ordem de ocorrência, as principais causas das DTHA no Brasil (DA [NOME] et al., 2014). −"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina_inicial": 25,
+   "secao": null,
+   "ocorrencias": {
+    "NOME|autor_et_al": 1
+   },
+   "texto_mascarado": "Fonte: Elaboração Própria Nota: No caso de falhas associadas à higienização de frutas e hortaliças, não há dados epidemiológicos referente às DTHA. Entretanto, há dados sobre a eficiência do processo de higienização de frutas e hortaliças na eliminação e/ou redução dos microrganismos patogênicos ([N"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina_inicial": 37,
+   "secao": null,
+   "ocorrencias": {
+    "NOME|ner_per": 1
+   },
+   "texto_mascarado": "Fonte: Ilustração de [NOME] Para os alimentos congelados, avalia-se a temperatura da superfície do alimento. Não é necessário romper as embalagens, quando presente. Nesse caso, é recomendável encostar um produto no outro e dispor o termômetro entre os produtos até a estabilização da temperatura."
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina_inicial": 50,
+   "secao": null,
+   "ocorrencias": {
+    "NOME|ner_per": 1
+   },
+   "texto_mascarado": "Classificação Tipo de alimento Características Carnes bovinas Vermelhas, com consistência firme e sem escurecimento Carnes de aves Consistência firme, odor e cor característicos Peixes Carne firme e sem odor forte de amônia Ovos Limpos e íntegros (livres de trincas e rachaduras) Hortaliças folhosas,"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina_inicial": 55,
+   "secao": null,
+   "ocorrencias": {
+    "NOME|ner_per": 1
+   },
+   "texto_mascarado": "Primeiro que Vence, Primeiro que Doa; ou Primeiro que Entra, Primeiro que Doa; ou Primeiro que [NOME], Primeiro que Doa."
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina_inicial": 62,
+   "secao": null,
+   "ocorrencias": {
+    "NOME|ner_per": 1
+   },
+   "texto_mascarado": "[NOME] a saída de água da caixa d'água."
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina_inicial": 62,
+   "secao": null,
+   "ocorrencias": {
+    "NOME|ner_per": 1
+   },
+   "texto_mascarado": "[NOME] a saída de água."
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina_inicial": 63,
+   "secao": null,
+   "ocorrencias": {
+    "NOME|ner_per": 1
+   },
+   "texto_mascarado": "Para a coleta de resíduos (lixo), recomenda-se o uso de recipientes (lixeiras/coletores) identificados e íntegros, de fácil higienização e transporte, em número e capacidade suficientes para conter os resíduos produzidos. A identificação das lixeiras em Lixo Seco e [NOME] ajuda na coleta seletiva, b"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina_inicial": 75,
+   "secao": null,
+   "ocorrencias": {
+    "NOME|ner_per": 1
+   },
+   "texto_mascarado": "65°C por 15 minutos (temperatura no centro geométrico do alimento). ([NOME], 2020)."
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina_inicial": 82,
+   "secao": null,
+   "ocorrencias": {
+    "NOME|coautor_citacao_ano": 1,
+    "NOME|ner_per": 1
+   },
+   "texto_mascarado": "Para auxiliar os locais contemplados no escopo da RDC nº 216/2004 a elaborar as documentações comprobatórias em Boas Práticas, planilhas de controle e os cartazes ou instruções de trabalho, disponibilizou-se roteiros destes materiais levando em consideração a legislação sanitária para serviços de al"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina_inicial": 95,
+   "secao": null,
+   "ocorrencias": {
+    "NOME|ner_per": 4
+   },
+   "texto_mascarado": "Alimento Característica Orientações Murcho Rejeitar Cor amarelada Rejeitar Hortaliças folhosas, Bolor Rejeitar talos e inflorescências(A) Cor verde Aceitar Tamanho inferior ou superior ao padrão [NOME] [NOME] (é possível dobrar) Rejeitar Hortaliças, raízes, Presença de podridão Rejeitar bulbos, rizo"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina_inicial": 100,
+   "secao": null,
+   "ocorrencias": {
+    "NOME|ner_per": 2
+   },
+   "texto_mascarado": "Alimento Exemplo fotográfico Característica Orientações Presença de Macarrão Rejeitar insetos [NOME] de fresca de Rejeitar bolor/mofo pastel Fonte: Arquivo pessoal de [NOME]"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina_inicial": 101,
+   "secao": null,
+   "ocorrencias": {
+    "NOME|ner_per": 2
+   },
+   "texto_mascarado": "Continuação Alimento Exemplo fotográfico Característica Orientações Farinha Presença de Rejeitar de trigo \"teia\" Arroz Presença de Rejeitar embalado insetos Presença de Feijão broca/Caruncho/ Rejeitar gorgulho Fonte: Arquivo pessoal de [NOME] e [NOME]"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina_inicial": 102,
+   "secao": null,
+   "ocorrencias": {
+    "NOME|ner_per": 2
+   },
+   "texto_mascarado": "Alimento Exemplo fotográfico Característica Orientações Leite de procedência irregular, em garrafas Leite Rejeitar reutilizadas e sem identificação de origem Aspectos sensoriais Rejeitar ruins Requeijão Estufamento Rejeitar Queijos Coloração e textura com indicativo de coliformes Rejeitar Fonte: Arq"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina_inicial": 103,
+   "secao": null,
+   "ocorrencias": {
+    "NOME|ner_per": 1
+   },
+   "texto_mascarado": "Continuação Exemplo fotográfico Alimento Característica Orientações Presença de bolor Rejeitar Contaminação alta Presença de bolor Rejeitar Contaminação alta Queijos Queijo apresenta olhaduras, com Rejeitar penetração de fungos [NOME] com olhaduras."
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina_inicial": 103,
+   "secao": null,
+   "ocorrencias": {
+    "NOME|ner_per": 1
+   },
+   "texto_mascarado": "Neste caso o fungo Rejeitar consegue penetrar Fonte: Arquivo pessoal de [NOME]"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina_inicial": 104,
+   "secao": null,
+   "ocorrencias": {
+    "NOME|ner_per": 1
+   },
+   "texto_mascarado": "Alimento Exemplo fotográfico Característica Orientações Casca trincada e Ovos Rejeitar quebrada Fonte: Arquivo pessoal de [NOME] para avaliação dos aspectos referentes a integridade de carnes:"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina_inicial": 104,
+   "secao": null,
+   "ocorrencias": {
+    "NOME|ner_per": 2
+   },
+   "texto_mascarado": "Alimento Exemplo fotográfico Característica Orientações Carne embalada com Rejeitar presença de sangue Carne bovina Aparência e textura fora das características Rejeitar esperadas para carnes bovinas Fonte: Arquivo pessoal de [NOME] e [NOME]"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina_inicial": 105,
+   "secao": null,
+   "ocorrencias": {
+    "NOME|ner_per": 3
+   },
+   "texto_mascarado": "Alimento Exemplo fotográfico Orientações Característica Aparência indesejável Rejeitar (Cor marrom escuro) Carne bovina Contaminação visível por [NOME] (chamado também de \"pipoquinha\") Procedência duvidosa (sem registro no serviço Peixes Rejeitar de inspeção na rotulagem) Fonte: Arquivo pessoal de ["
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina_inicial": 106,
+   "secao": null,
+   "ocorrencias": {
+    "NOME|ner_per": 2
+   },
+   "texto_mascarado": "Alimento Exemplo fotográfico Característica Orientações Presença de Carne suína contaminação visível Rejeitar (Erisipela em suíno) Carne mal [NOME] acondicionada Fonte: Arquivo pessoal de [NOME]"
+  },
+  {
+   "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+   "pagina_inicial": 107,
+   "secao": null,
+   "ocorrencias": {
+    "NOME|ner_per": 1
+   },
+   "texto_mascarado": "Crustáceos •Com a cor própria da espécie e não apresentar cor alaranjada ou negra na carapaça [NOME] •Frescos, só podem ser vendidos vivos."
+  },
+  {
+   "fonte": "D1_Lei_15224_2025.htm",
+   "pagina_inicial": null,
+   "secao": 79,
+   "ocorrencias": {
+    "NOME|assinatura_planalto": 1
+   },
+   "texto_mascarado": "[NOME]"
+  },
+  {
+   "fonte": "teste_SIMULADO.txt",
+   "pagina_inicial": null,
+   "secao": 3,
+   "ocorrencias": {
+    "EMAIL|regex_email": 1,
+    "CPF|regex_cpf": 1,
+    "TELEFONE|regex_telefone": 1,
+    "NOME|ner_per": 1
+   },
+   "texto_mascarado": "Cadastro SIMULADO de um lote de doação: o doador fictício [NOME], CPF [CPF], e-mail [EMAIL], telefone [TELEFONE], registrou um lote de doação fictício para uma cozinha comunitária fictícia."
+  },
+  {
+   "fonte": "teste_SIMULADO.docx",
+   "pagina_inicial": null,
+   "secao": 3,
+   "ocorrencias": {
+    "EMAIL|regex_email": 1,
+    "CPF|regex_cpf": 1,
+    "TELEFONE|regex_telefone": 1,
+    "NOME|ner_per": 1
+   },
+   "texto_mascarado": "Cadastro SIMULADO de um lote de doação: o doador fictício [NOME], CPF [CPF], e-mail [EMAIL], telefone [TELEFONE], registrou um lote de doação fictício para uma cozinha comunitária fictícia."
+  },
+  {
+   "fonte": "teste_SIMULADO.docx",
+   "pagina_inicial": null,
+   "secao": 12,
+   "ocorrencias": {
+    "EMAIL|regex_email": 1
+   },
+   "texto_mascarado": "João Exemplo Fictício, [EMAIL]"
+  }
+ ]
+}

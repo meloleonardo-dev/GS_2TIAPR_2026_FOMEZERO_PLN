@@ -1,0 +1,204 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<title>Relatório PLN FOMEZERO</title>
+<style>
+  @page { size: A4; margin: 16mm 17mm 16mm 17mm; }
+  body { font-family: Arial, Helvetica, sans-serif; font-size: 10pt; line-height: 1.38; color: #111; margin: 0; }
+  h1 { font-size: 15pt; margin: 0 0 2pt 0; }
+  h2 { font-size: 11.5pt; margin: 11pt 0 4pt 0; border-bottom: 1px solid #999; padding-bottom: 1pt; }
+  h3 { font-size: 10.3pt; margin: 8pt 0 3pt 0; }
+  p { margin: 0 0 5pt 0; text-align: justify; }
+  ul { margin: 0 0 5pt 0; padding-left: 16pt; }
+  li { margin-bottom: 2pt; }
+  table { border-collapse: collapse; width: 100%; margin: 3pt 0 7pt 0; font-size: 8.8pt; }
+  th, td { border: 1px solid #aaa; padding: 2.5pt 4pt; vertical-align: top; text-align: left; }
+  th { background: #e9e9e9; }
+  .id { font-size: 9pt; color: #333; margin-bottom: 6pt; }
+  .caixa { border: 1px solid #aaa; background: #f6f6f6; padding: 5pt 7pt; margin: 4pt 0 7pt 0; font-size: 9pt; }
+  code { font-family: Consolas, "Courier New", monospace; font-size: 8.6pt; }
+  .peq { font-size: 8.6pt; text-align: left; }
+  .quebra { page-break-before: always; }
+  pre.prompt { font-family: Consolas, "Courier New", monospace; font-size: 7.6pt; line-height: 1.25; white-space: pre-wrap; border: 1px solid #ccc; background: #fafafa; padding: 4pt 6pt; margin: 2pt 0 6pt 0; }
+</style>
+</head>
+<body>
+
+<h1>Fábrica de Corpus FOMEZERO: doação segura de alimentos</h1>
+<div class="id">
+Global Solution 2026.2 · FIAP · Tecnólogo em Inteligência Artificial · Turma 2TIAPR<br>
+Processamento de Linguagem Natural, Chatbots &amp; Virtual Agents<br>
+Erick Miguel (RM 564896) · Leonardo Melo (RM 567097) · Luna Oliveira (RM 564215) · novembro de 2026
+</div>
+
+<h2>1. Problema, persona e ODS</h2>
+<p>O FOMEZERO é a solução do grupo para um problema de cidadania: estabelecimentos jogam fora alimentos em boas condições enquanto ONGs, cozinhas comunitárias e famílias em situação de vulnerabilidade passam necessidade. A plataforma liga doadores a beneficiários e acompanha cada lote de doação até a entrega. Esta parte do projeto cuida da linguagem: transforma documentos oficiais sobre doação de alimentos em três corpus prontos para treinar e avaliar o atendente virtual do FOMEZERO.</p>
+<div class="caixa"><b>Persona (fictícia).</b> Dona Cida, 52 anos, tem uma padaria de bairro. Todo fim de tarde sobram pães e salgados. Ela gostaria de doar, mas não sabe se pode, como embalar e transportar, por quanto tempo o alimento aguenta fora da geladeira e se pode ser responsabilizada se alguém passar mal. Na dúvida, joga fora. Ela precisa de respostas simples, tiradas das regras oficiais, e de alguém que diga com clareza quando a decisão cabe à vigilância sanitária.</div>
+<p>O projeto apoia três Objetivos de Desenvolvimento Sustentável, conforme a redação da ONU Brasil:</p>
+<ul>
+<li><b>ODS 2, Fome zero e agricultura sustentável:</b> "Erradicar a fome, alcançar a segurança alimentar, melhorar a nutrição e promover a agricultura sustentável". A meta 2.1 fala em garantir o acesso de todas as pessoas, em especial as vulneráveis, a alimentos seguros, nutritivos e suficientes. Doar o excedente com segurança é um caminho direto para isso.</li>
+<li><b>ODS 12, Consumo e produção responsáveis:</b> "Assegurar padrões de produção e de consumo sustentáveis". A meta 12.3 começa com "Até 2030, reduzir pela metade o desperdício de alimentos per capita mundial" e inclui reduzir as perdas ao longo das cadeias de produção e abastecimento. É a meta mais direta do FOMEZERO: cada lote de doação é alimento que deixa de ser desperdiçado.</li>
+<li><b>ODS 13, Ação contra a mudança global do clima:</b> "Adotar medidas urgentes para combater as alterações climáticas e os seus impactos". Segundo o Índice de Desperdício de Alimentos 2024 do PNUMA, a perda e o desperdício de alimentos geraram de 8% a 10% das emissões globais de gases de efeito estufa. Cada lote doado em vez de descartado reduz essa conta. A meta 13.3, de aumentar a conscientização sobre mitigação, também se liga ao papel educativo do atendente.</li>
+</ul>
+
+<h2>2. Fontes</h2>
+<p>Escolhemos quatro documentos oficiais e atuais, todos ligados à doação de alimentos ou às boas práticas de manipulação. Juntos somam 146 páginas de PDF (o mínimo é 20). Os arquivos foram guardados sem alteração, com hash SHA-256 registrado no manifesto do repositório.</p>
+<table>
+<tr><th>ID</th><th>Documento</th><th>Órgão</th><th>Formato</th><th>Por que entrou</th></tr>
+<tr><td>D1</td><td>Lei nº 15.224, de 30/09/2025 (Política Nacional de Combate à Perda e ao Desperdício de Alimentos; Selo Doador de Alimentos)</td><td>Presidência da República</td><td>HTML</td><td>Regra legal atual da doação. Revogou a Lei 14.016/2020, que por isso ficou de fora.</td></tr>
+<tr><td>D2</td><td>Resolução RDC nº 216, de 15/09/2004 (Boas Práticas para Serviços de Alimentação)</td><td>ANVISA</td><td>HTML</td><td>Base técnica de higiene, temperatura e conservação.</td></tr>
+<tr><td>D3</td><td>Guia nº 57/2022, versão 1: Guia para Doação de Alimentos com Segurança Sanitária</td><td>ANVISA</td><td>PDF, 113 p.</td><td>Trata exatamente do problema da persona.</td></tr>
+<tr><td>D4</td><td>Guia nº 26/2019, versão 1: Guia de Boas Práticas para Bancos de Alimentos</td><td>ANVISA</td><td>PDF, 33 p.</td><td>Visão do intermediário, que recebe, guarda e distribui.</td></tr>
+</table>
+<p class="peq">Endereços: D1 planalto.gov.br/ccivil_03/_ato2023-2026/2025/lei/l15224.htm · D2 bvsms.saude.gov.br/bvs/saudelegis/anvisa/2004/res0216_15_09_2004.html · D3 antigo.anvisa.gov.br (Guia57_DoacaoAlimentos_V1) · D4 pesquisa.anvisa.gov.br (GUIA BANCO ALIMENTOS.pdf). Acesso em 08/11/2026.</p>
+
+<h2>3. Pipeline e decisões de limpeza</h2>
+<p>O código fica em um notebook (<code>fabrica_corpus.ipynb</code>) e em módulos Python (<code>fabrica/</code>), com uma interface Gradio que chama as mesmas funções. São oito etapas: ingestão (PDF, TXT, DOCX, HTML e texto colado), extração com origem, limpeza, normalização, anonimização, segmentação, geração dos três corpus e relatório de qualidade. Cada trecho carrega o campo <code>fonte</code> desde a extração até o arquivo final.</p>
+<p>Na limpeza, tudo o que sai fica registrado em <code>saidas/log_limpeza.json</code>, com a regra, o documento, a página e o texto removido. As decisões principais:</p>
+<table>
+<tr><th>Regra</th><th>O que faz e por quê</th><th>Ocorrências</th></tr>
+<tr><td>Numeração de página</td><td>Linhas só com o número da página (D3 e D4). Não têm conteúdo e quebram frases ao meio.</td><td>145</td></tr>
+<tr><td>Cabeçalho e rodapé de PDF</td><td>Linha que se repete em pelo menos metade das páginas (título corrido do guia).</td><td>32 + 15</td></tr>
+<tr><td>Caracteres estranhos</td><td>Restos de fonte do PDF, como <code>(cid:123)</code> e marcadores de lista soltos.</td><td>293</td></tr>
+<tr><td>URLs soltas</td><td>Endereços e pedaços de endereço quebrados em várias linhas. A frase ao redor fica.</td><td>9</td></tr>
+<tr><td>Seções de referências</td><td>Listas bibliográficas dos guias. São nomes de autores e títulos, sem orientação útil ao cidadão, e traziam muitos nomes de pessoas.</td><td>10 seções</td></tr>
+<tr><td>Blocos institucionais do HTML</td><td>Menus, avisos e rodapés dos sites oficiais, fora do texto da norma.</td><td>7</td></tr>
+<tr><td>Hífen no fim da linha</td><td>Junta a palavra partida ("ali-/mentos" vira "alimentos"). Quando o hífen faz parte da palavra ("bem-estar"), ele fica.</td><td>2 juntadas, 5 mantidas</td></tr>
+</table>
+<p>A normalização converte tudo para UTF-8 em Unicode NFC, ajusta espaços, junta as linhas de um mesmo parágrafo e troca aspas curvas por retas. Não mexemos em acentos, pontuação nem maiúsculas, e não removemos stop words nem fazemos stemming: o corpus vai treinar um modelo que precisa escrever português correto. Um teste automático conta letras acentuadas, maiúsculas e sinais de pontuação antes e depois e confirma que nada foi perdido nos quatro documentos.</p>
+<p>A segmentação usa o tokenizador do próprio modelo de linguagem (Qwen2.5-7B-Instruct) como régua e corta só em fim de frase ou de parágrafo, com frases detectadas pelo spaCy. Todos os 149 trechos ficaram entre 256 e 512 tokens, nenhum trecho mistura dois documentos e um teste confirma que a sequência de palavras é a mesma antes e depois do corte.</p>
+
+<h2>4. Cuidados com a LGPD</h2>
+<p>Os documentos são públicos, mas trazem nomes de pessoas: assinaturas da lei e da resolução e autores citados nos guias. Pelo enunciado, nenhum dado pessoal pode ir para o corpus, então mascaramos todos, inclusive os de agentes públicos. A ordem é fixa: e-mail, CPF, telefone e, por último, nomes (reconhecimento de entidades do spaCy <code>pt_core_news_lg</code>, mais regras para o bloco de assinaturas e para citações como "Fulano et al."). As máscaras são <code>[EMAIL]</code>, <code>[CPF]</code>, <code>[TELEFONE]</code> e <code>[NOME]</code>.</p>
+<ul>
+<li>Foram aplicadas 42 máscaras <code>[NOME]</code> (D1: 1, D2: 3, D3: 35, D4: 3) e nenhuma de e-mail, CPF ou telefone. Numa conferência manual feita no fim, 19 delas caíram em palavras comuns (por exemplo, "Lixo Seco e [NOME]"), um falso positivo do reconhecimento de entidades. O erro vai para o lado seguro, mas deixa alguns trechos menos naturais; a lista está em <code>saidas/conferencia_mascaras_2026-11-11.md</code>.</li>
+<li>O log de anonimização nunca guarda o dado original, só o tipo, a regra, o local e o texto já mascarado.</li>
+<li>Os metadados dos PDFs não são lidos: o campo "Autor" do D3 trazia o nome de uma pessoa.</li>
+<li>Antes de gravar, uma varredura final procura de novo e-mails, CPFs, telefones e nomes nos três corpus. O resultado foi zero nos três.</li>
+<li>Para mostrar o funcionamento sem expor ninguém, o exemplo de antes e depois usa dados <b>simulados</b>: "Maria Fictícia da Silva, CPF 123.456.789-00" vira "[NOME], CPF [CPF]".</li>
+</ul>
+<p>Encontramos falsos positivos: o modelo do spaCy marcava "Desculpe", "Peço" e "Minha" no começo de frase como nome de pessoa. Criamos uma lista curta de palavras de conversa, aplicada só aos textos gerados (QA e diálogos). A anonimização do corpus de documentos não mudou, e um nome real continua sendo detectado.</p>
+
+<h2>5. Geração com IA e revisão humana</h2>
+<p>O corpus de texto sai direto dos documentos. Os pares de perguntas e respostas e os diálogos foram gerados com IA, como o enunciado permite, e revisados por uma pessoa.</p>
+<ul>
+<li><b>Modelo:</b> Qwen2.5-7B-Instruct (licença Apache-2.0), revisão <code>a09a3545</code>, quantizado em 4 bits (NF4) e rodado no Google Colab com GPU T4. Temperatura 0,3, top-p 0,9, semente fixa (42). Tudo foi registrado em <code>revisao/log_geracao.jsonl</code>, inclusive a saída bruta de cada chamada.</li>
+<li><b>Prompts:</b> quatro arquivos em <code>revisao/prompts/</code> (perguntas e respostas, diálogo, recusa fora do tema e encaminhamento), reproduzidos na íntegra no Apêndice A. Todos mandam usar <i>somente</i> o trecho do documento, usar linguagem simples, nunca dizer que um alimento é seguro para consumo e encaminhar à vigilância sanitária quando a decisão depender de avaliação. Cada resposta precisa trazer a frase do trecho que a sustenta, copiada palavra por palavra. A mensagem de sistema do corpus conversacional reforça essa regra.</li>
+<li><b>Filtros automáticos:</b> o exemplo é descartado se a evidência não aparece literalmente no trecho, se o formato está errado, se há dado pessoal, se afirma que um alimento é seguro ou se cita termos que não estão no documento. Palavras sensíveis, como "seguro" e "pode doar", não descartam o exemplo: ele vai obrigatoriamente para a revisão humana.</li>
+<li><b>Revisão:</b> feita por Leonardo Melo com sete critérios (fiel ao trecho, responde à pergunta, linguagem simples, não declara seguro e encaminha, sem dado pessoal, formato e fonte, termos do grupo). Revisamos uma amostra de 25% sorteada por documento, mais todos os exemplos duvidosos e 100% das recusas. O enunciado pede pelo menos 20%. Se mais de 10% da amostra de um documento fosse rejeitada, o código exigiria revisar o documento inteiro.</li>
+</ul>
+<table>
+<tr><th>Corpus</th><th>Candidatos gerados</th><th>Descartados pelos filtros</th><th>Base</th><th>Revisados</th><th>Resultado da revisão</th><th>No corpus</th></tr>
+<tr><td>QA</td><td>172</td><td>29</td><td>143</td><td>41 (28,7%)</td><td>40 aprovados, 1 corrigido</td><td>143</td></tr>
+<tr><td>Chat</td><td>184</td><td>123</td><td>52</td><td>29 (55,8%)</td><td>27 aprovados, 2 corrigidos</td><td>52</td></tr>
+</table>
+<p>Uma planilha auxiliar (<code>REVISAO_FACIL_preenchida.xlsx</code>) organizou a leitura, com a evidência destacada dentro do trecho. Os CSVs com as decisões e a data da revisão ficam em <code>revisao/</code>.</p>
+
+<h2>6. Estatísticas dos corpus</h2>
+<p>Números do relatório de qualidade gerado pelo notebook (seção 8). Os tokens foram contados com o tokenizador do Qwen2.5-7B-Instruct.</p>
+<table>
+<tr><th>Corpus</th><th>Arquivo</th><th>Exemplos</th><th>Mínimo pedido</th><th>Média de tokens</th><th>Mín.–máx.</th><th>Duplicatas removidas</th></tr>
+<tr><td>Texto</td><td><code>corpus_texto.jsonl</code></td><td>149 trechos</td><td>50</td><td>477,1</td><td>313–512</td><td>0</td></tr>
+<tr><td>Perguntas e respostas</td><td><code>corpus_qa.jsonl</code></td><td>143 pares</td><td>100</td><td>58,4</td><td>28–123</td><td>0</td></tr>
+<tr><td>Conversacional</td><td><code>corpus_chat.jsonl</code></td><td>52 diálogos</td><td>30</td><td>203,1</td><td>135–328</td><td>0</td></tr>
+</table>
+<p>Por documento, o corpus de texto tem 7 trechos do D1, 22 do D2, 93 do D3 e 27 do D4. O conversacional tem 40 diálogos baseados nos documentos e 12 recusas (o mínimo é 10): 5 recusam assuntos fora do tema (futebol, investimentos, política, valores de pontos e Selo Verde ESG) e 7 orientam a procurar a vigilância sanitária ou um profissional. Todos os diálogos têm 2 trocas e começam com a mensagem de sistema. O notebook mostra cinco exemplos aleatórios de cada corpus. Dois exemplos reais:</p>
+<div class="caixa">
+<b>QA (D3):</b> {"instruction": "Como as pessoas que estão em contato com as doações devem se apresentar?", "input": "", "output": "Elas precisam estar com adequado asseio pessoal e higiene, usando avental, jaleco ou roupas limpas e bem conservados.", "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf"}<br><br>
+<b>Recusa fora do tema:</b> usuário: "Quem ganhou o jogo de futebol ontem?" · atendente: "Peço desculpas, mas não tenho informações sobre jogos de futebol. Posso te ajudar com orientações sobre a doação segura de alimentos."
+</div>
+
+<h2>7. Dificuldades encontradas</h2>
+<ul>
+<li><b>Download do Guia 57:</b> o servidor da ANVISA recusa downloads automáticos (HTTP 403). Baixamos pelo navegador e registramos o hash para provar que é o arquivo oficial.</li>
+<li><b>Referências e URLs quebradas:</b> a primeira versão do corpus trazia listas bibliográficas e pedaços de URL. Criamos regras específicas, e o corpus caiu de 163 para 149 trechos, todos com conteúdo útil.</li>
+<li><b>HTML malformado:</b> a página da lei tem conteúdo depois do fim do documento. O leitor de HTML do Linux, usado pelo Colab, lia um "*" solto que o do Windows descartava, e o corpus saía diferente nos dois ambientes. Uma regra de limpeza resolveu.</li>
+<li><b>Mudança de versão da biblioteca:</b> no <code>transformers</code> 5 a função que prepara o prompt passou a devolver um dicionário em vez de um tensor, e a geração quebrou no Colab. Ajustamos o código para funcionar nas duas versões.</li>
+<li><b>Respostas do modelo fora do formato:</b> na primeira rodada, só 3 das 12 recusas passaram. Analisando o log, vimos que o leitor de JSON pegava só a lista interna do objeto e descartava respostas boas, e que algumas saídas vinham sem a chave final. Corrigimos o leitor e reprocessamos as saídas já gravadas, sem gastar GPU de novo. As recusas que tinham erro real do modelo foram geradas outra vez com sementes novas. No fim, 12 de 12 passaram.</li>
+<li><b>Conferência final:</b> antes da entrega, conferimos contra os documentos todas as 18 respostas que citam artigo, item ou norma. Duas tinham passado na revisão e não batiam com o texto: uma atribuía ao Art. 2º da RDC 216 algo que o artigo não diz, e outra exigia peixe congelado a -12 °C, quando o guia indica pescados de 2 a 3 °C. As duas foram corrigidas na revisão. A mesma conferência achou dois sobrenomes de autores sem máscara, em citações com vírgula antes de "et al." e em "Fulana e Sobrenome (2021)"; criamos as regras e rodamos o corpus de novo, e só esses dois trechos mudaram.</li>
+<li><b>Sumários dos guias:</b> 3 dos 149 trechos ainda trazem linhas do sumário do D3 e do D4, com o número da página no fim. Tirar essas linhas agora deixaria dois desses trechos abaixo de 256 tokens e mudaria o corte de todos os trechos seguintes, já usados na revisão humana e na GENAI. Fica registrado como limitação conhecida: uma regra específica para sumários resolveria o caso.</li>
+<li><b>Equilíbrio entre segurança e utilidade:</b> o modelo tende a responder "pode doar". Não deixamos nenhum exemplo declarar que um alimento é seguro sem passar por uma pessoa. Mesmo assim, a revisão continua sendo a última barreira, e o atendente final deve sempre lembrar que a decisão cabe à vigilância sanitária.</li>
+</ul>
+
+<h2>Apêndice A. Prompts usados na geração</h2>
+<p class="peq">Texto integral dos arquivos de <code>revisao/prompts/</code>, como foram enviados ao modelo. Os marcadores <code>&lt;&lt;TRECHO&gt;&gt;</code>, <code>&lt;&lt;FONTE&gt;&gt;</code>, <code>&lt;&lt;PERGUNTA&gt;&gt;</code> e <code>&lt;&lt;ORIENTACAO&gt;&gt;</code> são trocados pelo trecho do documento, pelo nome do arquivo e pela pergunta de partida de cada recusa (lista em <code>perguntas_recusa.json</code>).</p>
+<h3>Mensagem de sistema do corpus conversacional (<code>system_fomezero.txt</code>)</h3><pre class="prompt">Você é o atendente do FOMEZERO, que orienta doadores e beneficiários sobre doação segura de alimentos com base em documentos oficiais. Responda de forma simples e educada. Você não decide se um alimento é seguro para consumo: em caso de dúvida, oriente a procurar a vigilância sanitária do município ou um profissional habilitado.</pre>
+<h3>Perguntas e respostas (QA) (<code>prompt_qa.txt</code>)</h3><pre class="prompt">Você vai criar perguntas e respostas para treinar um atendente sobre doação segura de alimentos.
+Use SOMENTE o TRECHO abaixo. Não acrescente nada que não esteja escrito nele.
+Regras:
+- linguagem simples, frases curtas; explique termos técnicos com palavras do dia a dia;
+- a pergunta deve ser uma dúvida real de quem doa ou recebe alimentos (doador, banco de alimentos, instituição, beneficiário);
+- responda direto, como um atendente: não escreva &quot;o trecho&quot;, &quot;o texto&quot; nem &quot;o documento acima&quot;;
+- não use nomes de pessoas; não copie marcas como [NOME], [CPF], [EMAIL] ou [TELEFONE];
+- nunca diga que um alimento é seguro para consumo nem que pode ser consumido sem risco; quando a decisão depender de avaliação, diga que é preciso consultar a vigilância sanitária do município ou um profissional habilitado;
+- use os termos exatamente como aparecem no TRECHO (por exemplo: &quot;beneficiário&quot;, &quot;instituição receptora&quot;, &quot;Selo Doador de Alimentos&quot;);
+- não fale de pontos, selos, CO₂ ou de qualquer programa que não esteja no TRECHO;
+- se o TRECHO não permitir criar uma pergunta útil (por exemplo, se for só lista de referências, sumário ou tabela sem sentido), devolva [].
+Devolva SOMENTE JSON, sem comentários, no formato:
+[{&quot;pergunta&quot;: &quot;...&quot;, &quot;resposta&quot;: &quot;...&quot;, &quot;evidencia&quot;: &quot;&lt;frase copiada palavra por palavra do TRECHO que apoia a resposta&gt;&quot;}]
+No máximo 2 itens.
+
+TRECHO (fonte: &lt;&lt;FONTE&gt;&gt;):
+&lt;&lt;TRECHO&gt;&gt;</pre>
+<h3>Diálogo baseado em documento (<code>prompt_dialogo.txt</code>)</h3><pre class="prompt">Você vai criar UM diálogo para treinar o atendente do FOMEZERO, que orienta doadores e beneficiários sobre doação segura de alimentos.
+Use SOMENTE o TRECHO abaixo. Não acrescente nada que não esteja escrito nele.
+Regras:
+- o diálogo tem de 2 a 4 trocas; cada troca é uma mensagem do usuário (role &quot;user&quot;) seguida da resposta do atendente (role &quot;assistant&quot;);
+- o usuário é um doador ou um beneficiário com uma dúvida prática; da segunda troca em diante, ele continua a mesma conversa;
+- o atendente responde com linguagem simples, frases curtas e educação, e explica termos técnicos;
+- responda direto, como um atendente: não escreva &quot;o trecho&quot;, &quot;o texto&quot; nem &quot;o documento acima&quot;;
+- não use nomes de pessoas; não copie marcas como [NOME], [CPF], [EMAIL] ou [TELEFONE];
+- o atendente nunca diz que um alimento é seguro para consumo nem que pode ser consumido sem risco; quando a decisão depender de avaliação, orienta a procurar a vigilância sanitária do município ou um profissional habilitado;
+- use os termos exatamente como aparecem no TRECHO (por exemplo: &quot;beneficiário&quot;, &quot;instituição receptora&quot;, &quot;Selo Doador de Alimentos&quot;);
+- não fale de pontos, selos, CO₂ ou de qualquer programa que não esteja no TRECHO;
+- para cada resposta do atendente, copie em &quot;evidencias&quot; uma frase do TRECHO, palavra por palavra, que apoia aquela resposta (mesma ordem, uma por resposta).
+Devolva SOMENTE JSON, sem comentários, no formato:
+{&quot;mensagens&quot;: [{&quot;role&quot;: &quot;user&quot;, &quot;content&quot;: &quot;...&quot;}, {&quot;role&quot;: &quot;assistant&quot;, &quot;content&quot;: &quot;...&quot;}, {&quot;role&quot;: &quot;user&quot;, &quot;content&quot;: &quot;...&quot;}, {&quot;role&quot;: &quot;assistant&quot;, &quot;content&quot;: &quot;...&quot;}], &quot;evidencias&quot;: [&quot;...&quot;, &quot;...&quot;]}
+Se o TRECHO não permitir um diálogo útil, devolva {&quot;mensagens&quot;: [], &quot;evidencias&quot;: []}.
+
+TRECHO (fonte: &lt;&lt;FONTE&gt;&gt;):
+&lt;&lt;TRECHO&gt;&gt;</pre>
+<h3>Recusa fora do tema (<code>prompt_recusa_fora_do_tema.txt</code>)</h3><pre class="prompt">Você vai criar UM diálogo curto de RECUSA para treinar o atendente do FOMEZERO.
+O atendente só orienta sobre doação segura de alimentos com base em documentos oficiais.
+Primeira mensagem do usuário (use exatamente este texto): &quot;&lt;&lt;PERGUNTA&gt;&gt;&quot;
+Como recusar: &lt;&lt;ORIENTACAO&gt;&gt;
+Regras:
+- exatamente 2 trocas: user, assistant, user, assistant; na segunda mensagem, o usuário insiste ou muda um pouco a pergunta, ainda fora do tema;
+- o atendente recusa com educação, diz em uma frase o que ele pode fazer e convida o usuário a perguntar sobre doação segura de alimentos;
+- não dê nenhuma informação sobre o assunto fora do tema e não escreva números;
+- se a pergunta for sobre pontos, Selo Verde ESG ou CO₂ evitado (kg CO₂eq), diga que isso segue as regras do próprio FOMEZERO e que o atendente não informa esses valores;
+- nunca diga que um alimento é seguro para consumo; não use nomes de pessoas;
+- linguagem simples e educada.
+Devolva SOMENTE JSON, sem comentários, no formato:
+{&quot;mensagens&quot;: [{&quot;role&quot;: &quot;user&quot;, &quot;content&quot;: &quot;...&quot;}, {&quot;role&quot;: &quot;assistant&quot;, &quot;content&quot;: &quot;...&quot;}, {&quot;role&quot;: &quot;user&quot;, &quot;content&quot;: &quot;...&quot;}, {&quot;role&quot;: &quot;assistant&quot;, &quot;content&quot;: &quot;...&quot;}]}</pre>
+<h3>Encaminhamento a profissional ou órgão (<code>prompt_recusa_encaminhamento.txt</code>)</h3><pre class="prompt">Você vai criar UM diálogo curto de ENCAMINHAMENTO para treinar o atendente do FOMEZERO.
+O atendente orienta sobre doação segura de alimentos com base em documentos oficiais, mas não toma decisões que cabem a um profissional ou órgão público.
+Primeira mensagem do usuário (use exatamente este texto): &quot;&lt;&lt;PERGUNTA&gt;&gt;&quot;
+Para quem encaminhar: &lt;&lt;ORIENTACAO&gt;&gt;
+Regras:
+- exatamente 2 trocas: user, assistant, user, assistant; na segunda mensagem, o usuário insiste pedindo uma resposta definitiva;
+- o atendente NÃO decide se o alimento é seguro, não diz &quot;pode doar&quot;, &quot;pode consumir&quot; nem &quot;não há risco&quot;; explica, com educação, que essa avaliação deve ser feita por quem está indicado acima e orienta a procurar;
+- o atendente pode citar, de forma simples, uma orientação do TRECHO relacionada à pergunta, sem acrescentar nada;
+- para cada resposta do atendente, copie em &quot;evidencias&quot; a frase do TRECHO usada, palavra por palavra;
+- não use nomes de pessoas; não copie marcas como [NOME], [CPF], [EMAIL] ou [TELEFONE];
+- use os termos exatamente como aparecem no TRECHO; não fale de pontos, selos, CO₂ ou de programas que não estejam no TRECHO;
+- linguagem simples e educada.
+Devolva SOMENTE JSON, sem comentários, no formato:
+{&quot;mensagens&quot;: [{&quot;role&quot;: &quot;user&quot;, &quot;content&quot;: &quot;...&quot;}, {&quot;role&quot;: &quot;assistant&quot;, &quot;content&quot;: &quot;...&quot;}, {&quot;role&quot;: &quot;user&quot;, &quot;content&quot;: &quot;...&quot;}, {&quot;role&quot;: &quot;assistant&quot;, &quot;content&quot;: &quot;...&quot;}], &quot;evidencias&quot;: [&quot;...&quot;, &quot;...&quot;]}
+
+TRECHO (fonte: &lt;&lt;FONTE&gt;&gt;):
+&lt;&lt;TRECHO&gt;&gt;</pre>
+
+<h2>Referências</h2>
+<p class="peq">BRASIL. Lei nº 15.224, de 30 de setembro de 2025. Disponível em planalto.gov.br. Acesso em 08/11/2026.<br>
+ANVISA. Resolução RDC nº 216, de 15 de setembro de 2004. Disponível em bvsms.saude.gov.br. Acesso em 08/11/2026.<br>
+ANVISA. Guia para Doação de Alimentos com Segurança Sanitária, Guia nº 57/2022, versão 1. Acesso em 08/11/2026.<br>
+ANVISA. Guia de Boas Práticas para Bancos de Alimentos, Guia nº 26/2019, versão 1. Acesso em 08/11/2026.<br>
+NAÇÕES UNIDAS BRASIL. Objetivo 2: Fome zero e agricultura sustentável; Objetivo 12: Consumo e produção responsáveis; Objetivo 13: Ação contra a mudança global do clima. brasil.un.org/pt-br/sdgs. Acesso em 09/11/2026 e 11/11/2026.<br>
+PNUMA. Mundo joga fora mais de 1 bilhão de refeições por dia, aponta Índice de Desperdício de Alimentos da ONU. ONU Brasil, 27/03/2024. Acesso em 09/11/2026.<br>
+QWEN TEAM. Qwen2.5-7B-Instruct (model card). huggingface.co/Qwen/Qwen2.5-7B-Instruct. Acesso em 08/11/2026.<br>
+EXPLOSION. spaCy, modelo pt_core_news_lg 3.8.0. spacy.io. Acesso em 08/11/2026.</p>
+
+</body>
+</html>

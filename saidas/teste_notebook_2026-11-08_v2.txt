@@ -1,0 +1,131 @@
+﻿notebook: C:\Users\silva\Downloads\GS_2TIAPR_2026_ERICK_LEO_LUNA\05_ENTREGAVEIS\PLN\fabrica_corpus.ipynb c�lulas: 24
+
+>>> executando célula c02
+Python 3.14.4 | pasta: C:\Users\silva\Downloads\GS_2TIAPR_2026_ERICK_LEO_LUNA\05_ENTREGAVEIS\PLN | Colab: False
+
+>>> executando célula c04
+{'doc_id': 'D1', 'fonte': 'D1_Lei_15224_2025.htm', 'formato': 'html', 'tipo': 'fonte_oficial', 'paginas': None, 'bytes': 40986}
+{'doc_id': 'D2', 'fonte': 'D2_RDC_ANVISA_216_2004.html', 'formato': 'html', 'tipo': 'fonte_oficial', 'paginas': None, 'bytes': 53535}
+{'doc_id': 'D3', 'fonte': 'D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf', 'formato': 'pdf', 'tipo': 'fonte_oficial', 'paginas': 113, 'bytes': 3002587}
+{'doc_id': 'D4', 'fonte': 'D4_Guia_ANVISA_Boas_Praticas_Bancos_Alimentos.pdf', 'formato': 'pdf', 'tipo': 'fonte_oficial', 'paginas': 33, 'bytes': 830946}
+Total de páginas de PDF: 146 | OK: True []
+Texto colado: texto_colado_01 | origem: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/lei/l15224.htm | início: Art. 14. Poderão ser doados a bancos de alimentos e a instituições receptoras e diretamente aos beneficiários os aliment
+
+>>> executando célula c06
+D1_Lei_15224_2025.htm: 80 blocos | 1º bloco pagina=None secao=1 | 'Presidência da República\nCasa Civil\nSecretaria Especial para Assuntos Jurídicos'
+D2_RDC_ANVISA_216_2004.html: 172 blocos | 1º bloco pagina=None secao=1 | 'ADVERTÊNCIA'
+D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf: 113 blocos | 1º bloco pagina=1 secao=None | 'Guia para Doação de Alimentos com Segurança\nSanitária\nGuia nº 57/2022 – versão 1\nAgência Nacional de'
+D4_Guia_ANVISA_Boas_Praticas_Bancos_Alimentos.pdf: 33 blocos | 1º bloco pagina=1 secao=None | '1\no\nã\ns\nr\ne\nV Agência Nacional de Vigilância Sanitária\n–\n9\n1\n0\n2\n/\n6\n2\nº\nN\nA\nI\nU\nG\nGUIA DE BOAS PRÁT'
+
+>>> executando célula c08
+D1_Lei_15224_2025.htm {'bloco_institucional_html': 3}
+D2_RDC_ANVISA_216_2004.html {'bloco_institucional_html': 4}
+D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf {'numeracao_pagina': 113, 'caracteres_estranhos': 233, 'secao_referencias': 203, 'secao_referencias_fim': 1, 'url_solta': 1, 'url_solta_linha': 1, 'linha_repetida_titulo_corrido': 15, 'hifenizacao_mantida': 1, 'hifenizacao_juntada': 2}
+D4_Guia_ANVISA_Boas_Praticas_Bancos_Alimentos.pdf {'texto_vertical_diagramacao': 3, 'numeracao_pagina': 32, 'caracteres_estranhos': 60, 'cabecalho_pdf': 32, 'secao_referencias': 77, 'url_solta': 4, 'url_solta_linha': 1, 'resto_url_continuacao': 2, 'hifenizacao_mantida': 4}
+Exemplos do log: [('url_solta', 'https://pesquisa.anvisa.gov.br/index.php/577264?lang=pt-BR'), ('hifenizacao_juntada', 'pós-|tratamento'), ('hifenizacao_juntada', 'vermelho-|cereja'), ('cabecalho_pdf', 'ALIMENTOS - GUIA nº 26, versão 1, de 21 de junho de 2019'), ('cabecalho_pdf', 'ALIMENTOS - GUIA nº 26, versão 1, de 21 de junho de 2019'), ('cabecalho_pdf', 'ALIMENTOS - GUIA nº 26, versão 1, de 21 de junho de 2019')]
+
+>>> executando célula c10
+D1_Lei_15224_2025.htm | parágrafos: 77 | preservado: True {'acentuadas': 440, 'maiusculas': 539, 'pontuacao': 327}
+D2_RDC_ANVISA_216_2004.html | parágrafos: 174 | preservado: True {'acentuadas': 1413, 'maiusculas': 1410, 'pontuacao': 1027}
+D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf | parágrafos: 751 | preservado: True {'acentuadas': 5908, 'maiusculas': 4385, 'pontuacao': 5125}
+D4_Guia_ANVISA_Boas_Praticas_Bancos_Alimentos.pdf | parágrafos: 200 | preservado: True {'acentuadas': 1715, 'maiusculas': 1620, 'pontuacao': 1200}
+
+>>> executando célula c12
+D1_Lei_15224_2025.htm {'EMAIL': 0, 'CPF': 0, 'TELEFONE': 0, 'NOME': 1}
+D2_RDC_ANVISA_216_2004.html {'EMAIL': 0, 'CPF': 0, 'TELEFONE': 0, 'NOME': 3}
+D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf {'EMAIL': 0, 'CPF': 0, 'TELEFONE': 0, 'NOME': 33}
+D4_Guia_ANVISA_Boas_Praticas_Bancos_Alimentos.pdf {'EMAIL': 0, 'CPF': 0, 'TELEFONE': 0, 'NOME': 3}
+ANTES (SIMULADO): Contato do doador: Maria Fictícia da Silva, CPF 123.456.789-00, e-mail maria.ficticia@example.com, telefone (11) 90000-0000. O lote de doação sai às 14h.
+DEPOIS          : Contato do doador: [NOME], CPF [CPF], e-mail [EMAIL], telefone [TELEFONE]. O lote de doação sai às 14h.
+
+>>> executando célula c14
+D1_Lei_15224_2025.htm | trechos: 7 | tokens mín/máx: (350, 510) | exceções: []
+D2_RDC_ANVISA_216_2004.html | trechos: 22 | tokens mín/máx: (340, 512) | exceções: []
+D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf | trechos: 93 | tokens mín/máx: (313, 512) | exceções: []
+D4_Guia_ANVISA_Boas_Praticas_Bancos_Alimentos.pdf | trechos: 27 | tokens mín/máx: (421, 512) | exceções: []
+
+>>> executando célula c16
+[M2] extraindo D1_Lei_15224_2025.htm (html)
+[M3] limpando D1_Lei_15224_2025.htm: 80 blocos extraídos
+[M4] normalizando D1_Lei_15224_2025.htm
+[M2] extraindo D2_RDC_ANVISA_216_2004.html (html)
+[M3] limpando D2_RDC_ANVISA_216_2004.html: 172 blocos extraídos
+[M4] normalizando D2_RDC_ANVISA_216_2004.html
+[M2] extraindo D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf (pdf)
+[M3] limpando D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf: 113 blocos extraídos
+[M4] normalizando D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf
+[M2] extraindo D4_Guia_ANVISA_Boas_Praticas_Bancos_Alimentos.pdf (pdf)
+[M3] limpando D4_Guia_ANVISA_Boas_Praticas_Bancos_Alimentos.pdf: 33 blocos extraídos
+[M4] normalizando D4_Guia_ANVISA_Boas_Praticas_Bancos_Alimentos.pdf
+[M5] vocabulário de palavras em minúscula dos documentos (filtro de falso positivo do NER): 4223
+[M5] anonimizando D1_Lei_15224_2025.htm: 77 parágrafos
+[M6] segmentando D1_Lei_15224_2025.htm
+[M5] anonimizando D2_RDC_ANVISA_216_2004.html: 174 parágrafos
+[M6] segmentando D2_RDC_ANVISA_216_2004.html
+[M5] anonimizando D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf: 751 parágrafos
+[M6] segmentando D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf
+[M5] anonimizando D4_Guia_ANVISA_Boas_Praticas_Bancos_Alimentos.pdf: 200 parágrafos
+[M6] segmentando D4_Guia_ANVISA_Boas_Praticas_Bancos_Alimentos.pdf
+[M7a] corpus_texto: 149 trechos gravados, 0 duplicatas removidas
+{'candidatos': 149, 'gravados': 149, 'duplicatas_removidas': 0}
+{"text": "LEI Nº 15.224, DE 30 DE SETEMBRO DE 2025\n\nInstitui a Política Nacional de Combate à Perda e ao Desperdício de Alimentos (PNCPDA); cria o Selo Doador de Alimentos; altera a Lei nº 9.249, de 26 de dezembro de 1995; e revoga a Lei nº 14.016, de 23 de junho de 2020.\n\nO PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:\n\nCAPÍTULO I DISPOSIÇ
+
+>>> executando célula c18
+qa_candidatos.jsonl AINDA NÃO GERADO (rode no Colab com REGERAR = True)
+chat_candidatos.jsonl AINDA NÃO GERADO (rode no Colab com REGERAR = True)
+revisao_qa.csv AINDA NÃO GERADO (rode no Colab com REGERAR = True)
+revisao_chat.csv AINDA NÃO GERADO (rode no Colab com REGERAR = True)
+
+>>> executando célula c19
+Revisão ainda não aplicada: qa: faltam qa_candidatos.jsonl ou revisao_qa.csv (rode a geração no Colab)
+
+>>> executando célula c21
+# Relatório de qualidade — Fábrica de Corpus FOMEZERO (PLN)
+
+Gerado em 2026-11-08T16:53:58 por `fabrica.m8_qualidade.gerar_relatorio` (números da execução real).
+Tokens contados com o tokenizador de `Qwen/Qwen2.5-7B-Instruct` (sem tokens especiais). Texto: `text`; QA: `instruction`+`input`+`output`; chat: soma dos `content`. Exemplos: `random.Random(42)`.
+
+## Estatísticas por corpus
+
+| Corpus | Arquivo | Status | Nº de exemplos | Média de tokens | Mín–máx | Duplicatas removidas |
+|---|---|---|---|---|---|---|
+| texto | `corpus_texto.jsonl` | OK | 149 | 477.1 | 313–512 | 0 |
+| qa | `corpus_qa.jsonl` | PENDENTE (arquivo ainda não gerado; geração no Colab) | — | — | — | — |
+| chat | `corpus_chat.jsonl` | PENDENTE (arquivo ainda não gerado; geração no Colab) | — | — | — | — |
+
+## Validações gerais
+
+| Validação | Resultado | Detalhe |
+|---|---|---|
+| acentos, pontuação e maiúsculas preservados no M4 (todos os documentos) | OK | D1_Lei_15224_2025.htm: {'acentuadas': 440, 'maiusculas': 539, 'pontuacao': 327}; D2_RDC_ANVISA_216_2004.html: {'acentuadas': 1413, 'maiusculas': 1410, 'pontuacao': 1027}; D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf: {'acentuadas': 5908, 'maiusculas': 4385, 'pontuacao': 5125}; D4_Guia_ANVISA_Boas_Praticas_Bancos_Alimentos.pdf: {'acentuadas': 1715, 'maiusculas': 1620, 'pontuacao': 1200} |
+| sem stop words removidas e sem stemming: mesma sequência de palavras M5 -> trechos (§2.2) | OK | D1_Lei_15224_2025.htm: 1789 palavras; D2_RDC_ANVISA_216_2004.html: 5697 palavras; D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf: 24206 palavras; D4_Guia_ANVISA_Boas_Praticas_Bancos_Alimentos.pdf: 7097 palavras |
+| nenhum módulo do NLTK (stemmer/lista de stop words) carregado | OK | [] |
+| 3 a 5 documentos-fonte e >= 20 páginas (só PDF) | OK | 4 documentos; 146 páginas de PDF |
+
+## Validações — texto
+
+| Validação | Resultado | Detalhe |
+|---|---|---|
+| uma linha = um objeto JSON | OK | 149 linhas lidas com json.loads |
+| chaves exatamente ['fonte', 'text'] | OK | 0 linhas fora do formato |
+| campo fonte preenchido | OK | 0 linhas sem fonte |
+| todos os trechos com 256 a 512 tokens | OK | 0 fora da faixa; mín 313, máx 512 |
+| mínimo de 50 trechos | OK | 149 trechos |
+| sem URL, resto de URL nem lista de referências (DEC-017) | OK | {"http": 0, "www.": 0, "?x=": 0, "_file.pdf": 0, "Disponível em:": 0} |
+| varredura de dados pessoais = 0 | OK | {"EMAIL": 0, "CPF": 0, "TELEFONE": 0, "NOME": 0} |
+
+## Por documento (corpus de texto)
+
+| Fonte | Formato | Páginas | Blocos extraídos | Parágrafos | Tokens | Trechos | Máscaras (EMAIL/CPF/TEL/NOME) |
+|---|---|---|---|---|---|---|---|
+| D1_Lei_15224_2025.htm | html | não paginado | 80 | 77 | 3275 | 7 | 0/0/0/1 |
+| D2_RDC_ANVISA_216_2004.html | html | não paginado | 172 | 174 | 10600 | 22 | 0/0/0/3 |
+| D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf | pdf | 113 | 113 | 751 | 44301 | 93 | 0/0/0/33 |
+| D4_Guia_ANVISA_Boas_Praticas_Bancos_Alimentos.pdf | pdf | 33 | 33 | 200 | 12908 | 27 | 0/0/0/3 |
+
+Limpeza (cont
+
+>>> executando célula c23
+Interface construída ( Blocks ); launch() não chamado.
+
+TODAS AS CÉLULAS DE CÓDIGO EXECUTARAM SEM ERRO

@@ -1,0 +1,13 @@
+Você vai criar UM diálogo curto de RECUSA para treinar o atendente do FOMEZERO.
+O atendente só orienta sobre doação segura de alimentos com base em documentos oficiais.
+Primeira mensagem do usuário (use exatamente este texto): "<<PERGUNTA>>"
+Como recusar: <<ORIENTACAO>>
+Regras:
+- exatamente 2 trocas: user, assistant, user, assistant; na segunda mensagem, o usuário insiste ou muda um pouco a pergunta, ainda fora do tema;
+- o atendente recusa com educação, diz em uma frase o que ele pode fazer e convida o usuário a perguntar sobre doação segura de alimentos;
+- não dê nenhuma informação sobre o assunto fora do tema e não escreva números;
+- se a pergunta for sobre pontos, Selo Verde ESG ou CO₂ evitado (kg CO₂eq), diga que isso segue as regras do próprio FOMEZERO e que o atendente não informa esses valores;
+- nunca diga que um alimento é seguro para consumo; não use nomes de pessoas;
+- linguagem simples e educada.
+Devolva SOMENTE JSON, sem comentários, no formato:
+{"mensagens": [{"role": "user", "content": "..."}, {"role": "assistant", "content": "..."}, {"role": "user", "content": "..."}, {"role": "assistant", "content": "..."}]}

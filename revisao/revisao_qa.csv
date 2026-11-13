@@ -1,0 +1,675 @@
+﻿id;corpus;tipo;fonte;motivo_revisao;conteudo;evidencia;trecho;revisor;data_revisao;C1_fiel_ao_trecho;C2_responde_a_pergunta;C3_linguagem_simples;C4_nao_declara_seguro_e_encaminha;C5_sem_dado_pessoal;C6_formato_e_fonte;C7_termos_do_grupo_sem_confusao;decisao;correcao;observacao
+QA-0003;qa;qa;D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf;sorteio_25pct_estratificado;"PERGUNTA: Como armazenar corretamente os alimentos doados?
+RESPOSTA: Os alimentos doados devem ser armazenados em um local limpo e organizado, protegido de contaminantes. É importante que eles estejam adequadamente acondicionados e identificados, seguindo a ordem de vencimento ou maturação.";Para o adequado armazenamento dos alimentos doados no intermediário, sugere-se algumas condições ideais de estrutura física. Recomenda-se que as doações sejam armazenadas em local limpo e organizado, de forma a garantir proteção contra contaminantes.;"Para o adequado armazenamento dos alimentos doados no intermediário, sugere-se algumas condições ideais de estrutura física. Recomenda-se que as doações sejam armazenadas em local limpo e organizado, de forma a garantir proteção contra contaminantes.
+
+As doações precisam estar adequadamente acondicionadas e identificadas, sendo que a ordem da doação tem que respeitar o prazo de validade dos produtos. Para os alimentos dispensados da obrigatoriedade da indicação do prazo de validade, sugere-se a utilização da ordem de entrada dos mesmos ou grau de maturação para frutas e hortaliças. Siga a dica:
+
+Primeiro que Vence, Primeiro que Doa; ou Primeiro que Entra, Primeiro que Doa; ou Primeiro que [NOME], Primeiro que Doa.
+
+Recomenda-se que as doações sejam armazenadas sobre paletes, estrados e/ou prateleiras, respeitando o espaçamento mínimo necessário para garantir ventilação e limpeza adequadas e, quando for o caso, desinfecção do local. Utilizar preferencialmente paletes, estrados e/ou prateleiras de material liso, resistente, impermeável e lavável.
+
+No quadro a seguir, apresenta-se estrutura física recomendável no intermediário, de acordo com o tipo de alimento a ser armazenado (Quadro 7).
+
+O armazenamento de alimentos em uma estrutura física inadequada pode ser causa de DTHA.
+
+Quadro 7- Sugestões de estrutura física para armazenamento de doações de forma segura no intermediário.
+
+Estrutura física por tipo de alimento Alimentos Alimentos Alimentos perecíveis perecíveis Área industrializados não com baixo risco de conservados sob perecíveis contaminação refrigeração ou congelamento Setor de Pode ser contígua a área de recepção ou armazenamento – expedição e seguir as mesmas Não se aplica.
+
+Despensa seca recomendações, acrescido de espaço para (quando aplicável) pallets ou prateleiras. continuação Não se aplica.";Leonardo Melo, RM 567097;data_revisao = 2026-11-08;sim;sim;sim;sim;sim;sim;sim;aprovado;;
+QA-0006;qa;qa;D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf;duvidoso: termo sensível: /\bsegur[oa]s?\b/;"PERGUNTA: O que devo fazer com alimentos doados que não estão em boas condições?
+RESPOSTA: Se os alimentos doados não estiverem em condições seguras para consumo, você deve recusá-los e devolvê-los ao doador, se possível. Caso contrário, eles devem ser armazenados separadamente até que possam ser destinados a outro fim, como compostagem, destino industrial, coleta seletiva ou alimentação animal.";As doações que forem reprovadas ou com prazos de validade vencidas precisam ser imediatamente devolvidos ao doador e, na impossibilidade, necessitam ser devidamente identificados e armazenados separadamente.;"Durante a etapa de recepção da doação recomenda-se que o intermediário realize uma avaliação dos alimentos doados. Todas as doações precisam ser submetidas à inspeção e aprovados na recepção. Sugere-se seguir os mesmos critérios aplicáveis ao início da doação, conforme item 5.1 Início do processo de Doação. Com essa avaliação o intermediário confirmará o recebimento da doação ou recusará a doação que não estiver em condições seguras para consumo do beneficiário.
+
+As doações que forem reprovadas ou com prazos de validade vencidas precisam ser imediatamente devolvidos ao doador e, na impossibilidade, necessitam ser devidamente identificados e armazenados separadamente. Recomenda-se uma adequada destinação final para essas doações, que não seja a alimentação humana, como por exemplo: compostagem, destino industrial, coleta seletiva, alimentação animal.
+
+Primeiramente, recomenda-se observar se o alimento foi adequadamente acondicionado e transportado, em especial itens que precisam de refrigeração e congelamento, como alimentos perecíveis, entre eles: lácteos e cárneos, pois as mudanças de temperatura impactam na segurança do alimento.
+
+As refeições prontas para o consumo também merecem atenção especial e rápida distribuição aos beneficiários quando forem recebidas ainda quente e não tenham sido resfriadas.
+
+No caso de recebimento de refeições prontas para o consumo, recebidas e mantidas à quente, é recomendável que sejam servidas imediatamente, não sendo guardadas para posterior distribuição.
+
+Em termos gerais, para receber os alimentos doados são necessárias as seguintes condições:
+
+Transporte adequado, conforme descrito anteriormente (item 5.3 Transporte e distribuição de alimentos doados);
+
+Identificação adequada e rótulo legível, em caso de alimentos industrializados, conforme descrito anteriormente (item 5.2 Expedição de alimentos doados);
+
+Prazo de validade dentro do período de consumo, quando aplicável;
+
+Condições de conservação conforme orientações do doador (verificar no rótulo ou identificação);";Leonardo Melo, RM 567097;data_revisao = 2026-11-08;sim;sim;sim;sim;sim;sim;sim;aprovado;;
+QA-0007;qa;qa;D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf;sorteio_25pct_estratificado;"PERGUNTA: Como posso identificar se um alimento está podre antes de doá-lo?
+RESPOSTA: Verifique se há bolor, podridão ou presença de fungos. Se encontrar esses sinais, não doe o alimento.";Cor amarelada Rejeitar Hortaliças folhosas, Bolor Rejeitar;"Segurança de alimentos: garantia de que o alimento não causará efeitos adversos à saúde do consumidor quando for preparado e/ou consumido de acordo com o uso pretendido.
+
+Segurança sanitária: garantia ao indivíduo e à coletividade pela ação preventiva à saúde e a higiene.
+
+Senescência: é o processo natural de envelhecimento. São exemplos de senescência: perda de água (murchar), mudanças de cor, apodrecimento por contaminação microbiológica, mudança de textura (aumento da produção de fibra) e alteração da composição química do vegetal.
+
+ANEXO I – Imagens demonstrativas das falhas e alterações na integridade dos alimentos in natura Orientações para avaliação dos aspectos referentes a integridade de frutas e hortaliças para doação:
+
+Alimento Característica Orientações Murcho Rejeitar Cor amarelada Rejeitar Hortaliças folhosas, Bolor Rejeitar talos e inflorescências(A) Cor verde Aceitar Tamanho inferior ou superior ao padrão [NOME] [NOME] (é possível dobrar) Rejeitar Hortaliças, raízes, Presença de podridão Rejeitar bulbos, rizomas e Bolor Rejeitar tubérculos(B) Tamanho inferior ou superior ao padrão Aceitar Cor característica de muito maduro e Rejeitar presença de podridão Hortaliças frutos(C) e Bolor Rejeitar Frutas(D) Cicatriz e broca dentro do fruto ou fruta Rejeitar Cicatriz e broca somente na casca Aceitar Cor característica Aceitar Legenda: (A) [NOME], agrião, alface, alcachofra, almeirão, alho-poró, brócolis, capim-cidreira, catalonha, cebolinha, chicória, coentro, couve, couve-flor, escarola, espinafre, repolho, rúcula, salsão.";Leonardo Melo, RM 567097;data_revisao = 2026-11-08;sim;sim;sim;sim;sim;sim;sim;aprovado;;
+QA-0012;qa;qa;D4_Guia_ANVISA_Boas_Praticas_Bancos_Alimentos.pdf;sorteio_25pct_estratificado;"PERGUNTA: O que são bancos de alimentos?
+RESPOSTA: Bancos de alimentos são estruturas que recebem alimentos doados e os distribuem gratuitamente para instituições que trabalham com assistência social.";Bancos de alimentos são estruturas físicas e/ou logísticas que realizam o serviço de captação e/ou recepção e distribuição gratuita de gêneros alimentícios oriundos de doações, para direcionamento a instituições públicas ou privadas, caracterizadas como prestadoras de serviço de assistência social...;"ESCOPO Bancos de alimentos são estruturas físicas e/ou logísticas que realizam o serviço de captação e/ou recepção e distribuição gratuita de gêneros alimentícios oriundos de doações, para direcionamento a instituições públicas ou privadas, caracterizadas como prestadoras de serviço de assistência social, de proteção e defesa civil, unidades de ensino e de justiça, estabelecimentos de saúde e demais unidades de alimentação e nutrição.
+
+Com o objetivo de fortalecer e integrar a atuação dos bancos de alimentos no Brasil, a Rede Brasileira de Bancos de Alimentos foi instituída pela Portaria MDS nº 17, em 14 de abril de 2016 (BRASIL, 2016). A Rede, pautada nos princípios do Sistema Nacional de Segurança Alimentar e Nutricional, da Política Nacional de Segurança Alimentar e Nutricional e do I Plano Nacional de Segurança Alimentar e Nutricional (Brasil, 2010), tem como objetivos:
+
+I – promover a troca de experiências, o fortalecimento e a qualificação dos bancos de alimentos;
+
+II – fomentar ações educativas voltadas à segurança alimentar e nutricional e ao fortalecimento institucional;
+
+III – estimular ações para a redução de perdas e do desperdício de alimentos no país;
+
+IV – fomentar pesquisas relacionadas aos bancos de alimentos;
+
+V – estimular políticas e ações públicas de segurança alimentar e nutricional que fortaleçam os bancos de alimentos; e
+
+VI – articular e facilitar negociações estratégicas para os bancos de alimentos [1].
+
+Visando a manipulação segura dos alimentos nos bancos de alimentos e, consequentemente, a segurança alimentar e nutricional dos beneficiários, é recomendável que cada banco de alimentos elabore e implemente seu Manual de Boas Práticas.";Leonardo Melo, RM 567097;data_revisao = 2026-11-08;sim;sim;sim;sim;sim;sim;sim;aprovado;;
+QA-0013;qa;qa;D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf;sorteio_25pct_estratificado;"PERGUNTA: O que devo considerar na estrutura física para receber doações de alimentos?
+RESPOSTA: É importante garantir que a estrutura física onde os alimentos serão armazenados esteja limpa, arejada e livre de pragas para evitar contaminação.";Quanto à estrutura física:;"Figura: 7 - Exemplo de registro do controle de temperatura da doação Local que está recebendo a doação: ___________________ Data da doação: ___/___/____ Nome do responsável pela entrega: _____________________________________________ Nome do responsável pela recepção do produto doado: _____________________________ Descrição do produto doado:___________________________________________________ Temperatura do equipamento na entrega (se aplicável): _____________________________ Temperatura do alimento na entrega: ____________________________________________ Tempo de transporte (se aplicável): ______________________________________________ Em caso de inadequação, qual foi a ação corretiva? _________________________________ Observações: ________________________________________________________________ Assinatura do Avaliador:
+
+- Em relação à logística de coleta e entrega de doações:
+
+Para doação de refeições prontas para o consumo e alimentos perecíveis, recomenda-se que os doadores priorizem locais próximos ao seu estabelecimento para fazer as doações, reduzindo o percurso necessário do transporte, a fim de que os alimentos cheguem ao local recebedor no menor tempo possível.
+
+Em alguns casos, os intermediários são responsáveis por buscar as doações nos doadores.
+
+A Figura 8 expõe as principais condições a serem consideradas na logística de coleta e entrega das doações.
+
+Figura 8– Principais condições a serem consideradas na logística de coleta e entrega das doações.
+
+Fonte: Adaptado Guia do Ministério da Cidadania, 2020.
+
+5.4 Procedimentos de Boas Práticas a serem realizados nos agentes intermediários
+
+5.4.1 Recepção Para que a doação de alimentos ocorra de maneira segura, é necessário que os intermediários atuem conforme as legislações sanitárias em vigor. Por esse fato, faz-se necessário esclarecimentos dos requisitos exigidos pelas regulamentações, com aplicação no atual cenário discutido neste Guia. Para a adequada recepção dos alimentos doados, recomenda-se
+
+Quanto à estrutura física:";Leonardo Melo, RM 567097;data_revisao = 2026-11-08;sim;sim;sim;sim;sim;sim;sim;aprovado;;
+QA-0022;qa;qa;D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf;sorteio_25pct_estratificado;"PERGUNTA: Quanto tempo posso armazenar alimentos preparados refrigerados antes de consumi-los?
+RESPOSTA: Se os alimentos preparados forem armazenados sob refrigeração a 4°C ou inferior, o prazo máximo de consumo é de 5 dias. Se a temperatura for superior a 4°C e inferior a 5°C, o prazo deve ser reduzido para garantir as condições higiênico-sanitárias do alimento.";O prazo máximo de consumo do alimento preparado e conservado sob refrigeração a temperatura de 4°C (quatro graus Celsius), ou inferior, deve ser de 5 (cinco) dias.;"Importante: antes de doar um produto industrializado, verifique o rótulo e confirme que o mesmo está dentro do prazo de validade Ressalta-se que em alguns produtos/alimentos a indicação do prazo de validade não é exigida pelas legislações, como por exemplo: frutas e hortaliças frescas, produtos de panificação e confeitaria (cujo consumo seja realizado dentro de 24 horas após a sua fabricação), açúcar, entre outros. Para esses produtos, a avaliação precisa considerar principalmente a integridade.
+
+Para saber mais sobre os alimentos que necessitam ou não de prazos de consumo/validade, recomenda-se a consulta ao Guia sobre Prazos de Validade da Anvisa, clicando aqui.
+
+Os alimentos preparados, como refeições, também dispõem de critérios para os prazos para consumo, conforme a RDC nº 216/2004:
+
+4.8.17 O prazo máximo de consumo do alimento preparado e conservado sob refrigeração a temperatura de 4°C (quatro graus Celsius), ou inferior, deve ser de 5 (cinco) dias. Quando forem utilizadas temperaturas superiores a 4°C (quatro graus Celsius) e inferiores a 5°C (cinco graus Celsius), o prazo máximo de consumo deve ser reduzido, de forma a garantir as condições higiênico-sanitárias do alimento preparado.
+
+4.8.18 Caso o alimento preparado seja armazenado sob refrigeração ou congelamento deve-se pôr no invólucro do mesmo, no mínimo, as seguintes informações: designação, data de preparo e prazo de validade. A temperatura de armazenamento deve ser regularmente monitorada e registrada.
+
+Existem algumas legislações estaduais e municipais que complementam os critérios para os prazos para consumo estabelecidos pelas regulamentações federais. Alguns exemplos são:
+
+Portaria CVS 5/2013 e Portaria 2619/2011:";Leonardo Melo, RM 567097;data_revisao = 2026-11-08;sim;sim;sim;sim;sim;sim;sim;aprovado;;
+QA-0025;qa;qa;D4_Guia_ANVISA_Boas_Praticas_Bancos_Alimentos.pdf;sorteio_25pct_estratificado;"PERGUNTA: O que é necessário para garantir a segurança dos alimentos doados?
+RESPOSTA: É necessário seguir as Boas Práticas de Fabricação e as Boas Práticas para serviços de alimentação. Isso inclui manter as condições higiênico-sanitárias adequadas durante o preparo, armazenamento, transporte e distribuição dos alimentos.";essa Portaria dispõe, entre outras matérias, sobre as diretrizes para o estabelecimento de Boas Práticas de Produção e Prestação de Serviços na área de alimentos;"Portaria nº 1.428, de 26 de novembro de 1993 Precursora na regulamentação desse tema, essa Portaria dispõe, entre outras matérias, sobre as diretrizes para o estabelecimento de Boas Práticas de Produção e Prestação de Serviços na área de alimentos (BRASIL,1993) Portaria SVS/MS nº 326, de 30 de julho de 1997 Baseada nos Princípios Gerais de Higiene dos Alimentos CAC/VOL. A, Ed. 2 (1985), do Codex Alimentarius, e harmonizada no Mercosul, essa [NOME] estabelece os requisitos gerais sobre as condições higiênico-sanitárias e de Boas Práticas de Fabricação (BPF) para estabelecimentos produtores/industrializadores de alimentos (BRASIL, 1997).
+
+Resolução RDC nº 218, de 29 de julho de 2005 Essa Resolução estabelece procedimentos higiênico-sanitários para o preparo, acondicionamento, armazenamento, transporte e distribuição de alimentos e bebidas preparados com vegetais, com a finalidade de prevenir doenças de origem alimentar (BRASIL, 2005).
+
+Resolução RDC nº 216, de 15 de setembro de 2004 Essa Resolução estabelece os procedimentos de Boas Práticas para serviços de alimentação, a fim de garantir as condições higiênico-sanitárias do alimento preparado. Aplica-se aos serviços de alimentação que realizam algumas das seguintes atividades: manipulação, preparação, fracionamento, armazenamento, distribuição, transporte, exposição à venda e entrega de alimentos preparados ao consumo (BRASIL, 2004).
+
+4.";Leonardo Melo, RM 567097;data_revisao = 2026-11-08;sim;sim;sim;sim;sim;sim;sim;aprovado;;
+QA-0028;qa;qa;D1_Lei_15224_2025.htm;sorteio_25pct_estratificado;"PERGUNTA: O que é um doador de alimentos?
+RESPOSTA: Um doador de alimentos é uma pessoa física ou jurídica que doa alimentos voluntariamente.";"III – doador de alimentos: pessoa física ou jurídica, pública ou privada, que doa alimentos voluntariamente;";"III – doador de alimentos: pessoa física ou jurídica, pública ou privada, que doa alimentos voluntariamente;
+
+IV – beneficiário: receptor final, pessoa física, que consome os alimentos doados;
+
+V – banco de alimentos: estrutura física ou logística que oferta serviços de captação ou de recepção, bem como de distribuição gratuita, de gêneros alimentícios provenientes de doações dos setores público e privado direcionados a instituições receptoras públicas ou privadas;
+
+VI – instituição receptora sem fins lucrativos: instituição pública, instituição privada sem fins lucrativos, organização da sociedade civil ou entidade religiosa que atua como intermediária entre doadores de alimentos ou banco de alimentos e beneficiários das doações e que possui estrutura adequada de armazenamento, de preparo ou de distribuição final dos alimentos a beneficiários, nos termos de regulamento;
+
+VII – instituição receptora com fins lucrativos: instituição privada com fins lucrativos que atua como intermediária entre doadores de alimentos ou banco de alimentos e beneficiários das doações e que possui estrutura de armazenamento, de preparo ou de distribuição final dos alimentos a beneficiários;
+
+VIII – microcoleta: coleta de pequenas quantidades de alimentos destinados a doações, de pessoas físicas ou jurídicas.
+
+CAPÍTULO II DOS PRINCÍPIOS E DOS OBJETIVOS
+
+Art. 4º São princípios da PNCPDA:
+
+I – visão sistêmica do desperdício e da perda de alimentos, consideradas suas consequências para o meio ambiente, a cultura, a economia e a saúde pública;
+
+II – respeito, proteção, promoção e provimento do direito humano à alimentação, em consonância com o art. 25 da Declaração Universal dos Direitos Humanos, de 10 de dezembro de 1948, e com o art. 6º da Constituição Federal;
+
+III – conscientização de produtores, de distribuidores e da população, especialmente crianças e jovens, a respeito das consequências do desperdício e da perda de alimentos para a sociedade;
+
+IV – responsabilidade compartilhada sobre os alimentos, desde sua produção até seu consumo e descarte final;";Leonardo Melo, RM 567097;data_revisao = 2026-11-08;sim;sim;sim;sim;sim;sim;sim;aprovado;;
+QA-0030;qa;qa;D4_Guia_ANVISA_Boas_Praticas_Bancos_Alimentos.pdf;duvidoso: termo sensível: /\bsegur[oa]s?\b/;"PERGUNTA: É seguro usar produtos odorizantes nas áreas onde são armazenados os alimentos?
+RESPOSTA: Não, não é seguro usar produtos odorizantes nas áreas de armazenamento dos alimentos.";"Não utilizar substâncias odorizantes e ou desodorantes nas áreas de processamento e armazenamento dos alimentos;";"Ter cuidado para não contaminar os alimentos por produtos saneantes, partículas suspensas e pela formação de aerossóis. Não realizar operações de higienização concomitantemente à manipulação de alimentos;
+
+Não utilizar substâncias odorizantes e ou desodorantes nas áreas de processamento e armazenamento dos alimentos;
+
+Utilizar apenas produtos saneantes regularizados e seguir as instruções fornecidas nos rótulos para diluição e o tempo de contato e modo de uso/aplicação;
+
+Para a higienização, utilizar utensílios e equipamentos próprios, bem conservados, limpos e disponíveis em número suficiente;
+
+Utilizar utensílios distintos para a higienização de instalações, daqueles usados para higienização das partes dos equipamentos e utensílios que entrem em contato com o alimento;
+
+Identificar e armazenar produtos saneantes, utensílios e equipamentos utilizados na higienização em local reservado para essa finalidade;
+
+Observar a legislação específica para realização de descarte dos resíduos.
+
+4.3. Manipuladores de Alimentos As equipes que operam nos bancos de alimentos contam com colaboradores próprios, mas também com temporários e voluntários, e todos precisam estar igualmente capacitados para desempenhar as atividades e conhecer os cuidados de higiene na manipulação de alimentos. Deste modo, as atividades de orientação e capacitação desses agentes devem ser frequentes de modo a manter a qualidade higiênico-sanitária dos processos operacionais dos equipamentos, conforme determina a RDC nº 216/2004 (Brasil, 2004). Ademais, recomenda-se a implementação de estratégias de orientações e treinamentos rápidos e específicos para as atividades que serão realizadas pelos colaboradores eventuais.
+
+Os conhecimentos mínimos envolvem noções de higiene pessoal, manipulação higiênica dos alimentos e doenças transmitidas por alimentos.
+
+As capacitações dos manipuladores de alimentos podem ser desenvolvidas pelo próprio banco, ou realizadas por meio de cursos oferecidos por outras instituições parceiras.";Leonardo Melo, RM 567097;data_revisao = 2026-11-08;sim;sim;sim;sim;sim;sim;sim;aprovado;;
+QA-0038;qa;qa;D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf;sorteio_25pct_estratificado;"PERGUNTA: Quem pode ser considerado doador de alimentos?
+RESPOSTA: Estabelecimentos dedicados à produção e fornecimento de alimentos, incluindo empresas, hospitais, supermercados, cooperativas, restaurantes, lanchonetes e outros que fornecem alimentos prontos para consumo.";Os estabelecimentos dedicados à produção e ao fornecimento de alimentos, incluídos alimentos in natura, produtos industrializados e refeições prontas para o consumo, ficam autorizados a doar os excedentes não comercializados e ainda próprios para o consumo humano...;"Setor público: prefeituras e órgãos ligados a ela; Ministério Público; setores do governo estadual e federal; setores públicos ligados aos portos, aeroportos e fronteiras, entre outros.
+
+Grupos de voluntários: grupos de bairro e de associações comunitárias; pessoas com atividades afins, como grupos de estudantes, pais, vizinhos, amigos, entre outros.
+
+Muitos dos estabelecimentos citados podem ser considerados como doadores, mas também podem se enquadrar como intermediários, ou até mesmo como beneficiários, como por exemplo, as escolas e as instituições de ensino.
+
+A doação de alimentos pode ocorrer em qualquer etapa da cadeia de produção e abastecimento de alimentos. Pela sua atuação estratégica e responsabilidade social, os intermediários podem articular a doação diretamente com os responsáveis pela produção dos alimentos, pelo manuseio e transporte, pelo beneficiamento, pela comercialização e distribuição, e até com restaurantes e consumidores em seus domicílios que tenham em suas despensas e estoques alimentos ainda não preparados, mas aptos e seguros para a doação (Figura 2).
+
+Figura 2- Cadeia de produção e abastecimento de alimentos Fonte: Guia do Ministério da Cidadania, 2020.
+
+A Lei de Doação de Alimentos trata dos doadores no seguinte artigo: ""Art. 1º Os estabelecimentos dedicados à produção e ao fornecimento de alimentos, incluídos alimentos in natura, produtos industrializados e refeições prontas para o consumo, ficam autorizados a doar os excedentes não comercializados e ainda próprios para o consumo humano...
+
+§ 1º O disposto no caput deste artigo abrange empresas, hospitais, supermercados, cooperativas, restaurantes, lanchonetes e todos os demais estabelecimentos que forneçam alimentos preparados prontos para o consumo de trabalhadores, de empregados, de colaboradores, de parceiros, de pacientes e de clientes em geral"" (BRASIL, 2020a).";Leonardo Melo, RM 567097;data_revisao = 2026-11-08;sim;sim;sim;sim;sim;sim;sim;aprovado;;
+QA-0046;qa;qa;D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf;sorteio_25pct_estratificado;"PERGUNTA: O que devo fazer se tiver dúvidas sobre a segurança dos alimentos recebidos?
+RESPOSTA: Verifique as legislações sanitárias vigentes, busque orientações nas sedes da vigilância sanitária local ou busque apoio de profissionais qualificados, como os nutricionistas.";Se houver dúvidas sobre a segurança dos alimentos recebidos nas doações, verifique as legislações sanitárias vigentes, busque orientações nas sedes da vigilância sanitária local ou busque apoio de profissionais qualificados, como os nutricionistas.;"Guia de boas práticas para banco de alimentos, Anvisa, 2021.
+
+O processamento de alimentos é uma prática verificada em alguns intermediários como uma alternativa para o grande volume de alimentos recebidos. Quando observada esta necessidade, recomenda-se que seja realizado um estudo de viabilidade para a implementação desta atividade. É imprescindível a adoção criteriosa das Boas Práticas na manipulação e processamento de alimentos, com base em parâmetros higiênico-sanitários estabelecidos pela legislação vigente, de modo a evitar perigo adicional de contaminação.
+
+Se houver dúvidas sobre a segurança dos alimentos recebidos nas doações, verifique as legislações sanitárias vigentes, busque orientações nas sedes da vigilância sanitária local ou busque apoio de profissionais qualificados, como os nutricionistas.
+
+5.4.2 Armazenamento Caso os alimentos não sejam utilizados imediatamente após o recebimento, os mesmos necessitam ser armazenados conforme as características do produto. Cada intermediário, de acordo com as suas atividades, é responsável por especificar os critérios de armazenamento dos alimentos que recebeu para a doação aos beneficiários.
+
+Durante esta etapa de armazenamento recomenda-se que o intermediário mantenha as avaliações periódicas dos alimentos doados, conforme a especificidade e aplicabilidade de cada doação.
+
+Recomenda-se a avaliação da temperatura, quando aplicável, em alimentos perecíveis e refeições prontas para o consumo, mantendo o registro dessas avaliações para eventual investigação de desvios nos alimentos doados ou para comprovação do cumprimento das Boas Práticas para doação segura dos alimentos.
+
+Quando necessário o armazenamento de doações que foram reprovadas na avaliação e que por algum motivo não foram devolvidas ao doador, é fundamental que os alimentos reprovados sejam separados das demais doações. Recomenda-se a segregação e identificação desses alimentos, de forma clara (ex. ""Doação Reprovada"") e, preferencialmente, indicar na mesma identificação o destino e prazo de retirada.";Leonardo Melo, RM 567097;data_revisao = 2026-11-08;sim;sim;sim;sim;sim;sim;sim;aprovado;;
+QA-0048;qa;qa;D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf;sorteio_25pct_estratificado;"PERGUNTA: Como posso garantir a segurança dos alimentos preparados antes de doá-los?
+RESPOSTA: É necessário garantir que o tempo de exposição não foi excedido e que a temperatura foi mantida adequadamente. Recomenda-se que esses alimentos sejam doados para consumo imediato.";É necessário garantir que o tempo de exposição não foi excedido e que a temperatura foi mantida adequadamente. Recomenda-se que esses alimentos sejam doados para consumo imediato.;"Os alimentos preparados que foram expostos na área de distribuição sem embalagem de proteção, ou seja, em balcões expositores ou buffets, precisam ser avaliados cuidadosamente antes da doação. É necessário garantir que o tempo de exposição não foi excedido e que a temperatura foi mantida adequadamente. Recomenda-se que esses alimentos sejam doados para consumo imediato. Restos que já foram servidos ao consumidor (restos de pratos, por exemplo) não podem ser doados, pois não há como garantir a sua segurança sanitária.
+
+Os alimentos preparados, embalados e identificados, podem ser doados após exposição ao usuário, desde que estejam dentro do prazo de consumo.
+
+Para os alimentos não perecíveis, frutas e hortaliças, recomenda-se conservação ao abrigo do sol e calor, em local limpo e seco, arejado e sem odores.
+
+No caso de alimentos industrializados, as orientações de conservação estão presentes no rótulo do produto. Dessa forma, a avaliação consiste em verificar se essas condições foram atendidas.
+
+Medição de temperatura:
+
+Recomenda-se a avaliação cuidadosa da temperatura do alimento. É importante que a medição da temperatura dos alimentos preparados e mantidos refrigerados ou quentes seja feita no centro geométrico do alimento, conforme exemplo da Figura 6.
+
+Figura 6 - Exemplo de medição no centro geométrico dos alimentos mantidos à quente e a frio.
+
+Fonte: Ilustração de [NOME] Para os alimentos congelados, avalia-se a temperatura da superfície do alimento. Não é necessário romper as embalagens, quando presente. Nesse caso, é recomendável encostar um produto no outro e dispor o termômetro entre os produtos até a estabilização da temperatura.
+
+A Anvisa solicitou um estudo de comparação das temperaturas de alimentos e preparações usando o termômetro tipo digital de penetração (tipo espeto) e termômetro tipo digital infravermelho. O estudo foi realizado pelas Universidade Federal de São Paulo, Universidade Federal do Rio Grande do Sul, Universidade Franciscana, Universidade de Brasília e Centro de Diagnósticos Laboratoriais (SP).";Leonardo Melo, RM 567097;data_revisao = 2026-11-08;sim;sim;sim;sim;sim;sim;sim;aprovado;;
+QA-0050;qa;qa;D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf;sorteio_25pct_estratificado;"PERGUNTA: Quem são considerados os voluntários mencionados no guia?
+RESPOSTA: Voluntários são pessoas que ajudam nas doações de alimentos sem ganho financeiro.";"Mas este Guia também serve de recomendação para grupos não contemplados nessa legislação e para aqueles sem legislação sanitária específica para receberem ou doarem alimentos. São eles: os voluntários; as entidades filantrópicas, religiosas e outras formas de caridade e solidariedade; as entidades beneficentes de assistência certificadas ou entidades religiosas.";"Estabelecimento de produtos de origem animal sob inspeção federal/estadual/municipal: qualquer instalação industrial na qual sejam abatidos ou industrializados animais produtores de carnes e onde sejam obtidos, recebidos, manipulados, beneficiados, industrializados, fracionados, conservados, armazenados, acondicionados, embalados, rotulados ou expedidos, com finalidade industrial ou comercial, a carne e seus derivados, o pescado e seus derivados, os ovos e seus derivados, o leite e seus derivados ou os produtos de abelhas e seus derivados, incluídos os estabelecimentos agroindustriais de pequeno porte de produtos de origem animal (BRASIL, 2017, 2020 b).
+
+Estabelecimento que elabore, beneficie, processe, industrialize, fracione, armazene e transporte produtos vegetais, seus subprodutos e resíduos de valor econômico para o consumo humano (BRASIL, 2020 c).
+
+A Lei de Doação de Alimentos não abarca todos os agentes envolvidos no processo, pois o foco são os estabelecimentos descritos anteriormente, com a doação de excedentes não comercializados. Mas este Guia também serve de recomendação para grupos não contemplados nessa legislação e para aqueles sem legislação sanitária específica para receberem ou doarem alimentos. São eles: os voluntários; as entidades filantrópicas, religiosas e outras formas de caridade e solidariedade; as entidades beneficentes de assistência certificadas ou entidades religiosas.";Leonardo Melo, RM 567097;data_revisao = 2026-11-08;sim;sim;sim;sim;sim;sim;sim;aprovado;;
+QA-0051;qa;qa;D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf;sorteio_25pct_estratificado;"PERGUNTA: Qual é a recomendação para as entidades filantrópicas e religiosas em relação à doação de alimentos?
+RESPOSTA: As entidades filantrópicas e religiosas devem seguir as recomendações deste guia para garantir a segurança dos alimentos durante a doação.";"Mas este Guia também serve de recomendação para grupos não contemplados nessa legislação e para aqueles sem legislação sanitária específica para receberem ou doarem alimentos. São eles: os voluntários; as entidades filantrópicas, religiosas e outras formas de caridade e solidariedade; as entidades beneficentes de assistência certificadas ou entidades religiosas.";"Estabelecimento de produtos de origem animal sob inspeção federal/estadual/municipal: qualquer instalação industrial na qual sejam abatidos ou industrializados animais produtores de carnes e onde sejam obtidos, recebidos, manipulados, beneficiados, industrializados, fracionados, conservados, armazenados, acondicionados, embalados, rotulados ou expedidos, com finalidade industrial ou comercial, a carne e seus derivados, o pescado e seus derivados, os ovos e seus derivados, o leite e seus derivados ou os produtos de abelhas e seus derivados, incluídos os estabelecimentos agroindustriais de pequeno porte de produtos de origem animal (BRASIL, 2017, 2020 b).
+
+Estabelecimento que elabore, beneficie, processe, industrialize, fracione, armazene e transporte produtos vegetais, seus subprodutos e resíduos de valor econômico para o consumo humano (BRASIL, 2020 c).
+
+A Lei de Doação de Alimentos não abarca todos os agentes envolvidos no processo, pois o foco são os estabelecimentos descritos anteriormente, com a doação de excedentes não comercializados. Mas este Guia também serve de recomendação para grupos não contemplados nessa legislação e para aqueles sem legislação sanitária específica para receberem ou doarem alimentos. São eles: os voluntários; as entidades filantrópicas, religiosas e outras formas de caridade e solidariedade; as entidades beneficentes de assistência certificadas ou entidades religiosas.";Leonardo Melo, RM 567097;data_revisao = 2026-11-08;sim;sim;sim;sim;sim;sim;sim;aprovado;;
+QA-0053;qa;qa;D4_Guia_ANVISA_Boas_Praticas_Bancos_Alimentos.pdf;sorteio_25pct_estratificado;"PERGUNTA: Quanto tempo devo lavar as mãos para garantir que elas estejam limpas?
+RESPOSTA: É recomendado lavar as mãos por no mínimo 20 segundos.";10 segundos para lavar as mãos. Atenção: para uma boa lavagem de mãos, recomenda-se que a duração seja de no mínimo 20 segundos.;"A maioria das pessoas não gasta nem Mantenha as unhas curtas e sem esmalte. 10 segundos para lavar as mãos. Atenção: para uma boa lavagem de mãos, recomenda-se que a duração seja de no mínimo 20 segundos.
+
+Preste atenção para não fumar, comer, Como a grande quantidade de micróbios tossir, espirrar, cantar, assoviar, falar ou patogênicos é encontrada na boca, no nariz e nos mexer em dinheiro durante o preparo de ouvidos, esses comportamentos podem gerar alimentos. contaminações nos alimentos.
+
+Se estiver doente ou com cortes e feridas, A pessoa doente (com diarreia, vômito, gripe, dor de não manipule alimentos. garganta ou conjuntivite) apresenta um alto número de micróbios patogênicos em seu corpo que pode facilmente contaminar os alimentos. Os machucados como cortes, feridas e arranhões também têm um alto número de micróbios patogênicos.
+
+Tabela 3. Recomendações de higiene pessoal para manipuladores de alimentos, de acordo com a RDC 216/2004.
+
+Além dos cuidados de higiene próprios do manipulador, também são necessários alguns cuidados durante o preparo de alimentos, no caso de bancos de alimentos que realizam atividades de processamento.
+
+De forma geral, frutas e hortaliças precisam ser higienizados antes de serem utilizados no preparo de alimentos. A correta higienização elimina micróbios patogênicos e parasitas. A seguir, são apresentadas algumas orientações específicas:
+
+1) Selecionar, retirando as folhas, partes e unidades deterioradas;
+
+2) Lavar em água corrente vegetais folhosos (ex.: alface, escarola, rúcula, agrião, etc.), folha a folha, e frutas e legumes, um a um;
+
+3)";Leonardo Melo, RM 567097;data_revisao = 2026-11-08;sim;sim;sim;sim;sim;sim;sim;aprovado;;
+QA-0057;qa;qa;D2_RDC_ANVISA_216_2004.html;sorteio_25pct_estratificado;"PERGUNTA: Como garantir que as superfícies dos equipamentos utilizados na doação de alimentos estejam adequadas?
+RESPOSTA: As superfícies devem ser lisas, impermeáveis, laváveis e isentas de rugosidades e frestas para evitar contaminação.";As superfícies dos equipamentos, móveis e utensílios utilizados na preparação, embalagem, armazenamento, transporte, distribuição e exposição à venda dos alimentos devem ser lisas, impermeáveis, laváveis e estar isentas de rugosidades, frestas e outras imperfeições que possam comprometer a higienização dos mesmos e serem fontes de contaminação dos alimentos.;"4.1.17 As superfícies dos equipamentos, móveis e utensílios utilizados na preparação, embalagem, armazenamento, transporte, distribuição e exposição à venda dos alimentos devem ser lisas, impermeáveis, laváveis e estar isentas de rugosidades, frestas e outras imperfeições que possam comprometer a higienização dos mesmos e serem fontes de contaminação dos alimentos.
+
+4.2 HIGIENIZAÇÃO DE INSTALAÇÕES, EQUIPAMENTOS, MÓVEIS E UTENSÍLIOS
+
+4.2.1 As instalações, os equipamentos, os móveis e os utensílios devem ser mantidos em condições higiênico-sanitárias apropriadas. As operações de higienização devem ser realizadas por funcionários comprovadamente capacitados e com freqüência que garanta a manutenção dessas condições e minimize o risco de contaminação do alimento.
+
+4.2.2 As caixas de gordura devem ser periodicamente limpas. O descarte dos resíduos deve atender ao disposto em legislação específica.
+
+4.2.3 As operações de limpeza e, se for o caso, de desinfecção das instalações e equipamentos, quando não forem realizadas rotineiramente, devem ser registradas.
+
+4.2.4 A área de preparação do alimento deve ser higienizada quantas vezes forem necessárias e imediatamente após o término do trabalho. Devem ser tomadas precauções para impedir a contaminação dos alimentos causada por produtos saneantes, pela suspensão de partículas e pela formação de aerossóis. Substâncias odorizantes e ou desodorantes em quaisquer das suas formas não devem ser utilizadas nas áreas de preparação e armazenamento dos alimentos.
+
+4.2.5 Os produtos saneantes utilizados devem estar regularizados pelo Ministério da Saúde. A diluição, o tempo de contato e modo de uso/aplicação dos produtos saneantes devem obedecer às instruções recomendadas pelo fabricante. Os produtos saneantes devem ser identificados e guardados em local reservado para essa finalidade.";Leonardo Melo, RM 567097;data_revisao = 2026-11-08;sim;sim;sim;sim;sim;sim;sim;aprovado;;
+QA-0058;qa;qa;D2_RDC_ANVISA_216_2004.html;sorteio_25pct_estratificado;"PERGUNTA: Como devo armazenar os alimentos preparados para garantir a sua qualidade?
+RESPOSTA: Os alimentos preparados devem ser armazenados em condições de temperatura adequadas e identificados corretamente. É importante manter a identificação com a designação do produto, a data de preparo e o prazo de validade.";Os alimentos preparados mantidos na área de armazenamento ou aguardando o transporte devem estar identificados e protegidos contra contaminantes. Na identificação deve constar, no mínimo, a designação do produto, a data de preparo e o prazo de validade.;"4.8.19 Quando aplicável, os alimentos a serem consumidos crus devem ser submetidos a processo de higienização a fim de reduzir a contaminação superficial. Os produtos utilizados na higienização dos alimentos devem estar regularizados no órgão competente do Ministério da Saúde e serem aplicados de forma a evitar a presença de resíduos no alimento preparado.
+
+4.8.20 O estabelecimento deve implementar e manter documentado o controle e garantia da qualidade dos alimentos preparados.
+
+4.9 ARMAZENAMENTO E TRANSPORTE DO ALIMENTO PREPARADO
+
+4.9.1 Os alimentos preparados mantidos na área de armazenamento ou aguardando o transporte devem estar identificados e protegidos contra contaminantes. Na identificação deve constar, no mínimo, a designação do produto, a data de preparo e o prazo de validade.
+
+4.9.2 O armazenamento e o transporte do alimento preparado, da distribuição até a entrega ao consumo, deve ocorrer em condições de tempo e temperatura que não comprometam sua qualidade higiênico-sanitária. A temperatura do alimento preparado deve ser monitorada durante essas etapas.
+
+4.9.3 Os meios de transporte do alimento preparado devem ser higienizados, sendo adotadas medidas a fim de garantir a ausência de vetores e pragas urbanas. Os veículos devem ser dotados de cobertura para proteção da carga, não devendo transportar outras cargas que comprometam a qualidade higiênico-sanitária do alimento preparado.
+
+4.10 EXPOSIÇÃO AO CONSUMO DO ALIMENTO PREPARADO
+
+4.10.1 As áreas de exposição do alimento preparado e de consumação ou refeitório devem ser mantidas organizadas e em adequadas condições higiênico-sanitárias. Os equipamentos, móveis e utensílios disponíveis nessas áreas devem ser compatíveis com as atividades, em número suficiente e em adequado estado de conservação.";Leonardo Melo, RM 567097;data_revisao = 2026-11-08;sim;sim;sim;sim;sim;sim;sim;aprovado;;
+QA-0066;qa;qa;D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf;sorteio_25pct_estratificado;"PERGUNTA: Quem é considerado autoridade fiscalizadora na doação de alimentos?
+RESPOSTA: Considera-se como autoridade fiscalizadora a autoridade sanitária integrante do Sistema Nacional de Vigilância Sanitária ou de órgão de proteção e defesa do consumidor da administração pública, direta ou indireta, nas esferas federal, estadual, distrital ou municipal.";Conforme Decreto n. 9.579/2018, considera-se como autoridade fiscalizadora a autoridade sanitária integrante do Sistema Nacional de Vigilância Sanitária ou de órgão de proteção e defesa do consumidor da administração pública, direta ou indireta, nas esferas federal, estadual, distrital ou municipal.;"Conforme Decreto n. 9.579/2018, considera-se como autoridade fiscalizadora a autoridade sanitária integrante do Sistema Nacional de Vigilância Sanitária ou de órgão de proteção e defesa do consumidor da administração pública, direta ou indireta, nas esferas federal, estadual, distrital ou municipal.
+
+Além disso, no caso de doação para menores de 12 meses, o fornecimento do alimento deve ser garantido continuamente até o período em que a criança necessitar.
+
+Desta forma, havendo interesse em doar produtos do escopo da NBCAL, os doadores devem entrar em contato com a autoridade fiscalizadora correspondente à área de abrangência da doação (federal, estadual ou municipal), informando sobre a intenção da doação (descrição clara do produto a ser doado) e apresentando documentação que comprove: − a excepcional necessidade individual ou coletiva, como documentos que atestem a real necessidade do produto do beneficiário e impossibilidade financeira de adquiri-los; − a garantia de continuidade da doação dos produtos para menores de 12 meses, enquanto houver necessidade.
+
+Ressalta-se que a doação somente deve ser realizada após autorização da autoridade fiscalizadora competente.
+
+5. BOAS PRÁTICAS PARA DOAÇÕES DE ALIMENTOS E O RISCO SANITÁRIO Boas Práticas é um conceito mundialmente conhecido e utilizado em todo ciclo produtivo dos alimentos, do campo à mesa da população. Conforme o item 3 deste Guia (Base legal), recomenda-se a implementação das Boas Práticas no processo de doação de alimentos como forma de promover a segurança sanitária dos alimentos, ou seja, garantir que o alimento esteja seguro para o consumo.
+
+Doar alimentos seguindo os requisitos das Boas Práticas está alinhado ao Direito Humano à Alimentação, que é um direito humano básico, reconhecido pelo Pacto Internacional de Direitos Humanos, Econômicos, Sociais e Culturais, ratificado por 153 países, inclusive o Brasil (BRASIL, 2010).";Leonardo Melo, RM 567097;data_revisao = 2026-11-08;sim;sim;sim;sim;sim;sim;sim;aprovado;;
+QA-0067;qa;qa;D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf;duvidoso: termo sensível: /\bsegur[oa]s?\b/;"PERGUNTA: O que devo considerar ao doar alimentos para garantir a segurança sanitária?
+RESPOSTA: É importante conhecer o local de destino da doação, pois a infraestrutura disponível pode não estar preparada para receber, armazenar e preparar determinados tipos de alimentos de forma segura. Por exemplo, locais sem equipamentos de refrigeração podem ter limitações para armazenar alimentos que necessitam ser mantidos a temperaturas baixas.";Para que os doadores e intermediários apliquem as Boas Práticas na perspectiva do risco sanitário é necessário também, quando possível, uma importante ação: conhecer o local para onde irá a doação, pois a infraestrutura disponível pode não estar preparada para receber, armazenar e preparar determinados tipos de alimentos de forma segura.;"Entretanto, há dados sobre a eficiência do processo de higienização de frutas e hortaliças na eliminação e/ou redução dos microrganismos patogênicos ([NOME] et al., 2016).
+
+Para que os doadores e intermediários apliquem as Boas Práticas na perspectiva do risco sanitário é necessário também, quando possível, uma importante ação: conhecer o local para onde irá a doação, pois a infraestrutura disponível pode não estar preparada para receber, armazenar e preparar determinados tipos de alimentos de forma segura. Por exemplo, locais sem equipamentos de refrigeração podem ter limitações para armazenar alimentos que necessitam ser mantidos a temperaturas baixas. Pessoas sem acesso à água potável podem ter dificuldades para preparar alimentos que precisem de diluição. Assim, o preparo de alimentos em pó pode não ser feito de forma segura.
+
+Para facilitar o entendimento das etapas do processo de doação, elaborou-se um Diagrama com as etapas do processo (Figura 5). As recomendações do diagrama aplicam-se a essas etapas.
+
+Figura 5- Diagrama da Doação de Alimentos.
+
+Fonte: Elaboração Própria
+
+A seguir será apresentado o detalhamento de alguns critérios das Boas Práticas para Doação de Alimentos acompanhados da identificação das causas das DTHA, no Brasil. Os critérios das Boas Práticas apresentados a seguir são fundamentais para segurança sanitária dos alimentos, produtos e preparações que serão doadas. Buscou-se ajustar os requisitos legais para aplicação na doação de alimentos por meio de uma linguagem simples e especificando os critérios sanitários para doação.
+
+5.1 Início do processo de Doação A Lei de Doação de Alimentos estabelece no Art. 1º que fica autorizada a doação de excedentes não comercializados e ainda próprios para o consumo humano que atendam aos seguintes critérios: ""I - estejam dentro do prazo de validade e nas condições de conservação especificadas pelo fabricante quando aplicáveis;";Leonardo Melo, RM 567097;data_revisao = 2026-11-08;sim;sim;sim;sim;sim;sim;sim;aprovado;;
+QA-0079;qa;qa;D4_Guia_ANVISA_Boas_Praticas_Bancos_Alimentos.pdf;sorteio_25pct_estratificado;"PERGUNTA: Os bancos de alimentos precisam seguir regras específicas para garantir a segurança dos alimentos?
+RESPOSTA: Sim, eles precisam seguir as Boas Práticas expedidas pela ANVISA e os Códigos Sanitários locais.";Além das medidas relacionadas às características sensoriais, a segurança higiênico-sanitária dos produtos transacionados por bancos de alimentos também envolve cuidados com as operações efetuadas, que vão desde a coleta junto aos parceiros doadores até a distribuição/entrega às instituições beneficiárias.;"Além das medidas relacionadas às características sensoriais, a segurança higiênico-sanitária dos produtos transacionados por bancos de alimentos também envolve cuidados com as operações efetuadas, que vão desde a coleta junto aos parceiros doadores até a distribuição/entrega às instituições beneficiárias.
+
+Dada as diversas operações possíveis envolvendo alimentos, é importante que os bancos de alimentos sigam os regulamentos sobre Boas Práticas expedidos pela ANVISA e os Códigos Sanitários dos Estados e Municípios onde estão instalados.
+
+Reconhecendo a relevância das atividades desempenhadas pelos bancos de alimentos, inclusive na complementação dos cardápios das instituições que beneficiam pessoas em situação de vulnerabilidade social ou insegurança alimentar, o presente Guia foi desenvolvido pela ANVISA para auxiliar os responsáveis por esses estabelecimentos a elaborar e implementar seus Manuais de Boas Práticas.
+
+Neste contexto, as Boas Práticas são os procedimentos a serem adotados com o objetivo de garantir a qualidade higiênico-sanitária e a conformidade dos alimentos com a legislação sanitária.
+
+Figura 1. Percurso dos alimentos transacionados pelos diferentes tipos de bancos de alimentos: convencional e colheita urbana/rural
+
+3. BASE LEGAL A legislação sanitária federal é constituída de leis, decretos, portarias do Ministério da Saúde, resoluções e instruções normativas da ANVISA. Complementarmente, os estados, municípios e o Distrito Federal legislam os aspectos mais específicos às suas localidades, por meio de seus Códigos Sanitários, sendo a emissão de [NOME] ou Licença de Funcionamento, contendo permissão para o os estabelecimentos que exercem atividades pertinentes à área de alimentos, ato privativo do órgão de saúde competente local, de acordo com a Resolução nº 23/2000 da ANVISA (item 2.3) (BRASIL, 2000).
+
+A legislação federal vigente e utilizada como base para elaboração desse Guia de Boas Práticas para Bancos de Alimentos é:";Leonardo Melo, RM 567097;data_revisao = 2026-11-08;nao;sim;sim;sim;sim;sim;sim;corrigido;Além das medidas relacionadas às características sensoriais, a segurança higiênico-sanitária dos produtos transacionados por bancos de alimentos também envolve cuidados com as operações efetuadas, que vão desde a coleta junto aos parceiros doadores até a distribuição/entrega às instituições beneficiárias.;
+QA-0082;qa;qa;D2_RDC_ANVISA_216_2004.html;sorteio_25pct_estratificado;"PERGUNTA: Como devo armazenar as matérias-primas e embalagens recebidas?
+RESPOSTA: As matérias-primas e embalagens devem ser armazenadas em local limpo e organizado, protegidos contra contaminantes. Devem estar adequadamente acondicionados e identificados, respeitando o prazo de validade.";As matérias-primas, os ingredientes e as embalagens devem ser armazenados em local limpo e organizado, de forma a garantir proteção contra contaminantes. Devem estar adequadamente acondicionados e identificados, sendo que sua utilização deve respeitar o prazo de validade.;"4.7.1 Os serviços de alimentação devem especificar os critérios para avaliação e seleção dos fornecedores de matérias-primas, ingredientes e embalagens. O transporte desses insumos deve ser realizado em condições adequadas de higiene e conservação.
+
+4.7.2 A recepção das matérias-primas, dos ingredientes e das embalagens deve ser realizada em área protegida e limpa. Devem ser adotadas medidas para evitar que esses insumos contaminem o alimento preparado.
+
+4.7.3 As matérias-primas, os ingredientes e as embalagens devem ser submetidos à inspeção e aprovados na recepção. As embalagens primárias das matérias-primas e dos ingredientes devem estar íntegras. A temperatura das matérias-primas e ingredientes que necessitem de condições especiais de conservação deve ser verificada nas etapas de recepção e de armazenamento.
+
+4.7.4 Os lotes das matérias-primas, dos ingredientes ou das embalagens reprovados ou com prazos de validade vencidos devem ser imediatamente devolvidos ao fornecedor e, na impossibilidade, devem ser devidamente identificados e armazenados separadamente. Deve ser determinada a destinação final dos mesmos.
+
+4.7.5 As matérias-primas, os ingredientes e as embalagens devem ser armazenados em local limpo e organizado, de forma a garantir proteção contra contaminantes. Devem estar adequadamente acondicionados e identificados, sendo que sua utilização deve respeitar o prazo de validade. Para os alimentos dispensados da obrigatoriedade da indicação do prazo de validade, deve ser observada a ordem de entrada dos mesmos.
+
+4.7.6 As matérias-primas, os ingredientes e as embalagens devem ser armazenados sobre paletes, estrados e ou prateleiras, respeitando- se o espaçamento mínimo necessário para garantir adequada ventilação, limpeza e, quando for o caso, desinfecção do local.";Leonardo Melo, RM 567097;data_revisao = 2026-11-08;sim;sim;sim;sim;sim;sim;sim;aprovado;;
+QA-0083;qa;qa;D2_RDC_ANVISA_216_2004.html;sorteio_25pct_estratificado;"PERGUNTA: O que são alimentos preparados?
+RESPOSTA: Alimentos preparados são alimentos manipulados e preparados em serviços de alimentação, expostos à venda embalados ou não, subdividindo-se em três categorias:";2.1 Alimentos preparados: são alimentos manipulados e preparados em serviços de alimentação, expostos à venda embalados ou não, subdividindo-se em três categorias:;"2.1 Alimentos preparados: são alimentos manipulados e preparados em serviços de alimentação, expostos à venda embalados ou não, subdividindo-se em três categorias:
+
+a) Alimentos cozidos, mantidos quentes e expostos ao consumo;
+
+b) Alimentos cozidos, mantidos refrigerados, congelados ouà temperatura ambiente, que necessitam ou não de aquecimento antes do consumo;
+
+c) Alimentos crus, mantidos refrigerados ou à temperatura ambiente, expostos ao consumo.
+
+2.2 Anti-sepsia: operação que visa a redução de microrganismos presentes na pele em níveis seguros, durante a lavagem das mãos com sabonete anti-séptico ou por uso de agente anti-séptico após a lavagem e secagem das mãos.
+
+2.3 Boas Práticas: procedimentos que devem ser adotados por serviços de alimentação a fim de garantir a qualidade higiênicosanitária e a conformidade dos alimentos com a legislação sanitária.
+
+2.4 Contaminantes: substâncias ou agentes de origem biológica, química ou física, estranhos ao alimento, que sejam considerados nocivos à saúde humana ou que comprometam a sua integridade.
+
+2.5 Controle Integrado de Vetores e Pragas Urbanas: sistema que incorpora ações preventivas e corretivas destinadas a impedir a atração, o abrigo, o acesso e ou a proliferação de vetores e pragas urbanas que comprometam a qualidade higiênico-sanitária do alimento.
+
+2.6 Desinfecção: operação de redução, por método físico e ou agente químico, do número de microrganismos em nível que não comprometa a qualidade higiênico-sanitária do alimento.
+
+2.7 Higienização: operação que compreende duas etapas, a limpeza e a desinfecção.
+
+2.8 Limpeza: operação de remoção de substâncias minerais e ou orgânicas indesejáveis, tais como terra, poeira, gordura e outras sujidades.";Leonardo Melo, RM 567097;data_revisao = 2026-11-08;sim;sim;sim;sim;sim;sim;sim;aprovado;;
+QA-0086;qa;qa;D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf;duvidoso: termo sensível: /\bsegur[oa]s?\b/;"PERGUNTA: O que são Boas Práticas de Manipulação em Serviços de Alimentação?
+RESPOSTA: É um curso que ensina como manusear alimentos de forma segura. O curso tem 12 horas e dá um certificado.";O curso possui duração de 12h e aos participantes que concluírem toda a carga horária é emitido um certificado de participação.;"Cinco chaves para uma alimentação mais segura"", publicado pela Organização Mundial da Saúde. Clique aqui e acesse o material.
+
+Recomenda-se que todas as pessoas que estejam interessadas em se qualificar assistam ao curso ""Boas Práticas de Manipulação em Serviços de Alimentação"". O curso possui duração de 12h e aos participantes que concluírem toda a carga horária é emitido um certificado de participação.
+
+O conteúdo do curso compõe os seguintes temas:
+
+Confira o conteúdo programático do curso;
+
+Entendendo a contaminação dos alimentos;
+
+Ambiente de Manipulação e Cuidados com Água;
+
+Manuseio do Lixo e Controle de Vetores e Pragas;
+
+Higienização;
+
+Manipuladores e Visitantes;
+
+Etapas da Manipulação dos Alimentos;
+
+Documentação e Função do Responsável pelo Serviço;
+
+Revisão do conteúdo.
+
+O curso é gratuito, ocorre na modalidade on-line e pode ser encontrado no website oficial da Anvisa ou clicando aqui.
+
+7 DOCUMENTAÇÕES PARA COMPROVAÇÃO DAS BOAS PRÁTICAS As documentações para comprovação das Boas Práticas são obrigatórias para estabelecimentos regulamentados pelos órgãos sanitários. Recomenda-se que as instituições beneficiárias e beneficentes que realizam doações frequentemente adotem a prática de registros das documentações comprobatórias descritas a seguir.
+
+A fim de comprovar o cumprimento das Boas Práticas os doadores devem ter descrito e implementado o Manual de Boas Práticas para orientação de todos os manipuladores de alimentos do estabelecimento, conforme obrigatoriedade previstas nos regulamentos sanitários federais.";Leonardo Melo, RM 567097;data_revisao = 2026-11-08;sim;sim;sim;sim;sim;sim;sim;aprovado;;
+QA-0095;qa;qa;D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf;duvidoso: termo sensível: /\bsegur[oa]s?\b/;"PERGUNTA: O que são Procedimentos Operacionais Padronizados (POP) e por que eles são importantes?
+RESPOSTA: Procedimentos Operacionais Padronizados (POP) são instruções escritas que detalham como realizar tarefas específicas na produção e manipulação de alimentos. Eles são importantes porque ajudam a garantir que todas as operações sejam realizadas de forma correta e segura.";Estes são instrumentos escritos de forma objetiva que estabelecem instruções sequenciais para a realização de operações rotineiras e específicas para produção e manipulação de alimentos.;"Tal documento deverá descrever as operações realizadas pelo estabelecimento, incluindo, no mínimo, os requisitos higiênicos e sanitários dos edifícios, a manutenção e higienização das instalações, dos equipamentos e dos utensílios, o controle da água de abastecimento, o controle integrado de vetores e pragas urbanas, aspectos de capacitação profissional, o controle da higiene e saúde dos manipuladores, o manejo de resíduos e o controle e garantia de qualidade do alimento preparado.
+
+Ainda, de modo a contribuir para a garantia das condições higiênicas e sanitárias, complementando o Manual de Boas Práticas, os doadores devem ter Procedimentos Operacionais Padronizados (POP). Estes são instrumentos escritos de forma objetiva que estabelecem instruções sequenciais para a realização de operações rotineiras e específicas para produção e manipulação de alimentos. Os POPs devem conter as instruções sequenciais das operações e a frequência de execução, especificando o nome, o cargo e ou a função dos responsáveis pelas atividades. Devem ser aprovados, datados e assinados pelo responsável do estabelecimento.
+
+Dependendo da atividade e alimentos produzidos existem POP específicos que devem ser descritos e cumpridos doador. Por exemplo:
+
+Os serviços de alimentação devem descrever e implementar os seguintes POP, segundo item 12.4 da RDC nº 216/2004:
+
+Higienização de instalações, equipamentos e móveis;
+
+Controle integrado de vetores e pragas urbanas;
+
+Higienização do reservatório;
+
+Higiene e saúde dos manipuladores.
+
+Doadores que são classificados como estabelecimentos Produtores/Industrializadores de Alimentos regulamentados pela Anvisa, devem descrever e implementar os seguintes POP, segundo item 4.1.1 da RDC nº 275/2002:
+
+Higienização das instalações, equipamentos, móveis e utensílios;
+
+Controle da potabilidade da água;
+
+Higiene e saúde dos manipuladores;";Leonardo Melo, RM 567097;data_revisao = 2026-11-08;sim;sim;sim;sim;sim;sim;sim;aprovado;;
+QA-0098;qa;qa;D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf;sorteio_25pct_estratificado;"PERGUNTA: Como as pessoas que estão em contato com as doações devem se apresentar?
+RESPOSTA: Elas precisam estar com adequado asseio pessoal e higiene, usando avental, jaleco ou roupas limpas e bem conservados.";Um requisito importante a ser cumprido é sobre a higiene das pessoas que estão em contato com as doações, elas precisam estar com adequado asseio pessoal e higiene. Sugere-se a utilização de um avental, jaleco ou roupas limpas e bem conservados.;"Um requisito importante a ser cumprido é sobre a higiene das pessoas que estão em contato com as doações, elas precisam estar com adequado asseio pessoal e higiene. Sugere-se a utilização de um avental, jaleco ou roupas limpas e bem conservados.
+
+Nos casos em que é necessário o processamento e manipulação das doações antes da distribuição ao beneficiário, principalmente na produção de sopões, refeições e processamento de frutas muito maduras, recomenda-se que antes de iniciar as atividades necessárias com as doações, os voluntários utilizem um uniforme ou jaleco que cubra toda a roupa de uso pessoal.
+
+Outra recomendação é a de que os cabelos precisam estar presos e completamente cobertos, preferencialmente por toucas ou redes, durante a manipulação de alimentos. Bem como, retirar adornos como brincos, correntes, relógios, piercing e anéis/aliança. Esses objetos podem cair nos alimentos, dificultam a higienização e proporcionam risco de acidente durante as atividades e também são focos de contaminação, por adesão de alimentos às peças.
+
+Recomenda-se também que as roupas e os objetos pessoais sejam guardados em local específico e reservado para esse fim, que não estejam próximas e no mesmo ambiente em que estão as doações.
+
+Em relação a higiene das mãos: todas as pessoas envolvidas com as doações precisam higienizar cuidadosamente as mãos ao chegarem no ambiente em que estão as doações, antes e após manipular alimentos, após qualquer interrupção do serviço, após tocar materiais contaminados, após usar os sanitários e sempre que se fizer necessário.
+
+Sugere-se o uso de sabonete, preferencialmente líquido e sem odor e após a lavagem cuidadosa das mãos, recomenda-se o uso de álcool 70% para complementar o procedimento de higienização. O passo a passo pode ser observado na Figura 10.
+
+Figura 10- Orientações quanto a higienização das mãos.";Leonardo Melo, RM 567097;data_revisao = 2026-11-08;sim;sim;sim;sim;sim;sim;sim;aprovado;;
+QA-0099;qa;qa;D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf;sorteio_25pct_estratificado;"PERGUNTA: Qual temperatura mínima deve ser atingida para garantir a qualidade higiênico-sanitária dos alimentos durante o tratamento térmico?
+RESPOSTA: A temperatura mínima recomendada é de 75°C no centro geométrico do alimento. Temperaturas inferiores podem ser usadas desde que o tempo de tratamento seja suficiente para garantir a qualidade higiênico-sanitária.";Todavia, existe uma legislação mais atual (Instrução Normativa nº 161, de 1 de julho de 2022) que considerou outros perigos microbiológicos preconizando, assim, que o tratamento térmico nos alimentos atinja 75°C.;"Todavia, existe uma legislação mais atual (Instrução Normativa nº 161, de 1 de julho de 2022) que considerou outros perigos microbiológicos preconizando, assim, que o tratamento térmico nos alimentos atinja 75°C. Salienta-se que temperaturas inferiores podem ser utilizadas no tratamento térmico, desde que as combinações de tempo e temperatura sejam suficientes para assegurar a qualidade higiênico-sanitária dos alimentos. Veja um exemplo a seguir:
+
+65°C por 15 minutos (temperatura no centro geométrico do alimento). ([NOME], 2020).
+
+O procedimento ideal de verificação da temperatura é por meio de termômetro do tipo espeto. Outra forma é por meio das mudanças que ocorrem na textura e na cor da parte central do alimento, como as carnes que ficam com a coloração marrom e o ovo que fica com a gema firme.
+
+Para os alimentos que forem submetidos à fritura, de acordo com a RDC nº 216/2004, os óleos e gorduras utilizados nesse procedimento não podem ser aquecidos a temperaturas superiores a 180°C. Acima dessa temperatura ocorre a formação de compostos tóxicos prejudiciais à saúde. Os óleos e as gorduras precisam ser substituídos imediatamente sempre que houver alterações no aroma e sabor e a formação intensa de espuma e fumaça.
+
+Descongelamento Recomenda-se que as doações congeladas, antes do tratamento térmico sejam descongeladas, a fim de garantir adequada penetração do calor. Exceto os casos em que o fabricante do alimento doado recomende que o mesmo seja submetido ao tratamento térmico ainda congelado, devendo ser seguidas as orientações constantes na rotulagem.
+
+Os alimentos não devem ser descongelados à temperatura ambiente (RDC nº 216/2004).";Leonardo Melo, RM 567097;data_revisao = 2026-11-08;sim;sim;sim;sim;sim;sim;sim;aprovado;;
+QA-0103;qa;qa;D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf;sorteio_25pct_estratificado;"PERGUNTA: Como devo descongelar os alimentos doados para evitar a contaminação?
+RESPOSTA: Os alimentos devem ser mantidos na geladeira em temperaturas inferiores a 5°C até estar totalmente descongelado. É recomendado manter os alimentos nas embalagens originais e dentro de um recipiente na parte inferior da geladeira. Evitar retirada da embalagem original até o final do descongelamento.";Para um adequado descongelamento, o alimento deve ser mantido na geladeira/refrigerador em temperaturas inferiores a 5°C até estar totalmente descongelado. O forno de micro-ondas também pode ser utilizado quando o alimento for preparado imediatamente.;"Nessas condições, a superfície do alimento descongela mais rápido do que seu interior, podendo atingir temperaturas que permitem a multiplicação dos microrganismos.
+
+Para um adequado descongelamento, o alimento deve ser mantido na geladeira/refrigerador em temperaturas inferiores a 5°C até estar totalmente descongelado. O forno de micro-ondas também pode ser utilizado quando o alimento for preparado imediatamente.
+
+No descongelamento, recomenda-se que os alimentos sejam mantidos nas embalagens originais e dentro de um recipiente, na parte inferior da geladeira (quando a geladeira for utilizada para armazenar outros alimentos). As carnes, por exemplo, produzem sucos que ao cair sobre outros alimentos podem contaminá-los com microrganismos. Quando for necessária a retirada da embalagem original, recomenda-se a utilização de recipiente bem vedado e fechado durante o descongelamento.
+
+Após o descongelamento, os alimentos precisam ficar sob refrigeração até o momento do uso. Depois do descongelamento, o prazo de validade inicial não pode mais ser considerado, por isso, os alimentos não podem ser recongelados.
+
+Reaquecimento Quando necessário, os alimentos que são consumidos quentes, podem ser reaquecidos.
+
+Uma informação importante que vale relembrar é que alimentos aquecidos, não podem ficar mais de 6 horas aguardando o consumo, mesmo que mantidos em uma temperatura acima de 60°C.
+
+Recomenda-se a utilização de um termômetro do tipo espeto para fazer essa avaliação. Quando não se tem garantia da temperatura por meio de termômetro, esse prazo precisa ser cuidadosamente avaliado. Sugere-se que alimentos doados e fora da temperatura adequada não excedam 2 horas em temperatura ambiente.
+
+Para o reaquecimento do alimento doado antes do consumo, o ideal é garantir que o alimento atinja 75°C no seu centro geométrico, bem no seu interior, não apenas na superfície (ou outras combinações de tempo e temperatura que garantam a segurança do alimento).
+
+É importante que a distribuição dos alimentos doados seja realizada imediatamente após o reaquecimento.";Leonardo Melo, RM 567097;data_revisao = 2026-11-08;sim;sim;sim;sim;sim;sim;sim;aprovado;;
+QA-0111;qa;qa;D4_Guia_ANVISA_Boas_Praticas_Bancos_Alimentos.pdf;duvidoso: termo sensível: /\bsegur[oa]s?\b/;"PERGUNTA: O que é anti-sepsia?
+RESPOSTA: Anti-sepsia é a operação que visa à redução de microrganismos presentes na pele em níveis seguros, durante a lavagem das mãos com sabonete anti-séptico ou por uso de agente anti-séptico após a lavagem e secagem das mãos.";Anti-sepsia: Operação que visa à redução de microrganismos presentes na pele em níveis seguros, durante a lavagem das mãos com sabonete anti-séptico ou por uso de agente anti-séptico após a lavagem e secagem das mãos.;"Anti-sepsia: Operação que visa à redução de microrganismos presentes na pele em níveis seguros, durante a lavagem das mãos com sabonete anti-séptico ou por uso de agente anti-séptico após a lavagem e secagem das mãos.
+
+Área de armazenamento de alimentos: compreende os setores de armazenamento em temperatura ambiente (despensa seca) e armazenamento sob temperatura controlada (refrigerador, câmara fria, congelador).
+
+Área de manipulação de alimentos: compreende os setores onde há recebimento, seleção, classificação, triagem, higienização, fracionamento, processamento, porcionamento, embalagem, distribuição e/ou entrega de alimentos.
+
+Banco de alimentos convencional: Banco de alimentos com sede em imóvel que disponha de estrutura física para, no mínimo, realizar a triagem e a seleção dos alimentos para doação, podendo dispor de equipagem para processamento, beneficiamento e estocagem dos alimentos antes da expedição às instituições beneficiárias.
+
+Banco de Colheita Urbana e/ou Rural: Banco de alimentos com sede em imóvel com estrutura apenas administrativa e que realize exclusivamente a atividade de transporte de alimentos em veículo(s) próprios para atividades de coleta de doações, seleção e distribuição de alimentos, conforme o grau de perecibilidade do alimento.
+
+Boas Práticas: procedimentos adotados a fim de garantir a qualidade higiênico-sanitária e a conformidade dos alimentos com a legislação sanitária.
+
+Consumidor: É toda pessoa física ou jurídica que adquire ou utiliza alimentos.
+
+Contaminantes: Substâncias ou agentes de origem biológica, química ou física, estranhos ao alimento, que sejam considerados nocivos à saúde humana ou que comprometam a sua integridade.
+
+Desinfecção: Operação de redução, por método físico e ou agente químico, do número de microrganismos em nível que não comprometa a qualidade higiênico-sanitária do alimento.
+
+Higienização: Operação que compreende duas etapas, a limpeza e a desinfecção.";Leonardo Melo, RM 567097;data_revisao = 2026-11-08;sim;sim;sim;sim;sim;sim;sim;aprovado;;
+QA-0118;qa;qa;D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf;sorteio_25pct_estratificado;"PERGUNTA: É necessário realizar a higienização de frutas e hortaliças recebidas em doação?
+RESPOSTA: Sim, é recomendável realizar a higienização desses alimentos, especialmente se eles serão consumidos crus, com casca ou sob cocção breve.";Higienização Frutas e Hortaliças É recomendável que ao receber a doação de frutas e hortaliças que serão consumidas cruas, com casca ou sob cocção breve (<70°C), seja realizado o processo de higienização, caso essas não tenham sido feitas anteriormente pelo doador/ intermediário.;"Recomenda-se cuidado e atenção para que os utensílios utilizados na higienização de sanitários, áreas externas e outras instalações sejam distintos daqueles usados para higienização das áreas de manipulação/processamento, armazenamento das doações e dos equipamentos e utensílios que entrem em contato com o alimento.
+
+Higienização Frutas e Hortaliças É recomendável que ao receber a doação de frutas e hortaliças que serão consumidas cruas, com casca ou sob cocção breve (<70°C), seja realizado o processo de higienização, caso essas não tenham sido feitas anteriormente pelo doador/ intermediário.
+
+Conforme a RDC nº 216/2004 (item 4.8.19), a higienização é importante para eliminar a contaminação presente na superfície destes alimentos. Os produtos recomendados para higienização de frutas e hortaliças são aqueles apropriados para uso em alimentos, regularizados na Anvisa e utilizados de forma a evitar a presença de resíduos no alimento preparado, ou seja, conforme as instruções do rotulo do fabricante.
+
+Ao contrário do que muitos acreditam, o vinagre e o limão não têm poder de eliminar microrganismos. Veja no rótulo dos produtos se esse possui instruções de uso para aplicação em alimentos. O produto mais utilizado na higienização de frutas e hortaliças é a água sanitária, cujo princípio ativo é o hipoclorito de sódio. Na rotulagem, o fabricante informa se é adequado para uso em alimento, a concentração e o tempo necessários para correta ação de desinfecção. Siga criteriosamente essas recomendações e utilize medidores para garantir que as quantidades do produto e da água estão corretas.
+
+Quando a concentração do produto está abaixo do recomendado e ou tempo de contato é inferior ao indicado, os microrganismos podem sobreviver e causar as DTHA. Por outro lado, se a concentração e tempo forem superiores ao recomendado, pode ocorrer uma contaminação química do alimento.";Leonardo Melo, RM 567097;data_revisao = 2026-11-08;sim;sim;sim;sim;sim;sim;sim;aprovado;;
+QA-0124;qa;qa;D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf;sorteio_25pct_estratificado;"PERGUNTA: O que são alimentos ultraprocessados?
+RESPOSTA: Alimentos ultraprocessados são formulações industriais feitas inteiramente ou majoritariamente de substâncias extraídas de alimentos ou derivadas de constituintes de alimentos, ou sintetizadas em laboratório.";Alimentos ultraprocessados: são formulações industriais feitas inteiramente ou majoritariamente de substâncias extraídas de alimentos (óleos, gorduras, açúcar, amido, proteínas), derivadas de constituintes de alimentos (gorduras hidrogenadas, amido modificado) ou sintetizadas em laboratório com base em matérias orgânicas como petróleo e carvão (corantes, aromatizantes, realçadores de sabor e vários tipos de aditivos usados para dotar os produtos de propriedades sensoriais atraentes).;"Alimentos ultraprocessados: são formulações industriais feitas inteiramente ou majoritariamente de substâncias extraídas de alimentos (óleos, gorduras, açúcar, amido, proteínas), derivadas de constituintes de alimentos (gorduras hidrogenadas, amido modificado) ou sintetizadas em laboratório com base em matérias orgânicas como petróleo e carvão (corantes, aromatizantes, realçadores de sabor e vários tipos de aditivos usados para dotar os produtos de propriedades sensoriais atraentes). Técnicas de manufatura incluem extrusão, moldagem, e pré-processamento por fritura ou cozimento.
+
+Exemplos: biscoitos, sorvetes, balas e guloseimas em geral, cereais açucarados para o desjejum matinal, bolos e misturas para bolo, barras de cereal, sopas, macarrão e temperos 'instantâneos', molhos, salgadinhos ""de pacote"", refrescos e refrigerantes, iogurtes e bebidas lácteas adoçados e aromatizados, bebidas energéticas, produtos congelados e prontos para aquecimento como pratos de massas, pizzas, hambúrgueres, entre outros.
+
+Alimentos preparados ou refeições prontas (preparações culinárias): são preparações alimentares elaboradas, conservadas e transportadas com observância das Boas Práticas de fabricação e manipulação de alimentos, conforme legislação sanitária vigente.
+
+Exemplos: lasanhas, macarrões com molhos, saladas, carnes bovinas, suínas e de aves (almôndegas, bifes, etc), arroz, feijão, sanduiches, salgados, entre outros.
+
+Recomenda-se que os alimentos prontos para consumo sejam doados preferencialmente diretamente aos beneficiários ou para entidades que servem refeição no local. Os alimentos prontos para consumo recebidos não podem ser repassados novamente para outras Instituições ou famílias, devido ao risco de DTHA.";Leonardo Melo, RM 567097;data_revisao = 2026-11-08;sim;sim;sim;sim;sim;sim;sim;aprovado;;
+QA-0134;qa;qa;D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf;sorteio_25pct_estratificado;"PERGUNTA: Qual é a classificação dos alimentos in natura?
+RESPOSTA: Alimentos in natura são obtidos diretamente de plantas ou animais e não sofrem alterações após deixar a natureza.";Alimentos in natura: São obtidos diretamente de plantas ou de animais e não sofrem qualquer alteração após deixar a natureza.;"Guia de Boas Práticas para Bancos de Alimentos: publicado em 2019 pela Anvisa apresenta recomendações e orientações baseadas nas normas sanitárias vigentes, de modo a apoiar os gestores e responsáveis técnicos dos bancos de alimentos na elaboração do Manual de Boas Práticas e no cotidiano para a conformidade e segurança dos alimentos transacionados. Para ter acesso clique aqui.
+
+Guia Operacional e de Gestão para Bancos de Alimentos: foi publicado em 2020 pelo Ministério da Cidadania e busca melhorar a gestão e desempenho, proporcionando qualidade profissional nos serviços e o reconhecimento de sua relevância pela população brasileira.
+
+O documento integra-se a um conjunto de iniciativas para promoção do direito à alimentação em bases sustentáveis que corroboram os compromissos assumidos nacional e internacionalmente. Para ter acesso clique aqui.
+
+Além da leitura dos documentos citados anteriormente, também se recomenda às instituições beneficentes que realizem capacitações em Boas Práticas de manipulação de alimentos para receber e distribuir as doações com maior segurança sanitária.
+
+4.4 Quais alimentos podem ser doados?
+
+Os locais que pretendem realizar a doação precisam estar atentos ao cumprimento dos critérios de Boas Práticas preconizados pelas regulamentações sanitárias vigentes. Para tanto, este Guia apresenta recomendações determinantes para a doação de alimentos com segurança sanitária.
+
+O Art. 1º da Lei de Doação de Alimentos menciona que podem ser doados alimentos próprios para consumo humano, sendo eles in natura, produtos industrializados ou refeições prontas para o consumo.
+
+A seguir apresenta-se a classificação dos alimentos adaptado do Guia Alimentar para População Brasileira (BRASIL, 2014):
+
+Alimentos in natura: São obtidos diretamente de plantas ou de animais e não sofrem qualquer alteração após deixar a natureza.
+
+Exemplos: Legumes, verduras, frutas, batata, mandioca e outras raízes e tubérculos in natura ou embalados, fracionados, refrigerados ou congelados, entre outros.
+
+Produtos Industrializados:";Leonardo Melo, RM 567097;data_revisao = 2026-11-08;sim;sim;sim;sim;sim;sim;sim;aprovado;;
+QA-0142;qa;qa;D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf;sorteio_25pct_estratificado;"PERGUNTA: O que é um alimento próprio para consumo?
+RESPOSTA: É um alimento que, se mantido sob condições adequadas, não prejudica a saúde e preserva suas propriedades nutritivas.";Alimento próprio para consumo: é o alimento que, mantido sob condições adequadas de conservação, preserva suas propriedades nutritivas e não expõe a agravos à saúde da população, sendo assim considerado um alimento seguro para o consumo.;"Alimento próprio para consumo: é o alimento que, mantido sob condições adequadas de conservação, preserva suas propriedades nutritivas e não expõe a agravos à saúde da população, sendo assim considerado um alimento seguro para o consumo.
+
+Apreensão: é o recolhimento definitivo do produto, subproduto e resíduo de valor econômico, embalagem, envoltório ou contentor.
+
+Banco de alimentos: banco de alimentos com sede em imóvel que disponha de estrutura física para, no mínimo, realizar a triagem e a seleção dos alimentos para doação, podendo dispor de equipagem para processamento, beneficiamento e estocagem dos alimentos antes da expedição às instituições beneficiária.
+
+Dano a embalagem: estrago ou prejuízo sofrido pela embalagem causado por algo ou alguém.
+
+Dano parcial: estrago ou prejuízo sofrido por uma parte de um todo de uma embalagem causado por algo ou alguém.
+
+Dolo: intenção ou vontade consciente de cometer ato ilícito ou de violar a lei. Em direito civil, emprego de sugestões, maquinações ou artifícios para induzir uma pessoa em erro, em prejuízo desta e em proveito próprio ou de outrem. Em direito penal, intenção criminosa de violar a lei, por ação ou omissão, admitindo-se que o agente pretendeu alcançar o resultado advindo ou assumiu o risco de vê-lo concretizado.
+
+Embalagem de transporte: é a embalagem que transporta os produtos/ alimentos até os intermediários ou beneficiários.
+
+Embalagem primária: é a embalagem que está em contato direto com os alimentos.
+
+Embalagem secundaria: é a embalagem destinada a conter a(s) embalagem(ns) primária(s).
+
+Embalagem terciária: é a embalagem destinada a conter uma ou várias embalagens secundárias.
+
+Excedente com aspecto comercialmente indesejável: produto que perdeu o valor comercial, mas mantem as características de um alimento próprio para o consumo.
+
+Excedente não comercializado: o que não foi distribuído para consumo e venda.";Leonardo Melo, RM 567097;data_revisao = 2026-11-08;sim;sim;sim;sim;sim;sim;sim;aprovado;;
+QA-0145;qa;qa;D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf;sorteio_25pct_estratificado;"PERGUNTA: Se eu quiser aquecer sopa para consumo, qual é o prazo máximo de armazenamento?
+RESPOSTA: Aquecer sopa para consumo tem um prazo máximo de 6 horas se a temperatura for acima de 60°C, ou 2 horas se a temperatura for abaixo de 60°C.";Doações mantidas Sopas, refeições prontas Acima de 60°C Até 6 horas aquecidas para consumo, entre Abaixo de 60°C Até 2 horas outros.;"O procedimento de resfriamento foi detalhado no item 5.1 Início do processo de doação, item 5.1.5 Condições de conservação. Siga todas as orientações presentes naquela seção do Guia.
+
+Fique atento!
+
+Doador e Intermediário: Recomende o consumo imediato.
+
+Beneficiário: Consumir imediatamente.
+
+Doações mantidas refrigeradas São exemplos de doações mantidas refrigeradas: sanduíches, salada de frutas, entre outros.
+
+O prazo máximo de consumo do alimento preparado e conservado sob refrigeração a temperatura de 4°C, ou inferior, deve ser de 5 dias. Quando não for possível manter a temperatura abaixo de 4°C recomenda-se a utilização das doações em até 2 horas. Vale ressaltar que entre as temperaturas entre 5°C e 60°C é a faixa de risco para a multiplicação microbiana.
+
+A seguir apresenta-se o Quadro 9 de resumo quanto às temperaturas e prazos de consumo para as doações, respeitando as características de conservação.
+
+Quadro 9– Temperatura de conservação e prazo de consumo de acordo com as características e exemplos de doações.
+
+Temperatura de Prazo de consumo Característica Exemplos de doações conservação pelo beneficiário Doações que podem Alimentos não perecíveis Temperatura De acordo com o ser mantidas a em geral, bolos sem ambiente produto temperatura recheio, pães e biscoitos ambiente sem recheio, entre outros.
+
+Doações mantidas Sopas, refeições prontas Acima de 60°C Até 6 horas aquecidas para consumo, entre Abaixo de 60°C Até 2 horas outros.
+
+Doações mantidas Sanduiches, salada de Abaixo de 4°C Até 5 dias refrigeradas frutas, entre outros. Acima 4°C Até 2 horas Fonte: RDC nº 216/2004 (BRASIL, 2004).
+
+Atenção: Situações em que os alimentos preparados foram mantidos em temperaturas e tempo inadequados podem levar diretamente as DTHA.";Leonardo Melo, RM 567097;data_revisao = 2026-11-08;sim;sim;sim;sim;sim;sim;sim;aprovado;;
+QA-0155;qa;qa;D4_Guia_ANVISA_Boas_Praticas_Bancos_Alimentos.pdf;sorteio_25pct_estratificado;"PERGUNTA: O que é necessário para o setor de armazenamento de alimentos no banco de alimentos?
+RESPOSTA: O setor de armazenamento precisa ter piso resistente e impermeável, de fácil higienização, com ralo de escoamento de água. Também deve ser arejado e com fluxo separado dos demais setores.";Piso resistente e impermeável, de fácil higienização, com ralo de escoamento de água.;"Piso resistente e impermeável, de fácil higienização, com ralo de Setor de fracionamento e escoamento de água. embalagem Não se aplica Bancadas de trabalho impermeáveis (quando aplicável) de fácil higienização.
+
+Lavatório suprido de produtos destinados à higienização das mãos.
+
+Equipamentos: balança, seladora.
+
+Sala dedicada (exclusiva), arejada, com fluxo separado dos demais setores.
+
+Piso resistente e impermeável, de fácil higienização, com ralo de escoamento de água.
+
+Equipamentos, móveis e utensílios com superfícies lisas, Setor de processamento impermeáveis, de fácil higienização. (quando aplicável) Lavatório suprido de produtos destinados à higienização das mãos.
+
+Cuba ou tanque exclusivo para higienização de alimentos.
+
+Equipamentos: balança, forno, fogão, triturador, batedeira, refrigerador, congelador, caixas ou armários para armazenamento de utensílios, entre outros.
+
+Pode ser contígua à área de Setor de armazenamento – recepção ou expedição e seguir as Despensa seca mesmas recomendações desta Não se aplica (quando aplicável) (Tabela 1), acrescido de espaço para pallets ou prateleiras.
+
+Não se aplica Não se aplica. Câmara fria e/ou Opcionalmente, o refrigerador banco de industrial e/ou alimentos pode balcão frigorífico armazenar esses e/ou freezer Setor de armazenamento – alimentos em horizontal ou Refrigerador/Congelador câmaras frias ou vertical, a (quando aplicável) outros depender do equipamentos de volume de refrigeração, para alimentos obter maior transacionados. durabilidade.
+
+Veículo de carga com baú fechado Veículo de carga Logística/Transporte ou cobertura para os alimentos. com baú fechado e refrigerado.
+
+Tabela 2. Estrutura física para bancos de alimentos, aplicável de acordo com o grau de perecibilidade do alimento transacionado.";Leonardo Melo, RM 567097;data_revisao = 2026-11-08;sim;sim;sim;sim;sim;sim;sim;aprovado;;
+QA-0158;qa;qa;D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf;sorteio_25pct_estratificado;"PERGUNTA: O que devo fazer se identificar algum problema na cadeia produtiva antes de doar alimentos?
+RESPOSTA: Se identificado algum problema na cadeia produtiva, recomenda-se não doar o alimento a menos que o doador garanta a integridade nutricional através de análises laboratoriais.";caso seja identificado qualquer episódio na cadeia produtiva e distributiva que possa afetar a qualidade nutricional do produto, recomenda-se que esse não seja doado, a não ser que o doador garanta por meio de análises laboratoriais a integridade nutricional do alimento.;"Salienta-se que nestes casos, as doações para lactentes podem ocorrer desde que cumpridas as regras da NBCAL.
+
+Entretanto, caso seja identificado qualquer episódio na cadeia produtiva e distributiva que possa afetar a qualidade nutricional do produto, recomenda-se que esse não seja doado, a não ser que o doador garanta por meio de análises laboratoriais a integridade nutricional do alimento.
+
+5.1.2 Segurança sanitária Na avaliação do alimento para doação, recomenda-se que o doador revise os aspectos que envolvem as Boas Práticas aos quais o alimento foi submetido durante o processamento, incluindo as planilhas de controle de temperatura e procedência das matérias primas, ingredientes e embalagens utilizadas. A segurança sanitária somente é garantida se os critérios de Boas Práticas forem cumpridos em todas as etapas de produção e manipulação do alimento, tanto na organização doadora, como nos grupos de voluntários que preparam um alimento para doação.
+
+No caso das indústrias de alimentos e serviços de alimentação, vale reforçar que a segurança sanitária será assegurada com o cumprimento das legislações sanitárias federais, estaduais, municipais e distrital.
+
+5.1.3 Aspectos referentes a integridade dos alimentos Recomenda-se uma avaliação por meio de observação visual dos aspectos referentes a integridade dos alimentos. Falhas associadas à integridade dos alimentos podem levar diretamente a DTHA, sendo a terceira causa desse tipo de doença no Brasil.
+
+A avaliação verifica os aspectos sensoriais que compõe a integridade do alimento, como por exemplo: se a aparência geral, como cor e texturas, está com características aceitáveis, os aspectos da embalagem, conforme discutido no item 5.1.6 Condições de embalagem, entre outros. Somente podem ser doados alimentos aprovados na avaliação da integridade.";Leonardo Melo, RM 567097;data_revisao = 2026-11-08;sim;sim;sim;sim;sim;sim;sim;aprovado;;
+QA-0159;qa;qa;D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf;sorteio_25pct_estratificado;"PERGUNTA: Quais são os critérios para garantir a segurança sanitária dos alimentos doados?
+RESPOSTA: A segurança sanitária é garantida se os critérios de Boas Práticas forem cumpridos em todas as etapas de produção e manipulação do alimento, tanto na organização doadora, como nos grupos de voluntários que preparam um alimento para doação.";A segurança sanitária somente é garantida se os critérios de Boas Práticas forem cumpridos em todas as etapas de produção e manipulação do alimento, tanto na organização doadora, como nos grupos de voluntários que preparam um alimento para doação.;"Salienta-se que nestes casos, as doações para lactentes podem ocorrer desde que cumpridas as regras da NBCAL.
+
+Entretanto, caso seja identificado qualquer episódio na cadeia produtiva e distributiva que possa afetar a qualidade nutricional do produto, recomenda-se que esse não seja doado, a não ser que o doador garanta por meio de análises laboratoriais a integridade nutricional do alimento.
+
+5.1.2 Segurança sanitária Na avaliação do alimento para doação, recomenda-se que o doador revise os aspectos que envolvem as Boas Práticas aos quais o alimento foi submetido durante o processamento, incluindo as planilhas de controle de temperatura e procedência das matérias primas, ingredientes e embalagens utilizadas. A segurança sanitária somente é garantida se os critérios de Boas Práticas forem cumpridos em todas as etapas de produção e manipulação do alimento, tanto na organização doadora, como nos grupos de voluntários que preparam um alimento para doação.
+
+No caso das indústrias de alimentos e serviços de alimentação, vale reforçar que a segurança sanitária será assegurada com o cumprimento das legislações sanitárias federais, estaduais, municipais e distrital.
+
+5.1.3 Aspectos referentes a integridade dos alimentos Recomenda-se uma avaliação por meio de observação visual dos aspectos referentes a integridade dos alimentos. Falhas associadas à integridade dos alimentos podem levar diretamente a DTHA, sendo a terceira causa desse tipo de doença no Brasil.
+
+A avaliação verifica os aspectos sensoriais que compõe a integridade do alimento, como por exemplo: se a aparência geral, como cor e texturas, está com características aceitáveis, os aspectos da embalagem, conforme discutido no item 5.1.6 Condições de embalagem, entre outros. Somente podem ser doados alimentos aprovados na avaliação da integridade.";Leonardo Melo, RM 567097;data_revisao = 2026-11-08;sim;sim;sim;sim;sim;sim;sim;aprovado;;
+QA-0163;qa;qa;D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf;sorteio_25pct_estratificado;"PERGUNTA: O doador pode ser responsabilizado por danos causados por alimentos doados?
+RESPOSTA: Sim, mas apenas se o doador agiu ou se omitiu intencionalmente, seja para causar o dano ou assumir esse risco.";Dessa forma, a responsabilização do doador ou do intermediário por danos causados pelos alimentos doados somente pode ocorrer quando esses atores agem ou se omitem intencionalmente, seja visando causar esse dano ou, de alguma forma, assumindo esse risco.;"Dessa forma, a responsabilização do doador ou do intermediário por danos causados pelos alimentos doados somente pode ocorrer quando esses atores agem ou se omitem intencionalmente, seja visando causar esse dano ou, de alguma forma, assumindo esse risco.
+
+A apuração de infrações sanitárias deve se iniciar com a instauração de Processo Administrativo Sanitário (PAS), com a lavratura do Auto de Infração Sanitária (AIS), conforme estabelece a Lei nº 6.437/1977. Assim, durante esse processo é possível coletar elementos adicionais, caso necessário, que configurem ou não o dolo.
+
+Doadores e intermediários que sejam autuados têm a oportunidade de apresentarem suas manifestações e recursos após a lavratura do AIS, de forma a demonstrar a inexistência de dolo ou refutar os elementos presentes na autuação.
+
+A necessidade de avaliação da existência de dolo para responsabilização por infração sanitária é uma exigência aplicável somente no caso de doação de excedentes de alimentos não comercializados. Nas demais situações, a imputação da responsabilidade deve seguir os preceitos da Lei nº 6437/1977:
+
+Art. 3º - O resultado da infração sanitária é imputável a quem lhe deu causa ou para ela concorreu.
+
+§ 1º - Considera-se causa a ação ou omissão sem a qual a infração não teria ocorrido.
+
+§ 2º - Exclui a imputação de infração a causa decorrente de força maior ou proveniente de eventos naturais ou circunstâncias imprevisíveis, que vier a determinar avaria, deterioração ou alteração de produtos ou bens do interesse da saúde pública.
+
+9 CONSIDERAÇÕES FINAIS As Boas Práticas constituem um conjunto de procedimentos conhecidos como os melhores para se executar determinada ação, de forma padronizada, considerando as principais causas das DTHA e em quais situações podem acontecer. Na doação de alimentos, as Boas Práticas visam garantir maior segurança sanitária nesse processo e minimizar o risco de DTHA.";Leonardo Melo, RM 567097;data_revisao = 2026-11-08;sim;sim;sim;sim;sim;sim;sim;aprovado;;
+QA-0165;qa;qa;D2_RDC_ANVISA_216_2004.html;sorteio_25pct_estratificado;"PERGUNTA: O que devo fazer para garantir a higiene dos utensílios usados para servir alimentos?
+RESPOSTA: Os utensílios devem ser descartáveis ou, quando feitos de material não-descartável, devidamente higienizados e armazenados em local protegido.";Os utensílios utilizados na consumação do alimento, tais como pratos, copos, talheres, devem ser descartáveis ou, quando feitos de material não-descartável, devidamente higienizados, sendo armazenados em local protegido.;"4.10.2 Os manipuladores devem adotar procedimentos que minimizem o risco de contaminação dos alimentos preparados por meio da anti-sepsia das mãos e pelo uso de utensílios ou luvas descartáveis.
+
+4.10.3 Os equipamentos necessários à exposição ou distribuição de alimentos preparados sob temperaturas controladas, devem ser devidamente dimensionados, e estar em adequado estado de higiene, conservação e funcionamento. A temperatura desses equipamentos deve ser regularmente monitorada.
+
+4.10.4 O equipamento de exposição do alimento preparado na área de consumação deve dispor de barreiras de proteção que previnam a contaminação do mesmo em decorrência da proximidade ou da ação do consumidor e de outras fontes.
+
+4.10.5 Os utensílios utilizados na consumação do alimento, tais como pratos, copos, talheres, devem ser descartáveis ou, quando feitos de material não-descartável, devidamente higienizados, sendo armazenados em local protegido.
+
+4.10.6 Os ornamentos e plantas localizados na área de consumação ou refeitório não devem constituir fonte de contaminação para os alimentos preparados.
+
+4.10.7 A área do serviço de alimentação onde se realiza a atividade de recebimento de dinheiro, cartões e outros meios utilizados para o pagamento de despesas, deve ser reservada. Os funcionários responsáveis por essa atividade não devem manipular alimentos preparados, embalados ou não.
+
+4.11 DOCUMENTAÇÃO E REGISTRO
+
+4.11.1 Os serviços de alimentação devem dispor de Manual de Boas Práticas e de Procedimentos Operacionais Padronizados. Esses documentos devem estar acessíveis aos funcionários envolvidos e disponíveis à autoridade sanitária, quando requerido.
+
+4.11.2 Os POP devem conter as instruções seqüenciais das operações e a freqüência de execução, especificando o nome, o cargo e ou a função dos responsáveis pelas atividades. Devem ser aprovados, datados e assinados pelo responsável do estabelecimento.";Leonardo Melo, RM 567097;data_revisao = 2026-11-08;sim;sim;sim;sim;sim;sim;sim;aprovado;;
+QA-0167;qa;qa;D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf;sorteio_25pct_estratificado;"PERGUNTA: Quando um alimento não é aceito comercialmente devido ao seu tamanho, como proceder?
+RESPOSTA: Esses alimentos podem ser direcionados para instituições que possam usar técnicas culinárias de beneficiamento, como transformar uma fruta em geleia.";Nesses casos, é necessário direcionar esses alimentos para instituições que tenham a possibilidade de usá-los empregando uma técnica culinária de beneficiamento. Por exemplo, transformando uma fruta em geleia.;"Para fins de seleção, essas imagens dos danos graves auxiliam na decisão em rejeitar ou não o alimento no momento da doação e, da mesma forma, orienta os intermediários na etapa de recepção.
+
+Portanto, recomenda-se a utilização das orientações apresentadas no Anexo I deste Guia.
+
+Existem situações em que hortaliças ou frutas não são aceitas comercialmente devido, por exemplo, ao seu tamanho. Nessas situações, o vegetal pode não estar palatável em consequência do seu crescimento excessivo, formando um tecido rígido, de difícil cozimento e com perda de sabor. Nesses casos, é necessário direcionar esses alimentos para instituições que tenham a possibilidade de usá-los empregando uma técnica culinária de beneficiamento. Por exemplo, transformando uma fruta em geleia.
+
+Se houver um alimento com a cor característica de muito maduro ou com danos superficiais que não comprometam a segurança sanitária, o descarte pode excepcionalmente não ocorrer desde que o intermediário seja capaz de processar o alimento de forma segura ou se a instituição beneficiária possuir estrutura física adequada, cumprir as Boas Práticas e dispor de manipuladores capacitados para o processamento.
+
+Garantidas essas condições, os alimentos podem ser doados e aproveitados, após serem selecionados um a um. Recomenda-se que o doador, busque as informações necessárias que comprovem se o intermediário ou a entidade beneficiária ou beneficente têm condições de assegurar que o processo físico e térmico a que o alimento será submetido resulte em um produto seguro para consumo. Exemplo: processamento de fruto ou vegetal para produção de molho, conserva, geleias, bolos ou polpa para suco.
+
+Grupo de grãos, cereais e farináceos Os alimentos que compõem este grupo de alimentos são, por exemplo: amido de milho, fubá, farinha de trigo, farinha de milho, farinha de mandioca, arroz, feijão, aveia, macarrão, centeio, lentilha e grão de bico.";Leonardo Melo, RM 567097;data_revisao = 2026-11-08;sim;sim;sim;sim;sim;sim;sim;aprovado;;
+QA-0168;qa;qa;D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf;sorteio_25pct_estratificado;"PERGUNTA: Quanto tempo posso manter sobremesas e lacticínios antes de doá-las?
+RESPOSTA: Sobremesas e lacticínios devem ser mantidos a 4°C por 3 dias ou acima de 4°C até 6°C por 2 dias ou acima de 6°C até 8°C por 1 dia.";Sobremesas e outras preparações com lacticínios: no máximo a 4°C por 3 dias ou acima de 4°C até 6°C por 2 dias ou acima de 6°C até 8°C por 1 dia;"Sobremesas e outras preparações com lacticínios: no máximo a 4°C por 3 dias ou acima de 4°C até 6°C por 2 dias ou acima de 6°C até 8°C por 1 dia;
+
+Maionese e misturas de maionese com outros alimentos: no máximo a 4°C por 2 dias ou acima de 4°C até 6°C por 1 dia;
+
+Frios e embutidos fatiados, picados ou moídos: no máximo a 4°C por 3 dias.
+
+Os critérios estabelecidos variam de acordo com o Estado e/ou Munícipio, por isso recomenda-se consultar a Vigilância Sanitária local para verificação das regras específicas para os serviços de alimentação.
+
+Importante ressaltar que falhas associadas ao tempo e temperatura dos alimentos para o consumo estão relacionadas com situações que causam as DTHA.
+
+5.1.5 Condições de conservação Quanto à avaliação das condições de conservação, primeiramente, recomenda-se confirmar se o alimento a ser doado encontra-se dentro das especificações de conservação do fabricante ou produtor.
+
+Para auxiliar nesta avaliação, os principais critérios legais de conservação estão divididos em: alimentos preparados mantidos a quente e a frio; alimentos in natura; alimentos industrializados; e alimentos preparados e expostos, sem embalagem de proteção.
+
+É importante lembrar que os alimentos preparados que foram mantidos em temperaturas e tempo inadequados podem levar diretamente às DTHA. Essas situações permitem a multiplicação ou sobrevivência de microrganismos patogênicos e são consideradas como a primeira causa de DTHA no Brasil.
+
+A RDC nº 216/2004 apresenta critérios de conservação dos alimentos prontos para o consumo, que estão resumidos no Quadro 1 que segue.
+
+Quadro 1 – Critérios de tempo e temperatura para alimentos quentes e frios, entre o período de produção até a distribuição ou doação, 2022.";Leonardo Melo, RM 567097;data_revisao = 2026-11-08;sim;sim;sim;sim;sim;sim;sim;aprovado;;
+QA-0171;qa;qa;D1_Lei_15224_2025.htm;sorteio_25pct_estratificado;"PERGUNTA: Se houver um dano causado pelos alimentos doados, quem pode ser responsabilizado?
+RESPOSTA: O doador de alimentos e o intermediário apenas responderão civilmente por danos ocasionados pelos alimentos doados quando houver dolo.";O doador de alimentos e o intermediário apenas responderão civilmente por danos ocasionados pelos alimentos doados quando houver dolo, nos termos do art. 392 da Lei nº 10.406, de 10 de janeiro de 2002 (Código Civil).;"A doação de alimentos, nos termos desta Lei, constituirá exceção ao regime da responsabilidade objetiva disposto no art. 931 da Lei nº 10.406, de 10 de janeiro de 2002 (Código Civil), e nos arts. 12 e 13 da Lei nº 8.078, de 11 de setembro de 1990 (Código de Defesa do Consumidor).
+
+Art. 16. O doador de alimentos e o intermediário apenas responderão civilmente por danos ocasionados pelos alimentos doados quando houver dolo, nos termos do art. 392 da Lei nº 10.406, de 10 de janeiro de 2002 (Código Civil).
+
+Art. 17. A doação de alimentos, nos termos desta Lei, não configurará, em nenhuma hipótese, relação de consumo, ainda que haja finalidade de publicidade direta ou indireta.
+
+CAPÍTULO VI DISPOSIÇÕES FINAIS
+
+Art. 18. (VETADO).
+
+Art. 19. Fica revogada a Lei nº 14.016, de 23 de junho de 2020.
+
+Art. 20. Esta Lei entra em vigor na data de sua publicação.
+
+Brasília, 30 de setembro de 2025; 204º da Independência e 137º da República.
+
+[NOME]
+
+*";Leonardo Melo, RM 567097;data_revisao = 2026-11-08;sim;sim;sim;sim;sim;sim;sim;aprovado;;

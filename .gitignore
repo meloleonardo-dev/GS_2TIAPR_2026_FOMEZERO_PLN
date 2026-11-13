@@ -1,0 +1,11 @@
+# Ambiente e caches locais (não vão para o repositório)
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.env
+.env.*
+# arquivos do tokenizador do Qwen2.5 (baixados de novo automaticamente pelo código)
+.tokenizador_qwen/
+# saídas temporárias da interface Gradio e dos testes
+saidas/interface/
+saidas/_teste_m7_SIMULADO/

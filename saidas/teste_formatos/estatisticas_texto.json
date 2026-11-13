@@ -1,0 +1,624 @@
+{
+ "gerado_em": "2026-11-11T11:30:46",
+ "corpus_texto": {
+  "candidatos": 101,
+  "gravados": 101,
+  "duplicatas_removidas": 0
+ },
+ "verificacao_documentos": {
+  "n_documentos_fonte": 2,
+  "documentos": [
+   {
+    "doc_id": "D3",
+    "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+    "formato": "pdf",
+    "tipo": "fonte_oficial",
+    "paginas": 113,
+    "bytes": 3002587
+   },
+   {
+    "doc_id": "D1",
+    "fonte": "D1_Lei_15224_2025.htm",
+    "formato": "html",
+    "tipo": "fonte_oficial",
+    "paginas": null,
+    "bytes": 40986
+   },
+   {
+    "doc_id": "T01",
+    "fonte": "teste_SIMULADO.txt",
+    "formato": "txt",
+    "tipo": "teste_simulado",
+    "paginas": null,
+    "bytes": 1010
+   },
+   {
+    "doc_id": "T02",
+    "fonte": "teste_SIMULADO.docx",
+    "formato": "docx",
+    "tipo": "teste_simulado",
+    "paginas": null,
+    "bytes": 36046
+   },
+   {
+    "doc_id": "C01",
+    "fonte": "texto_colado_01",
+    "formato": "colado",
+    "tipo": "texto_colado",
+    "paginas": null,
+    "bytes": 901
+   }
+  ],
+  "paginas_pdf": {
+   "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf": 113
+  },
+  "total_paginas_pdf": 113,
+  "ok": false,
+  "avisos": [
+   "há 2 documentos-fonte; o enunciado pede de 3 a 5"
+  ]
+ },
+ "por_documento": {
+  "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf": {
+   "doc_id": "D3",
+   "formato": "pdf",
+   "tipo": "fonte_oficial",
+   "paginas": 113,
+   "avisos": [],
+   "extrator_pdf": {
+    "pdfplumber": 113
+   },
+   "n_blocos_extraidos": 113,
+   "n_blocos_limpos": 106,
+   "n_paragrafos": 751,
+   "caracteres_extraidos": 182184,
+   "caracteres_finais": 162141,
+   "limpeza": {
+    "numeracao_pagina": 113,
+    "caracteres_estranhos": 233,
+    "secao_referencias": 203,
+    "secao_referencias_fim": 1,
+    "url_solta": 1,
+    "url_solta_linha": 1,
+    "linha_repetida_titulo_corrido": 15,
+    "hifenizacao_mantida": 1,
+    "hifenizacao_juntada": 2
+   },
+   "teste_preservacao_m4": {
+    "antes": {
+     "acentuadas": 5908,
+     "maiusculas": 4385,
+     "pontuacao": 5125
+    },
+    "depois": {
+     "acentuadas": 5908,
+     "maiusculas": 4385,
+     "pontuacao": 5125
+    },
+    "unioes_entre_paginas": 14,
+    "hifens_juntados_entre_paginas": 0,
+    "preservado": true
+   },
+   "anonimizacao": {
+    "EMAIL": 0,
+    "CPF": 0,
+    "TELEFONE": 0,
+    "NOME": 35
+   },
+   "segmentacao": {
+    "fonte": "D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf",
+    "descartado": false,
+    "tokens_documento": 44300,
+    "n_trechos": 93,
+    "fora_da_faixa": 0,
+    "excecoes": []
+   },
+   "teste_ordem_palavras": {
+    "palavras_texto_anonimizado": 24206,
+    "palavras_nos_trechos": 24206,
+    "mesma_sequencia": true
+   },
+   "palavras_funcao": {
+    "M2_extraido": {
+     "de": 1791,
+     "a": 752,
+     "o": 463,
+     "que": 436,
+     "e": 968,
+     "do": 311,
+     "da": 272,
+     "em": 341,
+     "um": 63,
+     "para": 454,
+     "com": 213,
+     "não": 190,
+     "os": 248,
+     "as": 233,
+     "no": 179,
+     "na": 128
+    },
+    "M5_anonimizado": {
+     "de": 1520,
+     "a": 717,
+     "o": 449,
+     "que": 433,
+     "e": 914,
+     "do": 295,
+     "da": 234,
+     "em": 265,
+     "um": 63,
+     "para": 425,
+     "com": 196,
+     "não": 190,
+     "os": 247,
+     "as": 231,
+     "no": 172,
+     "na": 128
+    },
+    "M6_trechos": {
+     "de": 1520,
+     "a": 717,
+     "o": 449,
+     "que": 433,
+     "e": 914,
+     "do": 295,
+     "da": 234,
+     "em": 265,
+     "um": 63,
+     "para": 425,
+     "com": 196,
+     "não": 190,
+     "os": 247,
+     "as": 231,
+     "no": 172,
+     "na": 128
+    }
+   }
+  },
+  "D1_Lei_15224_2025.htm": {
+   "doc_id": "D1",
+   "formato": "html",
+   "tipo": "fonte_oficial",
+   "paginas": null,
+   "avisos": [
+    "codificação cp1252 (detecção (pontuação de letras do português))",
+    "codificação cp1252 (detecção (pontuação de letras do português))"
+   ],
+   "extrator_pdf": null,
+   "n_blocos_extraidos": 80,
+   "n_blocos_limpos": 77,
+   "n_paragrafos": 77,
+   "caracteres_extraidos": 11754,
+   "caracteres_finais": 11450,
+   "limpeza": {
+    "bloco_institucional_html": 3
+   },
+   "teste_preservacao_m4": {
+    "antes": {
+     "acentuadas": 440,
+     "maiusculas": 539,
+     "pontuacao": 327
+    },
+    "depois": {
+     "acentuadas": 440,
+     "maiusculas": 539,
+     "pontuacao": 327
+    },
+    "unioes_entre_paginas": 0,
+    "hifens_juntados_entre_paginas": 0,
+    "preservado": true
+   },
+   "anonimizacao": {
+    "EMAIL": 0,
+    "CPF": 0,
+    "TELEFONE": 0,
+    "NOME": 1
+   },
+   "segmentacao": {
+    "fonte": "D1_Lei_15224_2025.htm",
+    "descartado": false,
+    "tokens_documento": 3275,
+    "n_trechos": 7,
+    "fora_da_faixa": 0,
+    "excecoes": []
+   },
+   "teste_ordem_palavras": {
+    "palavras_texto_anonimizado": 1789,
+    "palavras_nos_trechos": 1789,
+    "mesma_sequencia": true
+   },
+   "palavras_funcao": {
+    "M2_extraido": {
+     "de": 187,
+     "a": 57,
+     "o": 32,
+     "que": 25,
+     "e": 85,
+     "do": 17,
+     "da": 39,
+     "em": 12,
+     "um": 0,
+     "para": 20,
+     "com": 9,
+     "não": 4,
+     "os": 20,
+     "as": 12,
+     "no": 9,
+     "na": 11
+    },
+    "M5_anonimizado": {
+     "de": 184,
+     "a": 57,
+     "o": 31,
+     "que": 25,
+     "e": 85,
+     "do": 17,
+     "da": 37,
+     "em": 12,
+     "um": 0,
+     "para": 19,
+     "com": 9,
+     "não": 3,
+     "os": 20,
+     "as": 12,
+     "no": 8,
+     "na": 11
+    },
+    "M6_trechos": {
+     "de": 184,
+     "a": 57,
+     "o": 31,
+     "que": 25,
+     "e": 85,
+     "do": 17,
+     "da": 37,
+     "em": 12,
+     "um": 0,
+     "para": 19,
+     "com": 9,
+     "não": 3,
+     "os": 20,
+     "as": 12,
+     "no": 8,
+     "na": 11
+    }
+   }
+  },
+  "teste_SIMULADO.txt": {
+   "doc_id": "T01",
+   "formato": "txt",
+   "tipo": "teste_simulado",
+   "paginas": null,
+   "avisos": [
+    "codificação utf-8 (utf-8 estrito)",
+    "codificação utf-8 (utf-8 estrito)"
+   ],
+   "extrator_pdf": null,
+   "n_blocos_extraidos": 8,
+   "n_blocos_limpos": 7,
+   "n_paragrafos": 7,
+   "caracteres_extraidos": 924,
+   "caracteres_finais": 792,
+   "limpeza": {
+    "numeracao_pagina": 1,
+    "url_solta": 1,
+    "linha_repetida_seguida": 1,
+    "hifenizacao_juntada": 1
+   },
+   "teste_preservacao_m4": {
+    "antes": {
+     "acentuadas": 43,
+     "maiusculas": 67,
+     "pontuacao": 36
+    },
+    "depois": {
+     "acentuadas": 43,
+     "maiusculas": 67,
+     "pontuacao": 36
+    },
+    "unioes_entre_paginas": 0,
+    "hifens_juntados_entre_paginas": 0,
+    "preservado": true
+   },
+   "anonimizacao": {
+    "EMAIL": 1,
+    "CPF": 1,
+    "TELEFONE": 1,
+    "NOME": 1
+   },
+   "segmentacao": {
+    "fonte": "teste_SIMULADO.txt",
+    "descartado": true,
+    "motivo": "documento com 243 tokens (< 256)",
+    "tokens_documento": 243,
+    "excecoes": []
+   },
+   "teste_ordem_palavras": {
+    "palavras_texto_anonimizado": 126,
+    "palavras_nos_trechos": 0,
+    "mesma_sequencia": null
+   },
+   "palavras_funcao": {
+    "M2_extraido": {
+     "de": 11,
+     "a": 5,
+     "o": 3,
+     "que": 1,
+     "e": 6,
+     "do": 1,
+     "da": 3,
+     "em": 1,
+     "um": 2,
+     "para": 2,
+     "com": 2,
+     "não": 2,
+     "os": 0,
+     "as": 0,
+     "no": 1,
+     "na": 0
+    },
+    "M5_anonimizado": {
+     "de": 10,
+     "a": 5,
+     "o": 3,
+     "que": 1,
+     "e": 6,
+     "do": 1,
+     "da": 2,
+     "em": 1,
+     "um": 2,
+     "para": 2,
+     "com": 0,
+     "não": 2,
+     "os": 0,
+     "as": 0,
+     "no": 1,
+     "na": 0
+    },
+    "M6_trechos": {
+     "de": 0,
+     "a": 0,
+     "o": 0,
+     "que": 0,
+     "e": 0,
+     "do": 0,
+     "da": 0,
+     "em": 0,
+     "um": 0,
+     "para": 0,
+     "com": 0,
+     "não": 0,
+     "os": 0,
+     "as": 0,
+     "no": 0,
+     "na": 0
+    }
+   }
+  },
+  "teste_SIMULADO.docx": {
+   "doc_id": "T02",
+   "formato": "docx",
+   "tipo": "teste_simulado",
+   "paginas": null,
+   "avisos": [],
+   "extrator_pdf": null,
+   "n_blocos_extraidos": 12,
+   "n_blocos_limpos": 11,
+   "n_paragrafos": 11,
+   "caracteres_extraidos": 984,
+   "caracteres_finais": 862,
+   "limpeza": {
+    "numeracao_pagina": 1,
+    "url_solta": 1
+   },
+   "teste_preservacao_m4": {
+    "antes": {
+     "acentuadas": 47,
+     "maiusculas": 83,
+     "pontuacao": 43
+    },
+    "depois": {
+     "acentuadas": 47,
+     "maiusculas": 83,
+     "pontuacao": 43
+    },
+    "unioes_entre_paginas": 0,
+    "hifens_juntados_entre_paginas": 0,
+    "preservado": true
+   },
+   "anonimizacao": {
+    "EMAIL": 2,
+    "CPF": 1,
+    "TELEFONE": 1,
+    "NOME": 1
+   },
+   "segmentacao": {
+    "fonte": "teste_SIMULADO.docx",
+    "descartado": false,
+    "tokens_documento": 269,
+    "n_trechos": 1,
+    "fora_da_faixa": 0,
+    "excecoes": []
+   },
+   "teste_ordem_palavras": {
+    "palavras_texto_anonimizado": 134,
+    "palavras_nos_trechos": 134,
+    "mesma_sequencia": true
+   },
+   "palavras_funcao": {
+    "M2_extraido": {
+     "de": 9,
+     "a": 5,
+     "o": 3,
+     "que": 1,
+     "e": 6,
+     "do": 1,
+     "da": 2,
+     "em": 1,
+     "um": 2,
+     "para": 2,
+     "com": 3,
+     "não": 2,
+     "os": 0,
+     "as": 0,
+     "no": 1,
+     "na": 0
+    },
+    "M5_anonimizado": {
+     "de": 8,
+     "a": 5,
+     "o": 3,
+     "que": 1,
+     "e": 6,
+     "do": 1,
+     "da": 1,
+     "em": 1,
+     "um": 2,
+     "para": 2,
+     "com": 0,
+     "não": 2,
+     "os": 0,
+     "as": 0,
+     "no": 1,
+     "na": 0
+    },
+    "M6_trechos": {
+     "de": 8,
+     "a": 5,
+     "o": 3,
+     "que": 1,
+     "e": 6,
+     "do": 1,
+     "da": 1,
+     "em": 1,
+     "um": 2,
+     "para": 2,
+     "com": 0,
+     "não": 2,
+     "os": 0,
+     "as": 0,
+     "no": 1,
+     "na": 0
+    }
+   }
+  },
+  "texto_colado_01": {
+   "doc_id": "C01",
+   "formato": "colado",
+   "tipo": "texto_colado",
+   "paginas": null,
+   "avisos": [],
+   "extrator_pdf": null,
+   "n_blocos_extraidos": 3,
+   "n_blocos_limpos": 3,
+   "n_paragrafos": 3,
+   "caracteres_extraidos": 864,
+   "caracteres_finais": 864,
+   "limpeza": {},
+   "teste_preservacao_m4": {
+    "antes": {
+     "acentuadas": 31,
+     "maiusculas": 4,
+     "pontuacao": 14
+    },
+    "depois": {
+     "acentuadas": 31,
+     "maiusculas": 4,
+     "pontuacao": 14
+    },
+    "unioes_entre_paginas": 0,
+    "hifens_juntados_entre_paginas": 0,
+    "preservado": true
+   },
+   "anonimizacao": {
+    "EMAIL": 0,
+    "CPF": 0,
+    "TELEFONE": 0,
+    "NOME": 0
+   },
+   "segmentacao": {
+    "fonte": "texto_colado_01",
+    "descartado": true,
+    "motivo": "documento com 213 tokens (< 256)",
+    "tokens_documento": 213,
+    "excecoes": []
+   },
+   "teste_ordem_palavras": {
+    "palavras_texto_anonimizado": 124,
+    "palavras_nos_trechos": 0,
+    "mesma_sequencia": null
+   },
+   "palavras_funcao": {
+    "M2_extraido": {
+     "de": 7,
+     "a": 4,
+     "o": 0,
+     "que": 4,
+     "e": 7,
+     "do": 1,
+     "da": 0,
+     "em": 1,
+     "um": 0,
+     "para": 2,
+     "com": 1,
+     "não": 2,
+     "os": 5,
+     "as": 3,
+     "no": 0,
+     "na": 2
+    },
+    "M5_anonimizado": {
+     "de": 7,
+     "a": 4,
+     "o": 0,
+     "que": 4,
+     "e": 7,
+     "do": 1,
+     "da": 0,
+     "em": 1,
+     "um": 0,
+     "para": 2,
+     "com": 1,
+     "não": 2,
+     "os": 5,
+     "as": 3,
+     "no": 0,
+     "na": 2
+    },
+    "M6_trechos": {
+     "de": 0,
+     "a": 0,
+     "o": 0,
+     "que": 0,
+     "e": 0,
+     "do": 0,
+     "da": 0,
+     "em": 0,
+     "um": 0,
+     "para": 0,
+     "com": 0,
+     "não": 0,
+     "os": 0,
+     "as": 0,
+     "no": 0,
+     "na": 0
+    }
+   }
+  }
+ },
+ "varredura_pre_gravacao": {},
+ "modulos_nltk_carregados": [],
+ "sha256_corpus_texto": {
+  "C:\\Users\\silva\\Downloads\\GS_2TIAPR_2026_ERICK_LEO_LUNA\\05_ENTREGAVEIS\\PLN\\saidas\\teste_formatos": "B98AAF7CB3CCF3024740FBBF058DF95F814364CBCCE18AFA5E05AC4F3EAA647D"
+ },
+ "exemplo_anonimizacao": {
+  "antes_SIMULADO": "Contato do doador: Maria Fictícia da Silva, CPF 123.456.789-00, e-mail maria.ficticia@example.com, telefone (11) 90000-0000. O lote de doação sai às 14h.",
+  "depois": "Contato do doador: [NOME], CPF [CPF], e-mail [EMAIL], telefone [TELEFONE]. O lote de doação sai às 14h.",
+  "ocorrencias": {
+   "EMAIL|regex_email": 1,
+   "CPF|regex_cpf": 1,
+   "TELEFONE|regex_telefone": 1,
+   "NOME|ner_per": 1
+  }
+ }
+}

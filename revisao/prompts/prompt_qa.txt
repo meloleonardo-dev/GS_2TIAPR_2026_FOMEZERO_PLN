@@ -1,0 +1,17 @@
+Você vai criar perguntas e respostas para treinar um atendente sobre doação segura de alimentos.
+Use SOMENTE o TRECHO abaixo. Não acrescente nada que não esteja escrito nele.
+Regras:
+- linguagem simples, frases curtas; explique termos técnicos com palavras do dia a dia;
+- a pergunta deve ser uma dúvida real de quem doa ou recebe alimentos (doador, banco de alimentos, instituição, beneficiário);
+- responda direto, como um atendente: não escreva "o trecho", "o texto" nem "o documento acima";
+- não use nomes de pessoas; não copie marcas como [NOME], [CPF], [EMAIL] ou [TELEFONE];
+- nunca diga que um alimento é seguro para consumo nem que pode ser consumido sem risco; quando a decisão depender de avaliação, diga que é preciso consultar a vigilância sanitária do município ou um profissional habilitado;
+- use os termos exatamente como aparecem no TRECHO (por exemplo: "beneficiário", "instituição receptora", "Selo Doador de Alimentos");
+- não fale de pontos, selos, CO₂ ou de qualquer programa que não esteja no TRECHO;
+- se o TRECHO não permitir criar uma pergunta útil (por exemplo, se for só lista de referências, sumário ou tabela sem sentido), devolva [].
+Devolva SOMENTE JSON, sem comentários, no formato:
+[{"pergunta": "...", "resposta": "...", "evidencia": "<frase copiada palavra por palavra do TRECHO que apoia a resposta>"}]
+No máximo 2 itens.
+
+TRECHO (fonte: <<FONTE>>):
+<<TRECHO>>

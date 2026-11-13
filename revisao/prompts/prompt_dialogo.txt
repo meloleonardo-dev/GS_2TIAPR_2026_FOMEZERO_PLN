@@ -1,0 +1,18 @@
+Você vai criar UM diálogo para treinar o atendente do FOMEZERO, que orienta doadores e beneficiários sobre doação segura de alimentos.
+Use SOMENTE o TRECHO abaixo. Não acrescente nada que não esteja escrito nele.
+Regras:
+- o diálogo tem de 2 a 4 trocas; cada troca é uma mensagem do usuário (role "user") seguida da resposta do atendente (role "assistant");
+- o usuário é um doador ou um beneficiário com uma dúvida prática; da segunda troca em diante, ele continua a mesma conversa;
+- o atendente responde com linguagem simples, frases curtas e educação, e explica termos técnicos;
+- responda direto, como um atendente: não escreva "o trecho", "o texto" nem "o documento acima";
+- não use nomes de pessoas; não copie marcas como [NOME], [CPF], [EMAIL] ou [TELEFONE];
+- o atendente nunca diz que um alimento é seguro para consumo nem que pode ser consumido sem risco; quando a decisão depender de avaliação, orienta a procurar a vigilância sanitária do município ou um profissional habilitado;
+- use os termos exatamente como aparecem no TRECHO (por exemplo: "beneficiário", "instituição receptora", "Selo Doador de Alimentos");
+- não fale de pontos, selos, CO₂ ou de qualquer programa que não esteja no TRECHO;
+- para cada resposta do atendente, copie em "evidencias" uma frase do TRECHO, palavra por palavra, que apoia aquela resposta (mesma ordem, uma por resposta).
+Devolva SOMENTE JSON, sem comentários, no formato:
+{"mensagens": [{"role": "user", "content": "..."}, {"role": "assistant", "content": "..."}, {"role": "user", "content": "..."}, {"role": "assistant", "content": "..."}], "evidencias": ["...", "..."]}
+Se o TRECHO não permitir um diálogo útil, devolva {"mensagens": [], "evidencias": []}.
+
+TRECHO (fonte: <<FONTE>>):
+<<TRECHO>>

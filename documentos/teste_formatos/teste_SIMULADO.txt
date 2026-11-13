@@ -1,0 +1,17 @@
+SIMULADO — arquivo de teste de formato da Fábrica de Corpus FOMEZERO. Não é documento oficial.
+
+Este texto é SIMULADO e serve só para testar a leitura do arquivo, a limpeza, a normalização e a anonimização. Nenhuma frase daqui é orientação sanitária.
+
+Cadastro SIMULADO de um lote de doação: o doador fictício Maria Fictícia da Silva, CPF 123.456.789-00, e-mail maria.ficticia@example.com, telefone (11) 90000-0000, registrou um lote de doação fictício para uma cozinha comunitária fictícia.
+
+Teste de hifenização e de aspas: a palavra “conser-
+vação” foi quebrada no fim da linha; o termo ‘lote de doação’ usa aspas curvas; o espaço não separável e    espaços repetidos devem ser padronizados.
+
+Teste de URL solta: mais detalhes em https://www.example.com/teste-SIMULADO.
+
+Linha repetida SIMULADO
+Linha repetida SIMULADO
+
+Página 1 de 1
+
+Acentos e maiúsculas que devem continuar: ação, órgão, Vigilância Sanitária, AÇÚCAR, pêssego, você.

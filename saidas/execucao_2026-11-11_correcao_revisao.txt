@@ -1,0 +1,12 @@
+Python 3.14.4 · pasta C:\Users\silva\Downloads\GS_2TIAPR_2026_ERICK_LEO_LUNA\05_ENTREGAVEIS\PLN
+[revisão aplicada] qa: {'candidatos_gerados': 172, 'rejeitados_filtro': 29, 'duplicatas_removidas': 0, 'base_ia': 143, 'revisados': 41, 'pct_revisado': 28.7, 'aprovados': 40, 'corrigidos': 1, 'rejeitados_revisao': 0, 'gravados': 143}
+[revisão aplicada] chat: {'candidatos_gerados': 184, 'rejeitados_filtro': 123, 'duplicatas_removidas': 0, 'base_ia': 52, 'revisados': 29, 'pct_revisado': 55.8, 'aprovados': 27, 'corrigidos': 2, 'rejeitados_revisao': 0, 'gravados': 52, 'recusas_no_corpus': 12, 'dialogos_documentais_no_corpus': 40, 'indices_recusas': [40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51]}
+[M8] texto: OK
+[M8] qa: OK
+[M8] chat: OK
+Python 3.14.4 · pasta C:\Users\silva\Downloads\GS_2TIAPR_2026_ERICK_LEO_LUNA\05_ENTREGAVEIS\PLN
+[revisão aplicada] qa: {'candidatos_gerados': 172, 'rejeitados_filtro': 29, 'duplicatas_removidas': 0, 'base_ia': 143, 'revisados': 41, 'pct_revisado': 28.7, 'aprovados': 40, 'corrigidos': 1, 'rejeitados_revisao': 0, 'gravados': 143}
+[revisão aplicada] chat: {'candidatos_gerados': 184, 'rejeitados_filtro': 123, 'duplicatas_removidas': 0, 'base_ia': 52, 'revisados': 29, 'pct_revisado': 55.8, 'aprovados': 27, 'corrigidos': 2, 'rejeitados_revisao': 0, 'gravados': 52, 'recusas_no_corpus': 12, 'dialogos_documentais_no_corpus': 40, 'indices_recusas': [40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51]}
+[M8] texto: OK
+[M8] qa: OK
+[M8] chat: OK

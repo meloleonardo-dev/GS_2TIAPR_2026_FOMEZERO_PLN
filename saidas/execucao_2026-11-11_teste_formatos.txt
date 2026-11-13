@@ -1,0 +1,41 @@
+Python 3.14.4 · pasta C:\Users\silva\Downloads\GS_2TIAPR_2026_ERICK_LEO_LUNA\05_ENTREGAVEIS\PLN
+== etapa teste-formatos · 2026-11-11T11:27:13
+[teste-formatos] pdf: D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf (fonte_oficial) -> 113 blocos; 1º bloco pagina=1
+[teste-formatos] html: D1_Lei_15224_2025.htm (fonte_oficial) -> 80 blocos; 1º bloco secao=1
+[teste-formatos] txt: teste_SIMULADO.txt (teste_simulado) -> 8 blocos; 1º bloco secao=1
+[teste-formatos] docx: teste_SIMULADO.docx (teste_simulado) -> 12 blocos; 1º bloco secao=1
+[teste-formatos] colado: texto_colado_01 (texto_colado) -> 3 blocos; 1º bloco secao=1
+[teste-formatos] assinatura errada -> recusado: arquivo_falso_SIMULADO.pdf: extensão .pdf, mas o arquivo não começa com %PDF
+[M2] extraindo D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf (pdf)
+[M3] limpando D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf: 113 blocos extraídos
+[M4] normalizando D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf
+[M2] extraindo D1_Lei_15224_2025.htm (html)
+[M3] limpando D1_Lei_15224_2025.htm: 80 blocos extraídos
+[M4] normalizando D1_Lei_15224_2025.htm
+[M2] extraindo teste_SIMULADO.txt (txt)
+[M3] limpando teste_SIMULADO.txt: 8 blocos extraídos
+[M4] normalizando teste_SIMULADO.txt
+[M2] extraindo teste_SIMULADO.docx (docx)
+[M3] limpando teste_SIMULADO.docx: 12 blocos extraídos
+[M4] normalizando teste_SIMULADO.docx
+[M2] extraindo texto_colado_01 (colado)
+[M3] limpando texto_colado_01: 3 blocos extraídos
+[M4] normalizando texto_colado_01
+[M5] vocabulário de palavras em minúscula dos documentos (filtro de falso positivo do NER): 3605
+[M5] anonimizando D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf: 751 parágrafos
+[M6] segmentando D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf
+[M5] anonimizando D1_Lei_15224_2025.htm: 77 parágrafos
+[M6] segmentando D1_Lei_15224_2025.htm
+[M5] anonimizando teste_SIMULADO.txt: 7 parágrafos
+[M6] segmentando teste_SIMULADO.txt
+[M5] anonimizando teste_SIMULADO.docx: 11 parágrafos
+[M6] segmentando teste_SIMULADO.docx
+[M5] anonimizando texto_colado_01: 3 parágrafos
+[M6] segmentando texto_colado_01
+[M7a] corpus_texto: 101 trechos gravados, 0 duplicatas removidas
+[teste-formatos] D3_Guia_ANVISA_57_2022_Doacao_Alimentos_v1.pdf: máscaras={'EMAIL': 0, 'CPF': 0, 'TELEFONE': 0, 'NOME': 35} trechos=93 
+[teste-formatos] D1_Lei_15224_2025.htm: máscaras={'EMAIL': 0, 'CPF': 0, 'TELEFONE': 0, 'NOME': 1} trechos=7 
+[teste-formatos] teste_SIMULADO.txt: máscaras={'EMAIL': 1, 'CPF': 1, 'TELEFONE': 1, 'NOME': 1} trechos=0 documento com 243 tokens (< 256)
+[teste-formatos] teste_SIMULADO.docx: máscaras={'EMAIL': 2, 'CPF': 1, 'TELEFONE': 1, 'NOME': 1} trechos=1 
+[teste-formatos] texto_colado_01: máscaras={'EMAIL': 0, 'CPF': 0, 'TELEFONE': 0, 'NOME': 0} trechos=0 documento com 213 tokens (< 256)
+[teste-formatos] relatório: C:\Users\silva\Downloads\GS_2TIAPR_2026_ERICK_LEO_LUNA\05_ENTREGAVEIS\PLN\saidas\teste_formatos\teste_formatos.md
