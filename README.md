@@ -97,3 +97,7 @@ como selo oficial.
 ## Dados pessoais e fontes
 Só documentos oficiais (Planalto, ANVISA, BVS/Ministério da Saúde); links em `documentos/LINKS.md`. Os logs não guardam
 nenhum dado original mascarado. Arquivos e exemplos com dados pessoais são **SIMULADO** (fictícios). Nenhuma chave de API é usada.
+
+## Outros módulos do FOMEZERO (mesmo grupo)
+- GENAI: assistente de consulta para doadores (RAG sobre o corpus da PLN): https://github.com/meloleonardo-dev/GS_2TIAPR_2026_FOMEZERO_GENAI
+- AIPA: robô pós-entrega (Termo de Doação, CO₂ evitado, pontos e Selo Verde ESG): https://github.com/meloleonardo-dev/GS_2TIAPR_2026_FOMEZERO_AIPA
