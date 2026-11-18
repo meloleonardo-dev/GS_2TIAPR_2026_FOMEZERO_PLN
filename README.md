@@ -12,7 +12,7 @@ https://github.com/meloleonardo-dev/GS_2TIAPR_2026_FOMEZERO_GENAI
 
 ## Relatório e vídeo
 - Relatório em PDF (6 páginas): `relatorio/relatorio_pln.pdf`.
-- Vídeo (até 5 minutos), do upload até a geração dos corpus: **[PENDENTE: link do vídeo]**. Roteiro em `video/ROTEIRO_VIDEO.md`.
+- Vídeo, do upload até a geração dos corpus: https://www.youtube.com/watch?v=WSwBKQLCIBE (também em `video/link do vídeo.txt`). Roteiro em `video/ROTEIRO_VIDEO.md`.
 
 ## Integrantes
 | Nome | RM |
